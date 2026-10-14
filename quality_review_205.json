@@ -1,0 +1,2447 @@
+{
+  "version": "FRESH V1.8",
+  "generated": "2026-10-14T00:57:43.182Z",
+  "note": "읽기 전용 규칙 점검. 정확성 보장 아님.",
+  "items": [
+    {
+      "id": "ES|파에야",
+      "country": "스페인",
+      "name": "파에야",
+      "status": "done",
+      "title": "파에야",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ES|하몬 이베리코",
+      "country": "스페인",
+      "name": "하몬 이베리코",
+      "status": "candidate",
+      "title": "이베리코 햄",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|토르티야 에스파뇰라",
+      "country": "스페인",
+      "name": "토르티야 에스파뇰라",
+      "status": "candidate",
+      "title": "토르티야 (스페인 음식)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|가스파초",
+      "country": "스페인",
+      "name": "가스파초",
+      "status": "done",
+      "title": "가스파초",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ES|추로스",
+      "country": "스페인",
+      "name": "추로스",
+      "status": "candidate",
+      "title": "추로",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|파타타스 브라바스",
+      "country": "스페인",
+      "name": "파타타스 브라바스",
+      "status": "candidate",
+      "title": "파파타스 브라바스",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|감바스 알 아히요",
+      "country": "스페인",
+      "name": "감바스 알 아히요",
+      "status": "candidate",
+      "title": "감바스 알 아히요",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|풀포 아 라 가예가",
+      "country": "스페인",
+      "name": "풀포 아 라 가예가",
+      "status": "candidate",
+      "title": "폴부 아 페이라",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|크로케타",
+      "country": "스페인",
+      "name": "크로케타",
+      "status": "candidate",
+      "title": "크로케",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|판 콘 토마테",
+      "country": "스페인",
+      "name": "판 콘 토마테",
+      "status": "candidate",
+      "title": "파 암 토마케트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|코시도 마드릴레뇨",
+      "country": "스페인",
+      "name": "코시도 마드릴레뇨",
+      "status": "candidate",
+      "title": "코시도",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|파바다 아스투리아나",
+      "country": "스페인",
+      "name": "파바다 아스투리아나",
+      "status": "candidate",
+      "title": "파바다",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|살모레호",
+      "country": "스페인",
+      "name": "살모레호",
+      "status": "candidate",
+      "title": "안달루시아 요리",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름",
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ES|피스토",
+      "country": "스페인",
+      "name": "피스토",
+      "status": "done",
+      "title": "피스토",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|초밥",
+      "country": "일본",
+      "name": "초밥",
+      "status": "done",
+      "title": "Sushi",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|라멘",
+      "country": "일본",
+      "name": "라멘",
+      "status": "done",
+      "title": "라멘",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|덴푸라",
+      "country": "일본",
+      "name": "덴푸라",
+      "status": "done",
+      "title": "덴푸라",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|우동",
+      "country": "일본",
+      "name": "우동",
+      "status": "done",
+      "title": "우동",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|소바",
+      "country": "일본",
+      "name": "소바",
+      "status": "done",
+      "title": "소바",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|오코노미야키",
+      "country": "일본",
+      "name": "오코노미야키",
+      "status": "done",
+      "title": "오코노미야키",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|다코야키",
+      "country": "일본",
+      "name": "다코야키",
+      "status": "candidate",
+      "title": "타코야끼",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "JP|돈카쓰",
+      "country": "일본",
+      "name": "돈카쓰",
+      "status": "candidate",
+      "title": "돈가스",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "JP|스키야키",
+      "country": "일본",
+      "name": "스키야키",
+      "status": "done",
+      "title": "스키야키",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|샤부샤부",
+      "country": "일본",
+      "name": "샤부샤부",
+      "status": "done",
+      "title": "샤부샤부",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|오니기리",
+      "country": "일본",
+      "name": "오니기리",
+      "status": "done",
+      "title": "오니기리",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|미소시루",
+      "country": "일본",
+      "name": "미소시루",
+      "status": "done",
+      "title": "미소시루",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "JP|스시",
+      "country": "일본",
+      "name": "스시",
+      "status": "done",
+      "title": "스시",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|햄버거",
+      "country": "미국",
+      "name": "햄버거",
+      "status": "done",
+      "title": "햄버거",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|핫도그",
+      "country": "미국",
+      "name": "핫도그",
+      "status": "done",
+      "title": "핫도그",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|바비큐",
+      "country": "미국",
+      "name": "바비큐",
+      "status": "done",
+      "title": "바비큐",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|프라이드치킨",
+      "country": "미국",
+      "name": "프라이드치킨",
+      "status": "done",
+      "title": "프라이드 치킨",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|애플파이",
+      "country": "미국",
+      "name": "애플파이",
+      "status": "candidate",
+      "title": "사과 파이",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "US|클램차우더",
+      "country": "미국",
+      "name": "클램차우더",
+      "status": "done",
+      "title": "클램 차우더",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|버펄로윙",
+      "country": "미국",
+      "name": "버펄로윙",
+      "status": "done",
+      "title": "버펄로 윙",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|마카로니 앤 치즈",
+      "country": "미국",
+      "name": "마카로니 앤 치즈",
+      "status": "candidate",
+      "title": "마카로니 앤드 치즈",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "US|팬케이크",
+      "country": "미국",
+      "name": "팬케이크",
+      "status": "done",
+      "title": "팬케이크",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "US|뉴욕 스타일 피자",
+      "country": "미국",
+      "name": "뉴욕 스타일 피자",
+      "status": "candidate",
+      "title": "디트로이트식 피자",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "US|콘브레드",
+      "country": "미국",
+      "name": "콘브레드",
+      "status": "candidate",
+      "title": "콘브레드",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KR|김치",
+      "country": "대한민국",
+      "name": "김치",
+      "status": "done",
+      "title": "김치",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|비빔밥",
+      "country": "대한민국",
+      "name": "비빔밥",
+      "status": "done",
+      "title": "비빔밥",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|불고기",
+      "country": "대한민국",
+      "name": "불고기",
+      "status": "candidate",
+      "title": "불고기",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KR|잡채",
+      "country": "대한민국",
+      "name": "잡채",
+      "status": "done",
+      "title": "잡채",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|떡볶이",
+      "country": "대한민국",
+      "name": "떡볶이",
+      "status": "done",
+      "title": "떡볶이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|삼계탕",
+      "country": "대한민국",
+      "name": "삼계탕",
+      "status": "done",
+      "title": "삼계탕",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|냉면",
+      "country": "대한민국",
+      "name": "냉면",
+      "status": "candidate",
+      "title": "냉면",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KR|김밥",
+      "country": "대한민국",
+      "name": "김밥",
+      "status": "done",
+      "title": "김밥",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|된장찌개",
+      "country": "대한민국",
+      "name": "된장찌개",
+      "status": "done",
+      "title": "된장찌개",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|떡국",
+      "country": "대한민국",
+      "name": "떡국",
+      "status": "done",
+      "title": "떡국",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|송편",
+      "country": "대한민국",
+      "name": "송편",
+      "status": "done",
+      "title": "송편",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|전",
+      "country": "대한민국",
+      "name": "전",
+      "status": "done",
+      "title": "전 (음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|떡",
+      "country": "대한민국",
+      "name": "떡",
+      "status": "done",
+      "title": "떡",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|호떡",
+      "country": "대한민국",
+      "name": "호떡",
+      "status": "candidate",
+      "title": "호떡",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KR|고추장",
+      "country": "대한민국",
+      "name": "고추장",
+      "status": "done",
+      "title": "고추장",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|비리야니",
+      "country": "인도",
+      "name": "비리야니",
+      "status": "done",
+      "title": "비리야니",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|난",
+      "country": "인도",
+      "name": "난",
+      "status": "candidate",
+      "title": "난",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "IN|탄두리 치킨",
+      "country": "인도",
+      "name": "탄두리 치킨",
+      "status": "done",
+      "title": "탄두리 치킨",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|도사",
+      "country": "인도",
+      "name": "도사",
+      "status": "candidate",
+      "title": "도사",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|사모사",
+      "country": "인도",
+      "name": "사모사",
+      "status": "done",
+      "title": "사모사",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|달",
+      "country": "인도",
+      "name": "달",
+      "status": "candidate",
+      "title": "달",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|팔락 파니르",
+      "country": "인도",
+      "name": "팔락 파니르",
+      "status": "candidate",
+      "title": "팔락 파니르",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "IN|버터 치킨",
+      "country": "인도",
+      "name": "버터 치킨",
+      "status": "candidate",
+      "title": "버터 치킨",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "IN|이들리",
+      "country": "인도",
+      "name": "이들리",
+      "status": "done",
+      "title": "이들리",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "IN|차이",
+      "country": "인도",
+      "name": "차이",
+      "status": "candidate",
+      "title": "차이",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "IN|커리",
+      "country": "인도",
+      "name": "커리",
+      "status": "done",
+      "title": "커리",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TH|팟타이",
+      "country": "태국",
+      "name": "팟타이",
+      "status": "done",
+      "title": "팟 타이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TH|똠얌꿍",
+      "country": "태국",
+      "name": "똠얌꿍",
+      "status": "candidate",
+      "title": "똠 얌 꿍",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TH|쏨땀",
+      "country": "태국",
+      "name": "쏨땀",
+      "status": "candidate",
+      "title": "솜 땀",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TH|그린 커리",
+      "country": "태국",
+      "name": "그린 커리",
+      "status": "candidate",
+      "title": "그린 커리",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TH|카오팟",
+      "country": "태국",
+      "name": "카오팟",
+      "status": "done",
+      "title": "카오 팟",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TH|카오소이",
+      "country": "태국",
+      "name": "카오소이",
+      "status": "done",
+      "title": "카오 소이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TH|똠카가이",
+      "country": "태국",
+      "name": "똠카가이",
+      "status": "done",
+      "title": "Tom kha kai",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TH|망고 찹쌀밥",
+      "country": "태국",
+      "name": "망고 찹쌀밥",
+      "status": "candidate",
+      "title": "망고",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TH|뿌팟퐁커리",
+      "country": "태국",
+      "name": "뿌팟퐁커리",
+      "status": "candidate",
+      "title": "뿌 팟 퐁 까리",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "VN|퍼",
+      "country": "베트남",
+      "name": "퍼",
+      "status": "done",
+      "title": "퍼",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "VN|반미",
+      "country": "베트남",
+      "name": "반미",
+      "status": "done",
+      "title": "반미",
+      "image": false,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "VN|분짜",
+      "country": "베트남",
+      "name": "분짜",
+      "status": "done",
+      "title": "분 짜",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "VN|고이꾸온",
+      "country": "베트남",
+      "name": "고이꾸온",
+      "status": "done",
+      "title": "고이 꾸온",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "VN|반쎄오",
+      "country": "베트남",
+      "name": "반쎄오",
+      "status": "candidate",
+      "title": "바인 쌔오",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "VN|까오러우",
+      "country": "베트남",
+      "name": "까오러우",
+      "status": "candidate",
+      "title": "유재석",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ID|나시고렝",
+      "country": "인도네시아",
+      "name": "나시고렝",
+      "status": "done",
+      "title": "나시 고렝",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ID|렌당",
+      "country": "인도네시아",
+      "name": "렌당",
+      "status": "candidate",
+      "title": "른당",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ID|사테",
+      "country": "인도네시아",
+      "name": "사테",
+      "status": "done",
+      "title": "사테",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ID|가도가도",
+      "country": "인도네시아",
+      "name": "가도가도",
+      "status": "done",
+      "title": "가도가도",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ID|소토",
+      "country": "인도네시아",
+      "name": "소토",
+      "status": "candidate",
+      "title": "소토",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ID|템페",
+      "country": "인도네시아",
+      "name": "템페",
+      "status": "done",
+      "title": "템페",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|미트파이",
+      "country": "호주",
+      "name": "미트파이",
+      "status": "done",
+      "title": "미트 파이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|베지마이트",
+      "country": "호주",
+      "name": "베지마이트",
+      "status": "done",
+      "title": "베지마이트",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|라밍턴",
+      "country": "호주",
+      "name": "라밍턴",
+      "status": "candidate",
+      "title": "일루미나티",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "AU|파블로바",
+      "country": "호주",
+      "name": "파블로바",
+      "status": "done",
+      "title": "파블로바 (음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|바비큐",
+      "country": "호주",
+      "name": "바비큐",
+      "status": "done",
+      "title": "바비큐",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|안작 비스킷",
+      "country": "호주",
+      "name": "안작 비스킷",
+      "status": "candidate",
+      "title": "앤잭 비스킷",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "AU|미트 파이",
+      "country": "호주",
+      "name": "미트 파이",
+      "status": "done",
+      "title": "미트 파이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "AU|베지마이트 토스트",
+      "country": "호주",
+      "name": "베지마이트 토스트",
+      "status": "candidate",
+      "title": "베지마이트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "AU|램 요리",
+      "country": "호주",
+      "name": "램 요리",
+      "status": "candidate",
+      "title": "양고기",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CA|푸틴",
+      "country": "캐나다",
+      "name": "푸틴",
+      "status": "done",
+      "title": "푸틴 (음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CA|메이플 시럽",
+      "country": "캐나다",
+      "name": "메이플 시럽",
+      "status": "done",
+      "title": "메이플 시럽",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CA|투르티에르",
+      "country": "캐나다",
+      "name": "투르티에르",
+      "status": "candidate",
+      "title": "고기 파이",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CA|버터 타르트",
+      "country": "캐나다",
+      "name": "버터 타르트",
+      "status": "candidate",
+      "title": "타르트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CA|나나이모 바",
+      "country": "캐나다",
+      "name": "나나이모 바",
+      "status": "done",
+      "title": "나나이모 바",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CA|몬트리올 베이글",
+      "country": "캐나다",
+      "name": "몬트리올 베이글",
+      "status": "done",
+      "title": "몬트리올 베이글",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CA|연어 요리",
+      "country": "캐나다",
+      "name": "연어 요리",
+      "status": "candidate",
+      "title": "연어 (음식)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CA|베이글",
+      "country": "캐나다",
+      "name": "베이글",
+      "status": "done",
+      "title": "베이글",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CA|배넉",
+      "country": "캐나다",
+      "name": "배넉",
+      "status": "done",
+      "title": "배넉 (음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MX|타코",
+      "country": "멕시코",
+      "name": "타코",
+      "status": "done",
+      "title": "타코",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MX|몰레",
+      "country": "멕시코",
+      "name": "몰레",
+      "status": "done",
+      "title": "몰레",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MX|타말",
+      "country": "멕시코",
+      "name": "타말",
+      "status": "done",
+      "title": "타말",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MX|포솔레",
+      "country": "멕시코",
+      "name": "포솔레",
+      "status": "done",
+      "title": "포솔레",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MX|과카몰레",
+      "country": "멕시코",
+      "name": "과카몰레",
+      "status": "done",
+      "title": "과카몰레",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MX|엔칠라다",
+      "country": "멕시코",
+      "name": "엔칠라다",
+      "status": "done",
+      "title": "엔칠라다",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "BR|페이조아다",
+      "country": "브라질",
+      "name": "페이조아다",
+      "status": "done",
+      "title": "페이조아다",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "BR|슈하스코",
+      "country": "브라질",
+      "name": "슈하스코",
+      "status": "candidate",
+      "title": "슈하스쿠",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "BR|모케카",
+      "country": "브라질",
+      "name": "모케카",
+      "status": "candidate",
+      "title": "모케카",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "BR|파웅 지 케이주",
+      "country": "브라질",
+      "name": "파웅 지 케이주",
+      "status": "candidate",
+      "title": "브라질의 문화",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "BR|아카라제",
+      "country": "브라질",
+      "name": "아카라제",
+      "status": "candidate",
+      "title": "아카라",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "BR|브리가데이루",
+      "country": "브라질",
+      "name": "브리가데이루",
+      "status": "candidate",
+      "title": "브리가데이루",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "BR|팡 지 케이주",
+      "country": "브라질",
+      "name": "팡 지 케이주",
+      "status": "done",
+      "title": "팡 지 케이주",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "BR|아사이 볼",
+      "country": "브라질",
+      "name": "아사이 볼",
+      "status": "done",
+      "title": "아사이 볼",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|피시 앤 칩스",
+      "country": "영국",
+      "name": "피시 앤 칩스",
+      "status": "candidate",
+      "title": "피시 앤드 칩스",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "GB|선데이 로스트",
+      "country": "영국",
+      "name": "선데이 로스트",
+      "status": "done",
+      "title": "선데이 로스트",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|셰퍼드 파이",
+      "country": "영국",
+      "name": "셰퍼드 파이",
+      "status": "done",
+      "title": "셰퍼드 파이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|스콘",
+      "country": "영국",
+      "name": "스콘",
+      "status": "done",
+      "title": "스콘",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|해기스",
+      "country": "영국",
+      "name": "해기스",
+      "status": "done",
+      "title": "해기스",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|애프터눈 티",
+      "country": "영국",
+      "name": "애프터눈 티",
+      "status": "candidate",
+      "title": "티 (식사)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "GB|잉글리시 브렉퍼스트",
+      "country": "영국",
+      "name": "잉글리시 브렉퍼스트",
+      "status": "done",
+      "title": "잉글리시 브렉퍼스트",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GB|샌드위치",
+      "country": "영국",
+      "name": "샌드위치",
+      "status": "done",
+      "title": "샌드위치",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "DE|브라트부르스트",
+      "country": "독일",
+      "name": "브라트부르스트",
+      "status": "candidate",
+      "title": "브라트부르스트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "DE|프레첼",
+      "country": "독일",
+      "name": "프레첼",
+      "status": "candidate",
+      "title": "브레첼",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "DE|자우어브라텐",
+      "country": "독일",
+      "name": "자우어브라텐",
+      "status": "done",
+      "title": "자우어브라텐",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "DE|슈페츨레",
+      "country": "독일",
+      "name": "슈페츨레",
+      "status": "done",
+      "title": "슈페츨레",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "DE|슈니첼",
+      "country": "독일",
+      "name": "슈니첼",
+      "status": "done",
+      "title": "슈니첼",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "DE|슈바르츠발트 케이크",
+      "country": "독일",
+      "name": "슈바르츠발트 케이크",
+      "status": "candidate",
+      "title": "슈바르츠발트 케이크",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GR|무사카",
+      "country": "그리스",
+      "name": "무사카",
+      "status": "done",
+      "title": "무사카",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GR|수블라키",
+      "country": "그리스",
+      "name": "수블라키",
+      "status": "done",
+      "title": "수블라키",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "GR|그릭 샐러드",
+      "country": "그리스",
+      "name": "그릭 샐러드",
+      "status": "candidate",
+      "title": "과일 샐러드",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "GR|차치키",
+      "country": "그리스",
+      "name": "차치키",
+      "status": "candidate",
+      "title": "AC 키에보베로나",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름",
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "GR|스파나코피타",
+      "country": "그리스",
+      "name": "스파나코피타",
+      "status": "candidate",
+      "title": "스파나코피타",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "GR|돌마데스",
+      "country": "그리스",
+      "name": "돌마데스",
+      "status": "candidate",
+      "title": "포도잎말이",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TR|케밥",
+      "country": "튀르키예",
+      "name": "케밥",
+      "status": "done",
+      "title": "케밥",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TR|되네르",
+      "country": "튀르키예",
+      "name": "되네르",
+      "status": "done",
+      "title": "되네르",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TR|만티",
+      "country": "튀르키예",
+      "name": "만티",
+      "status": "candidate",
+      "title": "만트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TR|피데",
+      "country": "튀르키예",
+      "name": "피데",
+      "status": "candidate",
+      "title": "이스켄데르 케밥",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "TR|바클라바",
+      "country": "튀르키예",
+      "name": "바클라바",
+      "status": "candidate",
+      "title": "바클라바",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "TR|메네멘",
+      "country": "튀르키예",
+      "name": "메네멘",
+      "status": "done",
+      "title": "메네멘",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "EG|코샤리",
+      "country": "이집트",
+      "name": "코샤리",
+      "status": "done",
+      "title": "코샤리",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "EG|풀 메담메스",
+      "country": "이집트",
+      "name": "풀 메담메스",
+      "status": "done",
+      "title": "풀 메담메스",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "EG|타메야",
+      "country": "이집트",
+      "name": "타메야",
+      "status": "candidate",
+      "title": "팔라펠",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "EG|몰로키야",
+      "country": "이집트",
+      "name": "몰로키야",
+      "status": "done",
+      "title": "몰로키야",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "EG|파타",
+      "country": "이집트",
+      "name": "파타",
+      "status": "candidate",
+      "title": "파타",
+      "image": false,
+      "verification": "",
+      "reasons": [
+        "사진 없음 (완성 여부와 무관)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "EG|바스부사",
+      "country": "이집트",
+      "name": "바스부사",
+      "status": "done",
+      "title": "바스부사",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "EG|풀 메다메스",
+      "country": "이집트",
+      "name": "풀 메다메스",
+      "status": "candidate",
+      "title": "스트로베리 딜라이트",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "EG|아이시 발라디",
+      "country": "이집트",
+      "name": "아이시 발라디",
+      "status": "candidate",
+      "title": "빵",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ZA|보보티",
+      "country": "남아프리카공화국",
+      "name": "보보티",
+      "status": "done",
+      "title": "보보티",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ZA|브라이",
+      "country": "남아프리카공화국",
+      "name": "브라이",
+      "status": "done",
+      "title": "브라이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ZA|빌통",
+      "country": "남아프리카공화국",
+      "name": "빌통",
+      "status": "done",
+      "title": "빌통",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "ZA|버니 차우",
+      "country": "남아프리카공화국",
+      "name": "버니 차우",
+      "status": "candidate",
+      "title": "버니 차우",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ZA|보어워스",
+      "country": "남아프리카공화국",
+      "name": "보어워스",
+      "status": "candidate",
+      "title": "코스워스 DFV",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "ZA|밀크타르트",
+      "country": "남아프리카공화국",
+      "name": "밀크타르트",
+      "status": "candidate",
+      "title": "동티모르 요리",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "PH|아도보",
+      "country": "필리핀",
+      "name": "아도보",
+      "status": "done",
+      "title": "아도보 (스페인 음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "PH|시니강",
+      "country": "필리핀",
+      "name": "시니강",
+      "status": "candidate",
+      "title": "시니강",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "PH|레촌",
+      "country": "필리핀",
+      "name": "레촌",
+      "status": "candidate",
+      "title": "애저 (돼지)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "PH|판싯",
+      "country": "필리핀",
+      "name": "판싯",
+      "status": "done",
+      "title": "판싯",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "PH|룸피아",
+      "country": "필리핀",
+      "name": "룸피아",
+      "status": "candidate",
+      "title": "룬삐앙",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "PH|할로할로",
+      "country": "필리핀",
+      "name": "할로할로",
+      "status": "done",
+      "title": "할로할로",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "SG|하이난 치킨라이스",
+      "country": "싱가포르",
+      "name": "하이난 치킨라이스",
+      "status": "done",
+      "title": "하이난 치킨라이스",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "SG|칠리크랩",
+      "country": "싱가포르",
+      "name": "칠리크랩",
+      "status": "done",
+      "title": "칠리 크랩",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "SG|락사",
+      "country": "싱가포르",
+      "name": "락사",
+      "status": "done",
+      "title": "락사",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "SG|카야토스트",
+      "country": "싱가포르",
+      "name": "카야토스트",
+      "status": "done",
+      "title": "카야 토스트",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "SG|바쿠테",
+      "country": "싱가포르",
+      "name": "바쿠테",
+      "status": "done",
+      "title": "바쿠테",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "SG|차퀘이테오",
+      "country": "싱가포르",
+      "name": "차퀘이테오",
+      "status": "candidate",
+      "title": "2018-19년 UEFA 유로파리그",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MY|나시르막",
+      "country": "말레이시아",
+      "name": "나시르막",
+      "status": "done",
+      "title": "나시 르막",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MY|차퀘이테오",
+      "country": "말레이시아",
+      "name": "차퀘이테오",
+      "status": "candidate",
+      "title": "2018-19년 UEFA 유로파리그",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MY|로티차나이",
+      "country": "말레이시아",
+      "name": "로티차나이",
+      "status": "done",
+      "title": "로티 차나이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MY|사테",
+      "country": "말레이시아",
+      "name": "사테",
+      "status": "done",
+      "title": "사테",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MY|락사",
+      "country": "말레이시아",
+      "name": "락사",
+      "status": "done",
+      "title": "락사",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "MY|렌당",
+      "country": "말레이시아",
+      "name": "렌당",
+      "status": "candidate",
+      "title": "른당",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "NO|포리콜",
+      "country": "노르웨이",
+      "name": "포리콜",
+      "status": "done",
+      "title": "포리콜",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NO|루테피스크",
+      "country": "노르웨이",
+      "name": "루테피스크",
+      "status": "done",
+      "title": "루테피스크",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NO|라크피스크",
+      "country": "노르웨이",
+      "name": "라크피스크",
+      "status": "done",
+      "title": "라크피스크",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [
+        "설명이 짧거나 없음"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "NO|브루노스트",
+      "country": "노르웨이",
+      "name": "브루노스트",
+      "status": "done",
+      "title": "브루노스트",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NO|크룸카케",
+      "country": "노르웨이",
+      "name": "크룸카케",
+      "status": "done",
+      "title": "크룸카케",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "FI|카르얄란피이라카",
+      "country": "핀란드",
+      "name": "카르얄란피이라카",
+      "status": "candidate",
+      "title": "굽타기원",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "FI|로히케이토",
+      "country": "핀란드",
+      "name": "로히케이토",
+      "status": "candidate",
+      "title": "로히케이토",
+      "image": true,
+      "verification": "",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "FI|포론카리스튀스",
+      "country": "핀란드",
+      "name": "포론카리스튀스",
+      "status": "candidate",
+      "title": "율리우스 카이사르",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "FI|칼라쿠코",
+      "country": "핀란드",
+      "name": "칼라쿠코",
+      "status": "candidate",
+      "title": "아스티도",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "FI|코르바푸스티",
+      "country": "핀란드",
+      "name": "코르바푸스티",
+      "status": "candidate",
+      "title": "시나몬 롤",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KH|피시 아목",
+      "country": "캄보디아",
+      "name": "피시 아목",
+      "status": "done",
+      "title": "Fish amok",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KH|록락",
+      "country": "캄보디아",
+      "name": "록락",
+      "status": "candidate",
+      "title": "금새록",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "설명이 짧거나 없음",
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KH|꾸이띠우",
+      "country": "캄보디아",
+      "name": "꾸이띠우",
+      "status": "done",
+      "title": "Kuyteav",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "KH|놈반쪽",
+      "country": "캄보디아",
+      "name": "놈반쪽",
+      "status": "candidate",
+      "title": "조선민주주의인민공화국",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "KH|삼로르 코르코",
+      "country": "캄보디아",
+      "name": "삼로르 코르코",
+      "status": "candidate",
+      "title": "레이르",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MM|모힝가",
+      "country": "미얀마",
+      "name": "모힝가",
+      "status": "candidate",
+      "title": "몬 힝가",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MM|라페토",
+      "country": "미얀마",
+      "name": "라페토",
+      "status": "candidate",
+      "title": "라페토사우루스",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MM|샨 누들",
+      "country": "미얀마",
+      "name": "샨 누들",
+      "status": "candidate",
+      "title": "샨 카웃스웨",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MM|오노 카욱 스웨",
+      "country": "미얀마",
+      "name": "오노 카욱 스웨",
+      "status": "candidate",
+      "title": "오노에 쇼로쿠",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "MM|난지 똑",
+      "country": "미얀마",
+      "name": "난지 똑",
+      "status": "candidate",
+      "title": "난지 톳",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CO|반데하 파이사",
+      "country": "콜롬비아",
+      "name": "반데하 파이사",
+      "status": "done",
+      "title": "반데하 파이사",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CO|아히아코",
+      "country": "콜롬비아",
+      "name": "아히아코",
+      "status": "done",
+      "title": "아히아코",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CO|아레파",
+      "country": "콜롬비아",
+      "name": "아레파",
+      "status": "done",
+      "title": "아레파",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "CO|산코초",
+      "country": "콜롬비아",
+      "name": "산코초",
+      "status": "candidate",
+      "title": "상코초",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "CO|엠파나다",
+      "country": "콜롬비아",
+      "name": "엠파나다",
+      "status": "done",
+      "title": "엠파나다",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NZ|항이",
+      "country": "뉴질랜드",
+      "name": "항이",
+      "status": "done",
+      "title": "Hāngī",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NZ|파블로바",
+      "country": "뉴질랜드",
+      "name": "파블로바",
+      "status": "done",
+      "title": "파블로바 (음식)",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NZ|미트파이",
+      "country": "뉴질랜드",
+      "name": "미트파이",
+      "status": "done",
+      "title": "미트 파이",
+      "image": true,
+      "verification": "rule-exact-title-v1",
+      "reasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "NZ|호키포키 아이스크림",
+      "country": "뉴질랜드",
+      "name": "호키포키 아이스크림",
+      "status": "candidate",
+      "title": "호키 포키 (아이스크림)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "NZ|화이트베이트 프리터",
+      "country": "뉴질랜드",
+      "name": "화이트베이트 프리터",
+      "status": "candidate",
+      "title": "프리터 (음식)",
+      "image": true,
+      "verification": "",
+      "reasons": [
+        "검색 제목이 대표이름·등록 별칭과 다름"
+      ],
+      "needsReview": true
+    }
+  ]
+}
