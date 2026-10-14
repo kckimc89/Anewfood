@@ -1,6 +1,6 @@
 {
   "format": "world-food-v2-560-alias-data",
-  "version": "V2 Stage 1.12 — Stage 1.10 화면보존 · 후보 143개 1차 카드화 · 검색판정 보강",
+  "version": "V2 Stage 1.13 — Stage 1.10 화면보존 · 한국어/영어/원어 위키 확장검색",
   "built": "2026-10-14",
   "countries": [
     {
@@ -19277,5 +19277,11 @@
     "heldCandidates": 48,
     "blockedCandidates": 37,
     "emptyUnmatched": 72
+  },
+  "stage113Summary": {
+    "searchExpansion": "ko.wikipedia -> en.wikipedia -> country native-language wikipedia",
+    "autoPromoteToDone": false,
+    "candidateOnly": true,
+    "existingCardsProtected": true
   }
 }

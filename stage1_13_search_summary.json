@@ -1,0 +1,8 @@
+{
+  "version": "V2 Stage 1.13 — Stage 1.10 화면보존 · 한국어/영어/원어 위키 확장검색",
+  "screen": "Stage 1.10 UI preserved",
+  "engine": "multilingual wiki search: Korean, English, country native language",
+  "candidateOnly": true,
+  "autoCompleteGreenCards": false,
+  "created": "2026-10-14T09:25:00+09:00"
+}
