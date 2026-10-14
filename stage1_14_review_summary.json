@@ -1,0 +1,193 @@
+{
+  "version": "V2 Stage 1.14 — Stage 1.10 화면보존 · 검색결과 보존 · 나라검색/문화설명 보강",
+  "sourceQualityExported": "2026-10-14T11:13:32.956Z",
+  "sourceBackupExported": "2026-10-14T11:13:26.585Z",
+  "counts": {
+    "countries": 101,
+    "foods": 560,
+    "done": 311,
+    "candidate": 203,
+    "empty": 46,
+    "noPhoto": 96,
+    "representativeNameReview": 16
+  },
+  "candidateRiskCounts": {
+    "자동검색 후보 · 품질검증 대기": 111,
+    "영어/원어 자동검색 후보 · 한국어 설명/사진 검토 필요": 49,
+    "차단 권고": 37,
+    "한국어 설명 검토 필요": 3,
+    "한국어 설명 교체 · 검토 필요": 1,
+    "재검토": 1,
+    "사용자 확인 대기": 1
+  },
+  "changes": [
+    "Stage 1.13 확장검색 결과를 초기 병합 백업으로 내장",
+    "나라 탐험 화면에 나라 검색 기능 추가",
+    "나라 목록을 대륙별/가나다 순으로 정렬",
+    "큰 카드의 나라 음식문화 설명을 이전 설명 방식에 가깝게 보강",
+    "대표이름 검토 대상 목록을 부모모드에서 확인 가능하게 추가",
+    "홈/나라탐험/음식탐험/검색의 기준 화면은 유지"
+  ],
+  "representativeNameReview": [
+    {
+      "id": "KR|전",
+      "countryCode": "KR",
+      "country": "대한민국",
+      "name": "전",
+      "status": "done",
+      "category": "튀김·간식",
+      "issue": "짧고 넓은 이름: 나라·음식 맥락 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "KR|떡",
+      "countryCode": "KR",
+      "country": "대한민국",
+      "name": "떡",
+      "status": "done",
+      "category": "떡·간식",
+      "issue": "짧고 넓은 이름: 나라·음식 맥락 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "IN|달",
+      "countryCode": "IN",
+      "country": "인도",
+      "name": "달",
+      "status": "candidate",
+      "category": "콩·유제품",
+      "issue": "짧고 넓은 이름: 나라·음식 맥락 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "IN|차이",
+      "countryCode": "IN",
+      "country": "인도",
+      "name": "차이",
+      "status": "candidate",
+      "category": "음료·소스",
+      "issue": "음료/식문화 항목: 음식카드 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "AU|램 요리",
+      "countryCode": "AU",
+      "country": "호주",
+      "name": "램 요리",
+      "status": "candidate",
+      "category": "고기요리",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "CA|메이플 시럽",
+      "countryCode": "CA",
+      "country": "캐나다",
+      "name": "메이플 시럽",
+      "status": "done",
+      "category": "음료·소스",
+      "issue": "재료명/산물명에 가까워 대표음식 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "CA|연어 요리",
+      "countryCode": "CA",
+      "country": "캐나다",
+      "name": "연어 요리",
+      "status": "candidate",
+      "category": "생선·해산물",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "MN|수테차",
+      "countryCode": "MN",
+      "country": "몽골",
+      "name": "수테차",
+      "status": "empty",
+      "category": "대표음식",
+      "issue": "음료/식문화 항목: 음식카드 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "SA|대추야자",
+      "countryCode": "SA",
+      "country": "사우디아라비아",
+      "name": "대추야자",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "재료명/산물명에 가까워 대표음식 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "SA|아랍식 커피",
+      "countryCode": "SA",
+      "country": "사우디아라비아",
+      "name": "아랍식 커피",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "음료/식문화 항목: 음식카드 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "BE|홍합요리",
+      "countryCode": "BE",
+      "country": "벨기에",
+      "name": "홍합요리",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "BD|힐사 생선요리",
+      "countryCode": "BD",
+      "country": "방글라데시",
+      "name": "힐사 생선요리",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "BD|달",
+      "countryCode": "BD",
+      "country": "방글라데시",
+      "name": "달",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "짧고 넓은 이름: 나라·음식 맥락 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "PG|코코넛 생선요리",
+      "countryCode": "PG",
+      "country": "파푸아뉴기니",
+      "name": "코코넛 생선요리",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "WS|우무 요리",
+      "countryCode": "WS",
+      "country": "사모아",
+      "name": "우무 요리",
+      "status": "candidate",
+      "category": "대표음식",
+      "issue": "대표이름이 넓은 음식군/조리군에 가까움",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    },
+    {
+      "id": "TW|버블티",
+      "countryCode": "TW",
+      "country": "대만",
+      "name": "버블티",
+      "status": "done",
+      "category": "대표음식",
+      "issue": "음료/식문화 항목: 음식카드 설명 보강 필요",
+      "suggestion": "대표이름은 그대로 두되 카드 설명에서 다양한 형태를 설명하거나, 부모모드에서 더 구체적인 대표음식명으로 바꾸는 것을 검토"
+    }
+  ]
+}
