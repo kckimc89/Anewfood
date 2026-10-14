@@ -1,0 +1,8773 @@
+{
+  "version": "V2 Stage 1.11 alias boost",
+  "total": 560,
+  "withLatinAlias": 560,
+  "items": [
+    {
+      "id": "ES|파에야",
+      "country": "스페인",
+      "name": "파에야",
+      "aliases": [
+        "파에야",
+        "Paella",
+        "paeya"
+      ],
+      "latinAliases": [
+        "Paella",
+        "paeya"
+      ]
+    },
+    {
+      "id": "ES|하몬 이베리코",
+      "country": "스페인",
+      "name": "하몬 이베리코",
+      "aliases": [
+        "하몬 이베리코",
+        "이베리코 햄",
+        "Jamón ibérico",
+        "Iberian ham",
+        "hamon iberiko",
+        "iberiko haem"
+      ],
+      "latinAliases": [
+        "Jamón ibérico",
+        "Iberian ham",
+        "hamon iberiko",
+        "iberiko haem"
+      ]
+    },
+    {
+      "id": "ES|토르티야 에스파뇰라",
+      "country": "스페인",
+      "name": "토르티야 에스파뇰라",
+      "aliases": [
+        "토르티야 에스파뇰라",
+        "토르티야 (스페인 음식)",
+        "Tortilla española",
+        "Spanish omelette",
+        "Tortilla de patatas",
+        "toreutiya eseupanyolra",
+        "toreutiya (seupein eumsig)"
+      ],
+      "latinAliases": [
+        "Tortilla española",
+        "Spanish omelette",
+        "Tortilla de patatas",
+        "toreutiya eseupanyolra",
+        "toreutiya (seupein eumsig)"
+      ]
+    },
+    {
+      "id": "ES|가스파초",
+      "country": "스페인",
+      "name": "가스파초",
+      "aliases": [
+        "가스파초",
+        "Gazpacho",
+        "gaseupaco"
+      ],
+      "latinAliases": [
+        "Gazpacho",
+        "gaseupaco"
+      ]
+    },
+    {
+      "id": "ES|추로스",
+      "country": "스페인",
+      "name": "추로스",
+      "aliases": [
+        "추로스",
+        "추로",
+        "Churros",
+        "Churro",
+        "curoseu",
+        "curo"
+      ],
+      "latinAliases": [
+        "Churros",
+        "Churro",
+        "curoseu",
+        "curo"
+      ]
+    },
+    {
+      "id": "ES|파타타스 브라바스",
+      "country": "스페인",
+      "name": "파타타스 브라바스",
+      "aliases": [
+        "파타타스 브라바스",
+        "파파타스 브라바스",
+        "Patatas bravas",
+        "patataseu beurabaseu",
+        "papataseu beurabaseu"
+      ],
+      "latinAliases": [
+        "Patatas bravas",
+        "patataseu beurabaseu",
+        "papataseu beurabaseu"
+      ]
+    },
+    {
+      "id": "ES|감바스 알 아히요",
+      "country": "스페인",
+      "name": "감바스 알 아히요",
+      "aliases": [
+        "감바스 알 아히요",
+        "Gambas al ajillo",
+        "gambaseu al ahiyo"
+      ],
+      "latinAliases": [
+        "Gambas al ajillo",
+        "gambaseu al ahiyo"
+      ]
+    },
+    {
+      "id": "ES|풀포 아 라 가예가",
+      "country": "스페인",
+      "name": "풀포 아 라 가예가",
+      "aliases": [
+        "풀포 아 라 가예가",
+        "폴부 아 페이라",
+        "Pulpo a la gallega",
+        "Polbo á feira",
+        "pulpo a ra gayega",
+        "polbu a peira"
+      ],
+      "latinAliases": [
+        "Pulpo a la gallega",
+        "Polbo á feira",
+        "pulpo a ra gayega",
+        "polbu a peira"
+      ]
+    },
+    {
+      "id": "ES|크로케타",
+      "country": "스페인",
+      "name": "크로케타",
+      "aliases": [
+        "크로케타",
+        "크로케",
+        "Croquetas",
+        "Croquetas españolas",
+        "Spanish croquettes",
+        "croquet",
+        "keuroketa",
+        "keuroke"
+      ],
+      "latinAliases": [
+        "Croquetas",
+        "Croquetas españolas",
+        "Spanish croquettes",
+        "croquet",
+        "keuroketa",
+        "keuroke"
+      ]
+    },
+    {
+      "id": "ES|판 콘 토마테",
+      "country": "스페인",
+      "name": "판 콘 토마테",
+      "aliases": [
+        "판 콘 토마테",
+        "파 암 토마케트",
+        "Pan con tomate",
+        "Pa amb tomàquet",
+        "pan kon tomate",
+        "pa am tomaketeu"
+      ],
+      "latinAliases": [
+        "Pan con tomate",
+        "Pa amb tomàquet",
+        "pan kon tomate",
+        "pa am tomaketeu"
+      ]
+    },
+    {
+      "id": "ES|코시도 마드릴레뇨",
+      "country": "스페인",
+      "name": "코시도 마드릴레뇨",
+      "aliases": [
+        "코시도 마드릴레뇨",
+        "코시도",
+        "Cocido madrileño",
+        "cocido",
+        "cozido",
+        "kosido madeurilrenyo",
+        "kosido"
+      ],
+      "latinAliases": [
+        "Cocido madrileño",
+        "cocido",
+        "cozido",
+        "kosido madeurilrenyo",
+        "kosido"
+      ]
+    },
+    {
+      "id": "ES|파바다 아스투리아나",
+      "country": "스페인",
+      "name": "파바다 아스투리아나",
+      "aliases": [
+        "파바다 아스투리아나",
+        "파바다",
+        "Fabada asturiana",
+        "pabada aseuturiana",
+        "pabada"
+      ],
+      "latinAliases": [
+        "Fabada asturiana",
+        "pabada aseuturiana",
+        "pabada"
+      ]
+    },
+    {
+      "id": "ES|살모레호",
+      "country": "스페인",
+      "name": "살모레호",
+      "aliases": [
+        "살모레호",
+        "안달루시아 요리",
+        "Salmorejo",
+        "cocina andaluza",
+        "Andalucía",
+        "pescaíto frito",
+        "salmoreho",
+        "andalrusia yori"
+      ],
+      "latinAliases": [
+        "Salmorejo",
+        "cocina andaluza",
+        "Andalucía",
+        "pescaíto frito",
+        "salmoreho",
+        "andalrusia yori"
+      ]
+    },
+    {
+      "id": "ES|피스토",
+      "country": "스페인",
+      "name": "피스토",
+      "aliases": [
+        "피스토",
+        "Pisto",
+        "pisto manchego",
+        "pisto extremeño",
+        "piseuto"
+      ],
+      "latinAliases": [
+        "Pisto",
+        "pisto manchego",
+        "pisto extremeño",
+        "piseuto"
+      ]
+    },
+    {
+      "id": "JP|초밥",
+      "country": "일본",
+      "name": "초밥",
+      "aliases": [
+        "초밥",
+        "Sushi",
+        "寿司",
+        "pronounced",
+        "or",
+        "sushi-meshi",
+        "cobab",
+        "ilbon cobab"
+      ],
+      "latinAliases": [
+        "Sushi",
+        "pronounced",
+        "or",
+        "sushi-meshi",
+        "cobab",
+        "ilbon cobab"
+      ]
+    },
+    {
+      "id": "JP|라멘",
+      "country": "일본",
+      "name": "라멘",
+      "aliases": [
+        "라멘",
+        "Ramen",
+        "ilbon ramen"
+      ],
+      "latinAliases": [
+        "Ramen",
+        "ilbon ramen"
+      ]
+    },
+    {
+      "id": "JP|덴푸라",
+      "country": "일본",
+      "name": "덴푸라",
+      "aliases": [
+        "덴푸라",
+        "Tempura",
+        "튀김",
+        "denpura"
+      ],
+      "latinAliases": [
+        "Tempura",
+        "denpura"
+      ]
+    },
+    {
+      "id": "JP|우동",
+      "country": "일본",
+      "name": "우동",
+      "aliases": [
+        "우동",
+        "Udon",
+        "udong",
+        "ilbon udong"
+      ],
+      "latinAliases": [
+        "Udon",
+        "udong",
+        "ilbon udong"
+      ]
+    },
+    {
+      "id": "JP|소바",
+      "country": "일본",
+      "name": "소바",
+      "aliases": [
+        "소바",
+        "Soba",
+        "ilbon soba"
+      ],
+      "latinAliases": [
+        "Soba",
+        "ilbon soba"
+      ]
+    },
+    {
+      "id": "JP|오코노미야키",
+      "country": "일본",
+      "name": "오코노미야키",
+      "aliases": [
+        "오코노미야키",
+        "Okonomiyaki"
+      ],
+      "latinAliases": [
+        "Okonomiyaki"
+      ]
+    },
+    {
+      "id": "JP|다코야키",
+      "country": "일본",
+      "name": "다코야키",
+      "aliases": [
+        "다코야키",
+        "타코야끼",
+        "Takoyaki",
+        "dakoyaki",
+        "takoyaggi"
+      ],
+      "latinAliases": [
+        "Takoyaki",
+        "dakoyaki",
+        "takoyaggi"
+      ]
+    },
+    {
+      "id": "JP|돈카쓰",
+      "country": "일본",
+      "name": "돈카쓰",
+      "aliases": [
+        "돈카쓰",
+        "돈가스",
+        "Tonkatsu",
+        "donkasseu",
+        "dongaseu"
+      ],
+      "latinAliases": [
+        "Tonkatsu",
+        "donkasseu",
+        "dongaseu"
+      ]
+    },
+    {
+      "id": "JP|스키야키",
+      "country": "일본",
+      "name": "스키야키",
+      "aliases": [
+        "스키야키",
+        "Sukiyaki",
+        "seukiyaki"
+      ],
+      "latinAliases": [
+        "Sukiyaki",
+        "seukiyaki"
+      ]
+    },
+    {
+      "id": "JP|샤부샤부",
+      "country": "일본",
+      "name": "샤부샤부",
+      "aliases": [
+        "샤부샤부",
+        "Shabu-shabu",
+        "Shabu shabu",
+        "syabusyabu"
+      ],
+      "latinAliases": [
+        "Shabu-shabu",
+        "Shabu shabu",
+        "syabusyabu"
+      ]
+    },
+    {
+      "id": "JP|오니기리",
+      "country": "일본",
+      "name": "오니기리",
+      "aliases": [
+        "오니기리",
+        "Onigiri",
+        "omusubi"
+      ],
+      "latinAliases": [
+        "Onigiri",
+        "omusubi"
+      ]
+    },
+    {
+      "id": "JP|미소시루",
+      "country": "일본",
+      "name": "미소시루",
+      "aliases": [
+        "미소시루",
+        "Miso soup",
+        "Miso shiru",
+        "misosiru"
+      ],
+      "latinAliases": [
+        "Miso soup",
+        "Miso shiru",
+        "misosiru"
+      ]
+    },
+    {
+      "id": "JP|스시",
+      "country": "일본",
+      "name": "스시",
+      "aliases": [
+        "스시",
+        "Sushi",
+        "寿司",
+        "seusi",
+        "ilbon seusi"
+      ],
+      "latinAliases": [
+        "Sushi",
+        "seusi",
+        "ilbon seusi"
+      ]
+    },
+    {
+      "id": "US|햄버거",
+      "country": "미국",
+      "name": "햄버거",
+      "aliases": [
+        "햄버거",
+        "Hamburger",
+        "Burger",
+        "haembeogeo"
+      ],
+      "latinAliases": [
+        "Hamburger",
+        "Burger",
+        "haembeogeo"
+      ]
+    },
+    {
+      "id": "US|핫도그",
+      "country": "미국",
+      "name": "핫도그",
+      "aliases": [
+        "핫도그",
+        "Hot dog",
+        "hasdogeu"
+      ],
+      "latinAliases": [
+        "Hot dog",
+        "hasdogeu"
+      ]
+    },
+    {
+      "id": "US|바비큐",
+      "country": "미국",
+      "name": "바비큐",
+      "aliases": [
+        "바비큐",
+        "Barbecue",
+        "BBQ",
+        "babikyu"
+      ],
+      "latinAliases": [
+        "Barbecue",
+        "BBQ",
+        "babikyu"
+      ]
+    },
+    {
+      "id": "US|프라이드치킨",
+      "country": "미국",
+      "name": "프라이드치킨",
+      "aliases": [
+        "프라이드치킨",
+        "프라이드 치킨",
+        "Fried chicken",
+        "Southern fried chicken",
+        "peuraideucikin",
+        "peuraideu cikin",
+        "chicken"
+      ],
+      "latinAliases": [
+        "Fried chicken",
+        "Southern fried chicken",
+        "peuraideucikin",
+        "peuraideu cikin",
+        "chicken"
+      ]
+    },
+    {
+      "id": "US|애플파이",
+      "country": "미국",
+      "name": "애플파이",
+      "aliases": [
+        "애플파이",
+        "사과 파이",
+        "Apple pie",
+        "aepeulpai",
+        "sagwa pai"
+      ],
+      "latinAliases": [
+        "Apple pie",
+        "aepeulpai",
+        "sagwa pai"
+      ]
+    },
+    {
+      "id": "US|클램차우더",
+      "country": "미국",
+      "name": "클램차우더",
+      "aliases": [
+        "클램차우더",
+        "클램 차우더",
+        "Clam chowder",
+        "keulraemcaudeo",
+        "keulraem caudeo"
+      ],
+      "latinAliases": [
+        "Clam chowder",
+        "keulraemcaudeo",
+        "keulraem caudeo"
+      ]
+    },
+    {
+      "id": "US|버펄로윙",
+      "country": "미국",
+      "name": "버펄로윙",
+      "aliases": [
+        "버펄로윙",
+        "버펄로 윙",
+        "Buffalo wings",
+        "Buffalo wing",
+        "beopeolrowing",
+        "beopeolro wing"
+      ],
+      "latinAliases": [
+        "Buffalo wings",
+        "Buffalo wing",
+        "beopeolrowing",
+        "beopeolro wing"
+      ]
+    },
+    {
+      "id": "US|마카로니 앤 치즈",
+      "country": "미국",
+      "name": "마카로니 앤 치즈",
+      "aliases": [
+        "마카로니 앤 치즈",
+        "마카로니 앤드 치즈",
+        "Macaroni and cheese",
+        "Mac and cheese",
+        "makaroni aen cijeu",
+        "makaroni aendeu cijeu",
+        "cheese"
+      ],
+      "latinAliases": [
+        "Macaroni and cheese",
+        "Mac and cheese",
+        "makaroni aen cijeu",
+        "makaroni aendeu cijeu",
+        "cheese"
+      ]
+    },
+    {
+      "id": "US|팬케이크",
+      "country": "미국",
+      "name": "팬케이크",
+      "aliases": [
+        "팬케이크",
+        "Pancake",
+        "Pancakes",
+        "paenkeikeu",
+        "cake"
+      ],
+      "latinAliases": [
+        "Pancake",
+        "Pancakes",
+        "paenkeikeu",
+        "cake"
+      ]
+    },
+    {
+      "id": "US|뉴욕 스타일 피자",
+      "country": "미국",
+      "name": "뉴욕 스타일 피자",
+      "aliases": [
+        "뉴욕 스타일 피자",
+        "디트로이트식 피자",
+        "New York-style pizza",
+        "New York style pizza",
+        "Detroit-style pizza",
+        "nyuyog seutail pija",
+        "diteuroiteusig pija",
+        "pizza"
+      ],
+      "latinAliases": [
+        "New York-style pizza",
+        "New York style pizza",
+        "Detroit-style pizza",
+        "nyuyog seutail pija",
+        "diteuroiteusig pija",
+        "pizza"
+      ]
+    },
+    {
+      "id": "US|콘브레드",
+      "country": "미국",
+      "name": "콘브레드",
+      "aliases": [
+        "콘브레드",
+        "Cornbread",
+        "konbeuredeu"
+      ],
+      "latinAliases": [
+        "Cornbread",
+        "konbeuredeu"
+      ]
+    },
+    {
+      "id": "KR|김치",
+      "country": "대한민국",
+      "name": "김치",
+      "aliases": [
+        "김치",
+        "Kimchi",
+        "gimci",
+        "daehanmingug gimci"
+      ],
+      "latinAliases": [
+        "Kimchi",
+        "gimci",
+        "daehanmingug gimci"
+      ]
+    },
+    {
+      "id": "KR|비빔밥",
+      "country": "대한민국",
+      "name": "비빔밥",
+      "aliases": [
+        "비빔밥",
+        "Bibimbap",
+        "bibimbab"
+      ],
+      "latinAliases": [
+        "Bibimbap",
+        "bibimbab"
+      ]
+    },
+    {
+      "id": "KR|불고기",
+      "country": "대한민국",
+      "name": "불고기",
+      "aliases": [
+        "불고기",
+        "Bulgogi"
+      ],
+      "latinAliases": [
+        "Bulgogi"
+      ]
+    },
+    {
+      "id": "KR|잡채",
+      "country": "대한민국",
+      "name": "잡채",
+      "aliases": [
+        "잡채",
+        "Japchae",
+        "jabcae",
+        "daehanmingug jabcae"
+      ],
+      "latinAliases": [
+        "Japchae",
+        "jabcae",
+        "daehanmingug jabcae"
+      ]
+    },
+    {
+      "id": "KR|떡볶이",
+      "country": "대한민국",
+      "name": "떡볶이",
+      "aliases": [
+        "떡볶이",
+        "Tteokbokki",
+        "Ddeokbokki",
+        "ddeogboggi"
+      ],
+      "latinAliases": [
+        "Tteokbokki",
+        "Ddeokbokki",
+        "ddeogboggi"
+      ]
+    },
+    {
+      "id": "KR|삼계탕",
+      "country": "대한민국",
+      "name": "삼계탕",
+      "aliases": [
+        "삼계탕",
+        "Samgyetang",
+        "Ginseng chicken soup"
+      ],
+      "latinAliases": [
+        "Samgyetang",
+        "Ginseng chicken soup"
+      ]
+    },
+    {
+      "id": "KR|냉면",
+      "country": "대한민국",
+      "name": "냉면",
+      "aliases": [
+        "냉면",
+        "Naengmyeon",
+        "Cold noodles",
+        "daehanmingug naengmyeon"
+      ],
+      "latinAliases": [
+        "Naengmyeon",
+        "Cold noodles",
+        "daehanmingug naengmyeon"
+      ]
+    },
+    {
+      "id": "KR|김밥",
+      "country": "대한민국",
+      "name": "김밥",
+      "aliases": [
+        "김밥",
+        "Gimbap",
+        "Kimbap",
+        "gimbab",
+        "daehanmingug gimbab"
+      ],
+      "latinAliases": [
+        "Gimbap",
+        "Kimbap",
+        "gimbab",
+        "daehanmingug gimbab"
+      ]
+    },
+    {
+      "id": "KR|된장찌개",
+      "country": "대한민국",
+      "name": "된장찌개",
+      "aliases": [
+        "된장찌개",
+        "Doenjang jjigae",
+        "Soybean paste stew",
+        "doenjangjjigae"
+      ],
+      "latinAliases": [
+        "Doenjang jjigae",
+        "Soybean paste stew",
+        "doenjangjjigae"
+      ]
+    },
+    {
+      "id": "KR|떡국",
+      "country": "대한민국",
+      "name": "떡국",
+      "aliases": [
+        "떡국",
+        "Tteokguk",
+        "ddeoggug",
+        "daehanmingug ddeoggug"
+      ],
+      "latinAliases": [
+        "Tteokguk",
+        "ddeoggug",
+        "daehanmingug ddeoggug"
+      ]
+    },
+    {
+      "id": "KR|송편",
+      "country": "대한민국",
+      "name": "송편",
+      "aliases": [
+        "송편",
+        "Songpyeon",
+        "daehanmingug songpyeon"
+      ],
+      "latinAliases": [
+        "Songpyeon",
+        "daehanmingug songpyeon"
+      ]
+    },
+    {
+      "id": "KR|전",
+      "country": "대한민국",
+      "name": "전",
+      "aliases": [
+        "전",
+        "전 (음식)",
+        "Jeon Korean pancake",
+        "Jeon",
+        "Korean pancake",
+        "jeon (eumsig)",
+        "daehanmingug jeon"
+      ],
+      "latinAliases": [
+        "Jeon Korean pancake",
+        "Jeon",
+        "Korean pancake",
+        "jeon (eumsig)",
+        "daehanmingug jeon"
+      ]
+    },
+    {
+      "id": "KR|떡",
+      "country": "대한민국",
+      "name": "떡",
+      "aliases": [
+        "떡",
+        "Tteok",
+        "Korean rice cake",
+        "Rice cake",
+        "ddeog",
+        "daehanmingug ddeog"
+      ],
+      "latinAliases": [
+        "Tteok",
+        "Korean rice cake",
+        "Rice cake",
+        "ddeog",
+        "daehanmingug ddeog"
+      ]
+    },
+    {
+      "id": "KR|호떡",
+      "country": "대한민국",
+      "name": "호떡",
+      "aliases": [
+        "호떡",
+        "Hotteok",
+        "hoddeog",
+        "daehanmingug hoddeog"
+      ],
+      "latinAliases": [
+        "Hotteok",
+        "hoddeog",
+        "daehanmingug hoddeog"
+      ]
+    },
+    {
+      "id": "KR|고추장",
+      "country": "대한민국",
+      "name": "고추장",
+      "aliases": [
+        "고추장",
+        "Gochujang",
+        "gocujang"
+      ],
+      "latinAliases": [
+        "Gochujang",
+        "gocujang"
+      ]
+    },
+    {
+      "id": "IN|비리야니",
+      "country": "인도",
+      "name": "비리야니",
+      "aliases": [
+        "비리야니",
+        "Biryani",
+        "biriyani"
+      ],
+      "latinAliases": [
+        "Biryani",
+        "biriyani"
+      ]
+    },
+    {
+      "id": "IN|난",
+      "country": "인도",
+      "name": "난",
+      "aliases": [
+        "난",
+        "Naan",
+        "nan",
+        "indo nan"
+      ],
+      "latinAliases": [
+        "Naan",
+        "nan",
+        "indo nan"
+      ]
+    },
+    {
+      "id": "IN|탄두리 치킨",
+      "country": "인도",
+      "name": "탄두리 치킨",
+      "aliases": [
+        "탄두리 치킨",
+        "Tandoori chicken",
+        "tanduri cikin",
+        "chicken"
+      ],
+      "latinAliases": [
+        "Tandoori chicken",
+        "tanduri cikin",
+        "chicken"
+      ]
+    },
+    {
+      "id": "IN|도사",
+      "country": "인도",
+      "name": "도사",
+      "aliases": [
+        "도사",
+        "Dosa",
+        "indo dosa"
+      ],
+      "latinAliases": [
+        "Dosa",
+        "indo dosa"
+      ]
+    },
+    {
+      "id": "IN|사모사",
+      "country": "인도",
+      "name": "사모사",
+      "aliases": [
+        "사모사",
+        "Samosa"
+      ],
+      "latinAliases": [
+        "Samosa"
+      ]
+    },
+    {
+      "id": "IN|달",
+      "country": "인도",
+      "name": "달",
+      "aliases": [
+        "달",
+        "Dal",
+        "Daal",
+        "indo dal"
+      ],
+      "latinAliases": [
+        "Dal",
+        "Daal",
+        "indo dal"
+      ]
+    },
+    {
+      "id": "IN|팔락 파니르",
+      "country": "인도",
+      "name": "팔락 파니르",
+      "aliases": [
+        "팔락 파니르",
+        "Palak paneer",
+        "palrag panireu"
+      ],
+      "latinAliases": [
+        "Palak paneer",
+        "palrag panireu"
+      ]
+    },
+    {
+      "id": "IN|버터 치킨",
+      "country": "인도",
+      "name": "버터 치킨",
+      "aliases": [
+        "버터 치킨",
+        "Butter chicken",
+        "Murgh makhani",
+        "beoteo cikin",
+        "chicken"
+      ],
+      "latinAliases": [
+        "Butter chicken",
+        "Murgh makhani",
+        "beoteo cikin",
+        "chicken"
+      ]
+    },
+    {
+      "id": "IN|이들리",
+      "country": "인도",
+      "name": "이들리",
+      "aliases": [
+        "이들리",
+        "Idli",
+        "ideulri"
+      ],
+      "latinAliases": [
+        "Idli",
+        "ideulri"
+      ]
+    },
+    {
+      "id": "IN|차이",
+      "country": "인도",
+      "name": "차이",
+      "aliases": [
+        "차이",
+        "Chai",
+        "Masala chai",
+        "cai",
+        "indo cai"
+      ],
+      "latinAliases": [
+        "Chai",
+        "Masala chai",
+        "cai",
+        "indo cai"
+      ]
+    },
+    {
+      "id": "IN|커리",
+      "country": "인도",
+      "name": "커리",
+      "aliases": [
+        "커리",
+        "Curry",
+        "keori",
+        "indo keori"
+      ],
+      "latinAliases": [
+        "Curry",
+        "keori",
+        "indo keori"
+      ]
+    },
+    {
+      "id": "TH|팟타이",
+      "country": "태국",
+      "name": "팟타이",
+      "aliases": [
+        "팟타이",
+        "팟 타이",
+        "Pad Thai",
+        "Phat Thai",
+        "pastai",
+        "pas tai"
+      ],
+      "latinAliases": [
+        "Pad Thai",
+        "Phat Thai",
+        "pastai",
+        "pas tai"
+      ]
+    },
+    {
+      "id": "TH|똠얌꿍",
+      "country": "태국",
+      "name": "똠얌꿍",
+      "aliases": [
+        "똠얌꿍",
+        "똠 얌 꿍",
+        "Tom yum goong",
+        "Tom yam kung",
+        "ddomyamggung",
+        "ddom yam ggung"
+      ],
+      "latinAliases": [
+        "Tom yum goong",
+        "Tom yam kung",
+        "ddomyamggung",
+        "ddom yam ggung"
+      ]
+    },
+    {
+      "id": "TH|쏨땀",
+      "country": "태국",
+      "name": "쏨땀",
+      "aliases": [
+        "쏨땀",
+        "솜 땀",
+        "Som tam",
+        "Som tum",
+        "ssomddam",
+        "som ddam",
+        "taegug ssomddam"
+      ],
+      "latinAliases": [
+        "Som tam",
+        "Som tum",
+        "ssomddam",
+        "som ddam",
+        "taegug ssomddam"
+      ]
+    },
+    {
+      "id": "TH|그린 커리",
+      "country": "태국",
+      "name": "그린 커리",
+      "aliases": [
+        "그린 커리",
+        "Green curry",
+        "geurin keori",
+        "curry"
+      ],
+      "latinAliases": [
+        "Green curry",
+        "geurin keori",
+        "curry"
+      ]
+    },
+    {
+      "id": "TH|카오팟",
+      "country": "태국",
+      "name": "카오팟",
+      "aliases": [
+        "카오팟",
+        "카오 팟",
+        "Khao phat",
+        "Thai fried rice",
+        "Khao phat maphrao",
+        "Khao phat sapparot",
+        "kaopas",
+        "kao pas"
+      ],
+      "latinAliases": [
+        "Khao phat",
+        "Thai fried rice",
+        "Khao phat maphrao",
+        "Khao phat sapparot",
+        "kaopas",
+        "kao pas"
+      ]
+    },
+    {
+      "id": "TH|카오소이",
+      "country": "태국",
+      "name": "카오소이",
+      "aliases": [
+        "카오소이",
+        "카오 소이",
+        "Khao soi",
+        "kaosoi",
+        "kao soi"
+      ],
+      "latinAliases": [
+        "Khao soi",
+        "kaosoi",
+        "kao soi"
+      ]
+    },
+    {
+      "id": "TH|똠카가이",
+      "country": "태국",
+      "name": "똠카가이",
+      "aliases": [
+        "똠카가이",
+        "Tom kha kai",
+        "Tom kha gai",
+        "ต้มข่าไก่",
+        "Thai",
+        "pronounced",
+        "ddomkagai"
+      ],
+      "latinAliases": [
+        "Tom kha kai",
+        "Tom kha gai",
+        "Thai",
+        "pronounced",
+        "ddomkagai"
+      ]
+    },
+    {
+      "id": "TH|망고 찹쌀밥",
+      "country": "태국",
+      "name": "망고 찹쌀밥",
+      "aliases": [
+        "망고 찹쌀밥",
+        "망고",
+        "Mango sticky rice",
+        "Khao niao mamuang",
+        "mango",
+        "Mangifera indica",
+        "manggo cabssalbab",
+        "manggo"
+      ],
+      "latinAliases": [
+        "Mango sticky rice",
+        "Khao niao mamuang",
+        "mango",
+        "Mangifera indica",
+        "manggo cabssalbab",
+        "manggo"
+      ]
+    },
+    {
+      "id": "TH|뿌팟퐁커리",
+      "country": "태국",
+      "name": "뿌팟퐁커리",
+      "aliases": [
+        "뿌팟퐁커리",
+        "뿌 팟 퐁 까리",
+        "Pu pad pong curry",
+        "Poo pad pong kari",
+        "bbupaspongkeori",
+        "bbu pas pong ggari",
+        "curry"
+      ],
+      "latinAliases": [
+        "Pu pad pong curry",
+        "Poo pad pong kari",
+        "bbupaspongkeori",
+        "bbu pas pong ggari",
+        "curry"
+      ]
+    },
+    {
+      "id": "VN|퍼",
+      "country": "베트남",
+      "name": "퍼",
+      "aliases": [
+        "퍼",
+        "Phở",
+        "Pho",
+        "ph",
+        "peo",
+        "beteunam peo"
+      ],
+      "latinAliases": [
+        "Phở",
+        "Pho",
+        "ph",
+        "peo",
+        "beteunam peo"
+      ]
+    },
+    {
+      "id": "VN|반미",
+      "country": "베트남",
+      "name": "반미",
+      "aliases": [
+        "반미",
+        "Bánh mì",
+        "Banh mi",
+        "banmi",
+        "beteunam banmi"
+      ],
+      "latinAliases": [
+        "Bánh mì",
+        "Banh mi",
+        "banmi",
+        "beteunam banmi"
+      ]
+    },
+    {
+      "id": "VN|분짜",
+      "country": "베트남",
+      "name": "분짜",
+      "aliases": [
+        "분짜",
+        "분 짜",
+        "Bún chả",
+        "Bun cha",
+        "bún ch",
+        "bunjja",
+        "bun jja",
+        "beteunam bunjja"
+      ],
+      "latinAliases": [
+        "Bún chả",
+        "Bun cha",
+        "bún ch",
+        "bunjja",
+        "bun jja",
+        "beteunam bunjja"
+      ]
+    },
+    {
+      "id": "VN|고이꾸온",
+      "country": "베트남",
+      "name": "고이꾸온",
+      "aliases": [
+        "고이꾸온",
+        "고이 꾸온",
+        "Gỏi cuốn",
+        "Goi cuon",
+        "Vietnamese spring rolls",
+        "i cu",
+        "nem cu",
+        "Vietnamese roll",
+        "goigguon"
+      ],
+      "latinAliases": [
+        "Gỏi cuốn",
+        "Goi cuon",
+        "Vietnamese spring rolls",
+        "i cu",
+        "nem cu",
+        "Vietnamese roll",
+        "goigguon"
+      ]
+    },
+    {
+      "id": "VN|반쎄오",
+      "country": "베트남",
+      "name": "반쎄오",
+      "aliases": [
+        "반쎄오",
+        "바인 쌔오",
+        "Bánh xèo",
+        "Banh xeo",
+        "bansseo",
+        "bain ssaeo"
+      ],
+      "latinAliases": [
+        "Bánh xèo",
+        "Banh xeo",
+        "bansseo",
+        "bain ssaeo"
+      ]
+    },
+    {
+      "id": "VN|까오러우",
+      "country": "베트남",
+      "name": "까오러우",
+      "aliases": [
+        "까오러우",
+        "유재석",
+        "Cao lầu",
+        "Cao lau",
+        "KBS",
+        "MBC",
+        "ggaoreou",
+        "yujaeseog"
+      ],
+      "latinAliases": [
+        "Cao lầu",
+        "Cao lau",
+        "KBS",
+        "MBC",
+        "ggaoreou",
+        "yujaeseog"
+      ]
+    },
+    {
+      "id": "ID|나시고렝",
+      "country": "인도네시아",
+      "name": "나시고렝",
+      "aliases": [
+        "나시고렝",
+        "나시 고렝",
+        "Nasi goreng",
+        "nasigoreng"
+      ],
+      "latinAliases": [
+        "Nasi goreng",
+        "nasigoreng"
+      ]
+    },
+    {
+      "id": "ID|렌당",
+      "country": "인도네시아",
+      "name": "렌당",
+      "aliases": [
+        "렌당",
+        "른당",
+        "Rendang",
+        "reundang",
+        "indonesia rendang"
+      ],
+      "latinAliases": [
+        "Rendang",
+        "reundang",
+        "indonesia rendang"
+      ]
+    },
+    {
+      "id": "ID|사테",
+      "country": "인도네시아",
+      "name": "사테",
+      "aliases": [
+        "사테",
+        "Satay",
+        "Sate",
+        "saté",
+        "indonesia sate"
+      ],
+      "latinAliases": [
+        "Satay",
+        "Sate",
+        "saté",
+        "indonesia sate"
+      ]
+    },
+    {
+      "id": "ID|가도가도",
+      "country": "인도네시아",
+      "name": "가도가도",
+      "aliases": [
+        "가도가도",
+        "Gado-gado",
+        "Gado gado",
+        "gadogado"
+      ],
+      "latinAliases": [
+        "Gado-gado",
+        "Gado gado",
+        "gadogado"
+      ]
+    },
+    {
+      "id": "ID|소토",
+      "country": "인도네시아",
+      "name": "소토",
+      "aliases": [
+        "소토",
+        "Soto",
+        "indonesia soto"
+      ],
+      "latinAliases": [
+        "Soto",
+        "indonesia soto"
+      ]
+    },
+    {
+      "id": "ID|템페",
+      "country": "인도네시아",
+      "name": "템페",
+      "aliases": [
+        "템페",
+        "Tempeh",
+        "témpé",
+        "tempe",
+        "indonesia tempe"
+      ],
+      "latinAliases": [
+        "Tempeh",
+        "témpé",
+        "tempe",
+        "indonesia tempe"
+      ]
+    },
+    {
+      "id": "AU|미트파이",
+      "country": "호주",
+      "name": "미트파이",
+      "aliases": [
+        "미트파이",
+        "미트 파이",
+        "Meat pie",
+        "miteupai",
+        "miteu pai"
+      ],
+      "latinAliases": [
+        "Meat pie",
+        "miteupai",
+        "miteu pai"
+      ]
+    },
+    {
+      "id": "AU|베지마이트",
+      "country": "호주",
+      "name": "베지마이트",
+      "aliases": [
+        "베지마이트",
+        "Vegemite",
+        "bejimaiteu"
+      ],
+      "latinAliases": [
+        "Vegemite",
+        "bejimaiteu"
+      ]
+    },
+    {
+      "id": "AU|라밍턴",
+      "country": "호주",
+      "name": "라밍턴",
+      "aliases": [
+        "라밍턴",
+        "일루미나티",
+        "Lamington",
+        "Lamington cake",
+        "Illuminati",
+        "Illuminatenorden Bayern",
+        "Bavarian Illuminati",
+        "ramingteon",
+        "ilruminati"
+      ],
+      "latinAliases": [
+        "Lamington",
+        "Lamington cake",
+        "Illuminati",
+        "Illuminatenorden Bayern",
+        "Bavarian Illuminati",
+        "ramingteon",
+        "ilruminati"
+      ]
+    },
+    {
+      "id": "AU|파블로바",
+      "country": "호주",
+      "name": "파블로바",
+      "aliases": [
+        "파블로바",
+        "파블로바 (음식)",
+        "Pavlova",
+        "pabeulroba",
+        "pabeulroba (eumsig)"
+      ],
+      "latinAliases": [
+        "Pavlova",
+        "pabeulroba",
+        "pabeulroba (eumsig)"
+      ]
+    },
+    {
+      "id": "AU|바비큐",
+      "country": "호주",
+      "name": "바비큐",
+      "aliases": [
+        "바비큐",
+        "Barbecue",
+        "BBQ",
+        "babikyu"
+      ],
+      "latinAliases": [
+        "Barbecue",
+        "BBQ",
+        "babikyu"
+      ]
+    },
+    {
+      "id": "AU|안작 비스킷",
+      "country": "호주",
+      "name": "안작 비스킷",
+      "aliases": [
+        "안작 비스킷",
+        "앤잭 비스킷",
+        "Anzac biscuit",
+        "anjag biseukis",
+        "aenjaeg biseukis",
+        "biscuit"
+      ],
+      "latinAliases": [
+        "Anzac biscuit",
+        "anjag biseukis",
+        "aenjaeg biseukis",
+        "biscuit"
+      ]
+    },
+    {
+      "id": "AU|미트 파이",
+      "country": "호주",
+      "name": "미트 파이",
+      "aliases": [
+        "미트 파이",
+        "Meat pie",
+        "miteu pai"
+      ],
+      "latinAliases": [
+        "Meat pie",
+        "miteu pai"
+      ]
+    },
+    {
+      "id": "AU|베지마이트 토스트",
+      "country": "호주",
+      "name": "베지마이트 토스트",
+      "aliases": [
+        "베지마이트 토스트",
+        "베지마이트",
+        "Vegemite toast",
+        "bejimaiteu toseuteu",
+        "toast"
+      ],
+      "latinAliases": [
+        "Vegemite toast",
+        "bejimaiteu toseuteu",
+        "toast"
+      ]
+    },
+    {
+      "id": "AU|램 요리",
+      "country": "호주",
+      "name": "램 요리",
+      "aliases": [
+        "램 요리",
+        "양고기",
+        "Lamb dish",
+        "Australian lamb",
+        "raem yori",
+        "dish"
+      ],
+      "latinAliases": [
+        "Lamb dish",
+        "Australian lamb",
+        "raem yori",
+        "dish"
+      ]
+    },
+    {
+      "id": "CA|푸틴",
+      "country": "캐나다",
+      "name": "푸틴",
+      "aliases": [
+        "푸틴",
+        "푸틴 (음식)",
+        "Poutine",
+        "putin",
+        "putin (eumsig)",
+        "kaenada putin"
+      ],
+      "latinAliases": [
+        "Poutine",
+        "putin",
+        "putin (eumsig)",
+        "kaenada putin"
+      ]
+    },
+    {
+      "id": "CA|메이플 시럽",
+      "country": "캐나다",
+      "name": "메이플 시럽",
+      "aliases": [
+        "메이플 시럽",
+        "Maple syrup",
+        "sirop d'erable",
+        "esdoornsiroop",
+        "meipeul sireob",
+        "syrup"
+      ],
+      "latinAliases": [
+        "Maple syrup",
+        "sirop d'erable",
+        "esdoornsiroop",
+        "meipeul sireob",
+        "syrup"
+      ]
+    },
+    {
+      "id": "CA|투르티에르",
+      "country": "캐나다",
+      "name": "투르티에르",
+      "aliases": [
+        "투르티에르",
+        "고기 파이",
+        "Tourtière",
+        "Tourtiere",
+        "tureutiereu"
+      ],
+      "latinAliases": [
+        "Tourtière",
+        "Tourtiere",
+        "tureutiereu"
+      ]
+    },
+    {
+      "id": "CA|버터 타르트",
+      "country": "캐나다",
+      "name": "버터 타르트",
+      "aliases": [
+        "버터 타르트",
+        "타르트",
+        "Butter tart",
+        "beoteo tareuteu",
+        "tart"
+      ],
+      "latinAliases": [
+        "Butter tart",
+        "beoteo tareuteu",
+        "tart"
+      ]
+    },
+    {
+      "id": "CA|나나이모 바",
+      "country": "캐나다",
+      "name": "나나이모 바",
+      "aliases": [
+        "나나이모 바",
+        "Nanaimo bar",
+        "NY-moh",
+        "crumb",
+        "nanaimo ba"
+      ],
+      "latinAliases": [
+        "Nanaimo bar",
+        "NY-moh",
+        "crumb",
+        "nanaimo ba"
+      ]
+    },
+    {
+      "id": "CA|몬트리올 베이글",
+      "country": "캐나다",
+      "name": "몬트리올 베이글",
+      "aliases": [
+        "몬트리올 베이글",
+        "Montreal-style bagel",
+        "monteuriol beigeul"
+      ],
+      "latinAliases": [
+        "Montreal-style bagel",
+        "monteuriol beigeul"
+      ]
+    },
+    {
+      "id": "CA|연어 요리",
+      "country": "캐나다",
+      "name": "연어 요리",
+      "aliases": [
+        "연어 요리",
+        "연어 (음식)",
+        "Salmon dish",
+        "Salmon",
+        "yeoneo yori",
+        "dish"
+      ],
+      "latinAliases": [
+        "Salmon dish",
+        "Salmon",
+        "yeoneo yori",
+        "dish"
+      ]
+    },
+    {
+      "id": "CA|베이글",
+      "country": "캐나다",
+      "name": "베이글",
+      "aliases": [
+        "베이글",
+        "Bagel",
+        "beygl",
+        "beigeul"
+      ],
+      "latinAliases": [
+        "Bagel",
+        "beygl",
+        "beigeul"
+      ]
+    },
+    {
+      "id": "CA|배넉",
+      "country": "캐나다",
+      "name": "배넉",
+      "aliases": [
+        "배넉",
+        "배넉 (음식)",
+        "Bannock",
+        "baeneog",
+        "baeneog (eumsig)",
+        "kaenada baeneog"
+      ],
+      "latinAliases": [
+        "Bannock",
+        "baeneog",
+        "baeneog (eumsig)",
+        "kaenada baeneog"
+      ]
+    },
+    {
+      "id": "MX|타코",
+      "country": "멕시코",
+      "name": "타코",
+      "aliases": [
+        "타코",
+        "Taco",
+        "tako",
+        "megsiko tako"
+      ],
+      "latinAliases": [
+        "Taco",
+        "tako",
+        "megsiko tako"
+      ]
+    },
+    {
+      "id": "MX|몰레",
+      "country": "멕시코",
+      "name": "몰레",
+      "aliases": [
+        "몰레",
+        "Mole sauce",
+        "Mole",
+        "molre",
+        "megsiko molre"
+      ],
+      "latinAliases": [
+        "Mole sauce",
+        "Mole",
+        "molre",
+        "megsiko molre"
+      ]
+    },
+    {
+      "id": "MX|타말",
+      "country": "멕시코",
+      "name": "타말",
+      "aliases": [
+        "타말",
+        "Tamal",
+        "Tamale",
+        "megsiko tamal"
+      ],
+      "latinAliases": [
+        "Tamal",
+        "Tamale",
+        "megsiko tamal"
+      ]
+    },
+    {
+      "id": "MX|포솔레",
+      "country": "멕시코",
+      "name": "포솔레",
+      "aliases": [
+        "포솔레",
+        "Pozole",
+        "pozolli",
+        "posolre"
+      ],
+      "latinAliases": [
+        "Pozole",
+        "pozolli",
+        "posolre"
+      ]
+    },
+    {
+      "id": "MX|과카몰레",
+      "country": "멕시코",
+      "name": "과카몰레",
+      "aliases": [
+        "과카몰레",
+        "Guacamole",
+        "Totopo",
+        "Aguacate",
+        "gwakamolre"
+      ],
+      "latinAliases": [
+        "Guacamole",
+        "Totopo",
+        "Aguacate",
+        "gwakamolre"
+      ]
+    },
+    {
+      "id": "MX|엔칠라다",
+      "country": "멕시코",
+      "name": "엔칠라다",
+      "aliases": [
+        "엔칠라다",
+        "Enchilada",
+        "enchilada IPA",
+        "ent",
+        "encilrada"
+      ],
+      "latinAliases": [
+        "Enchilada",
+        "enchilada IPA",
+        "ent",
+        "encilrada"
+      ]
+    },
+    {
+      "id": "BR|페이조아다",
+      "country": "브라질",
+      "name": "페이조아다",
+      "aliases": [
+        "페이조아다",
+        "Feijoada",
+        "peijoada"
+      ],
+      "latinAliases": [
+        "Feijoada",
+        "peijoada"
+      ]
+    },
+    {
+      "id": "BR|슈하스코",
+      "country": "브라질",
+      "name": "슈하스코",
+      "aliases": [
+        "슈하스코",
+        "슈하스쿠",
+        "Churrasco",
+        "syuhaseuko",
+        "syuhaseuku"
+      ],
+      "latinAliases": [
+        "Churrasco",
+        "syuhaseuko",
+        "syuhaseuku"
+      ]
+    },
+    {
+      "id": "BR|모케카",
+      "country": "브라질",
+      "name": "모케카",
+      "aliases": [
+        "모케카",
+        "Moqueca",
+        "mokeka"
+      ],
+      "latinAliases": [
+        "Moqueca",
+        "mokeka"
+      ]
+    },
+    {
+      "id": "BR|파웅 지 케이주",
+      "country": "브라질",
+      "name": "파웅 지 케이주",
+      "aliases": [
+        "파웅 지 케이주",
+        "브라질의 문화",
+        "Pão de queijo",
+        "Pao de queijo",
+        "paung ji keiju",
+        "beurajilyi munhwa"
+      ],
+      "latinAliases": [
+        "Pão de queijo",
+        "Pao de queijo",
+        "paung ji keiju",
+        "beurajilyi munhwa"
+      ]
+    },
+    {
+      "id": "BR|아카라제",
+      "country": "브라질",
+      "name": "아카라제",
+      "aliases": [
+        "아카라제",
+        "아카라",
+        "Acarajé",
+        "Acaraje",
+        "akaraje",
+        "akara"
+      ],
+      "latinAliases": [
+        "Acarajé",
+        "Acaraje",
+        "akaraje",
+        "akara"
+      ]
+    },
+    {
+      "id": "BR|브리가데이루",
+      "country": "브라질",
+      "name": "브리가데이루",
+      "aliases": [
+        "브리가데이루",
+        "Brigadeiro",
+        "beurigadeiru"
+      ],
+      "latinAliases": [
+        "Brigadeiro",
+        "beurigadeiru"
+      ]
+    },
+    {
+      "id": "BR|팡 지 케이주",
+      "country": "브라질",
+      "name": "팡 지 케이주",
+      "aliases": [
+        "팡 지 케이주",
+        "Pão de queijo",
+        "Pao de queijo",
+        "pang ji keiju"
+      ],
+      "latinAliases": [
+        "Pão de queijo",
+        "Pao de queijo",
+        "pang ji keiju"
+      ]
+    },
+    {
+      "id": "BR|아사이 볼",
+      "country": "브라질",
+      "name": "아사이 볼",
+      "aliases": [
+        "아사이 볼",
+        "Açaí bowl",
+        "Acai bowl",
+        "açaí na tigela",
+        "asai bol"
+      ],
+      "latinAliases": [
+        "Açaí bowl",
+        "Acai bowl",
+        "açaí na tigela",
+        "asai bol"
+      ]
+    },
+    {
+      "id": "GB|피시 앤 칩스",
+      "country": "영국",
+      "name": "피시 앤 칩스",
+      "aliases": [
+        "피시 앤 칩스",
+        "피시 앤드 칩스",
+        "Fish and chips",
+        "pisi aen cibseu",
+        "pisi aendeu cibseu"
+      ],
+      "latinAliases": [
+        "Fish and chips",
+        "pisi aen cibseu",
+        "pisi aendeu cibseu"
+      ]
+    },
+    {
+      "id": "GB|선데이 로스트",
+      "country": "영국",
+      "name": "선데이 로스트",
+      "aliases": [
+        "선데이 로스트",
+        "Sunday roast",
+        "seondei roseuteu"
+      ],
+      "latinAliases": [
+        "Sunday roast",
+        "seondei roseuteu"
+      ]
+    },
+    {
+      "id": "GB|셰퍼드 파이",
+      "country": "영국",
+      "name": "셰퍼드 파이",
+      "aliases": [
+        "셰퍼드 파이",
+        "Shepherd's pie",
+        "Shepherds pie",
+        "cottage pie",
+        "syepeodeu pai"
+      ],
+      "latinAliases": [
+        "Shepherd's pie",
+        "Shepherds pie",
+        "cottage pie",
+        "syepeodeu pai"
+      ]
+    },
+    {
+      "id": "GB|스콘",
+      "country": "영국",
+      "name": "스콘",
+      "aliases": [
+        "스콘",
+        "Scone",
+        "seukon",
+        "yeonggug seukon"
+      ],
+      "latinAliases": [
+        "Scone",
+        "seukon",
+        "yeonggug seukon"
+      ]
+    },
+    {
+      "id": "GB|해기스",
+      "country": "영국",
+      "name": "해기스",
+      "aliases": [
+        "해기스",
+        "Haggis",
+        "taigeis",
+        "haegiseu"
+      ],
+      "latinAliases": [
+        "Haggis",
+        "taigeis",
+        "haegiseu"
+      ]
+    },
+    {
+      "id": "GB|애프터눈 티",
+      "country": "영국",
+      "name": "애프터눈 티",
+      "aliases": [
+        "애프터눈 티",
+        "티 (식사)",
+        "Afternoon tea",
+        "aepeuteonun ti",
+        "ti (sigsa)"
+      ],
+      "latinAliases": [
+        "Afternoon tea",
+        "aepeuteonun ti",
+        "ti (sigsa)"
+      ]
+    },
+    {
+      "id": "GB|잉글리시 브렉퍼스트",
+      "country": "영국",
+      "name": "잉글리시 브렉퍼스트",
+      "aliases": [
+        "잉글리시 브렉퍼스트",
+        "English breakfast",
+        "Full English breakfast",
+        "fry-up",
+        "inggeulrisi beuregpeoseuteu"
+      ],
+      "latinAliases": [
+        "English breakfast",
+        "Full English breakfast",
+        "fry-up",
+        "inggeulrisi beuregpeoseuteu"
+      ]
+    },
+    {
+      "id": "GB|샌드위치",
+      "country": "영국",
+      "name": "샌드위치",
+      "aliases": [
+        "샌드위치",
+        "Sandwich",
+        "Open sandwich",
+        "Closed sandwich",
+        "saendeuwici"
+      ],
+      "latinAliases": [
+        "Sandwich",
+        "Open sandwich",
+        "Closed sandwich",
+        "saendeuwici"
+      ]
+    },
+    {
+      "id": "DE|브라트부르스트",
+      "country": "독일",
+      "name": "브라트부르스트",
+      "aliases": [
+        "브라트부르스트",
+        "Bratwurst",
+        "beurateubureuseuteu"
+      ],
+      "latinAliases": [
+        "Bratwurst",
+        "beurateubureuseuteu"
+      ]
+    },
+    {
+      "id": "DE|프레첼",
+      "country": "독일",
+      "name": "프레첼",
+      "aliases": [
+        "프레첼",
+        "브레첼",
+        "Pretzel",
+        "Bretzel",
+        "peurecel",
+        "beurecel"
+      ],
+      "latinAliases": [
+        "Pretzel",
+        "Bretzel",
+        "peurecel",
+        "beurecel"
+      ]
+    },
+    {
+      "id": "DE|자우어브라텐",
+      "country": "독일",
+      "name": "자우어브라텐",
+      "aliases": [
+        "자우어브라텐",
+        "Sauerbraten",
+        "jaueobeuraten"
+      ],
+      "latinAliases": [
+        "Sauerbraten",
+        "jaueobeuraten"
+      ]
+    },
+    {
+      "id": "DE|슈페츨레",
+      "country": "독일",
+      "name": "슈페츨레",
+      "aliases": [
+        "슈페츨레",
+        "Spätzle",
+        "Spaetzle",
+        "syupeceulre"
+      ],
+      "latinAliases": [
+        "Spätzle",
+        "Spaetzle",
+        "syupeceulre"
+      ]
+    },
+    {
+      "id": "DE|슈니첼",
+      "country": "독일",
+      "name": "슈니첼",
+      "aliases": [
+        "슈니첼",
+        "Schnitzel",
+        "syunicel"
+      ],
+      "latinAliases": [
+        "Schnitzel",
+        "syunicel"
+      ]
+    },
+    {
+      "id": "DE|슈바르츠발트 케이크",
+      "country": "독일",
+      "name": "슈바르츠발트 케이크",
+      "aliases": [
+        "슈바르츠발트 케이크",
+        "Black Forest cake",
+        "Schwarzwälder Kirschtorte",
+        "syubareuceubalteu keikeu",
+        "cake"
+      ],
+      "latinAliases": [
+        "Black Forest cake",
+        "Schwarzwälder Kirschtorte",
+        "syubareuceubalteu keikeu",
+        "cake"
+      ]
+    },
+    {
+      "id": "GR|무사카",
+      "country": "그리스",
+      "name": "무사카",
+      "aliases": [
+        "무사카",
+        "Moussaka",
+        "musaka"
+      ],
+      "latinAliases": [
+        "Moussaka",
+        "musaka"
+      ]
+    },
+    {
+      "id": "GR|수블라키",
+      "country": "그리스",
+      "name": "수블라키",
+      "aliases": [
+        "수블라키",
+        "Souvlaki",
+        "subeulraki"
+      ],
+      "latinAliases": [
+        "Souvlaki",
+        "subeulraki"
+      ]
+    },
+    {
+      "id": "GR|그릭 샐러드",
+      "country": "그리스",
+      "name": "그릭 샐러드",
+      "aliases": [
+        "그릭 샐러드",
+        "과일 샐러드",
+        "Greek salad",
+        "Fruit salad",
+        "geurig saelreodeu",
+        "gwail saelreodeu",
+        "salad"
+      ],
+      "latinAliases": [
+        "Greek salad",
+        "Fruit salad",
+        "geurig saelreodeu",
+        "gwail saelreodeu",
+        "salad"
+      ]
+    },
+    {
+      "id": "GR|차치키",
+      "country": "그리스",
+      "name": "차치키",
+      "aliases": [
+        "차치키",
+        "AC 키에보베로나",
+        "Tzatziki",
+        "τζατζίκι",
+        "Associazione Calcio ChievoVerona S.r.l.",
+        "ChievoVerona",
+        "Chievo",
+        "caciki",
+        "AC kieboberona"
+      ],
+      "latinAliases": [
+        "AC 키에보베로나",
+        "Tzatziki",
+        "Associazione Calcio ChievoVerona S.r.l.",
+        "ChievoVerona",
+        "Chievo",
+        "caciki",
+        "AC kieboberona"
+      ]
+    },
+    {
+      "id": "GR|스파나코피타",
+      "country": "그리스",
+      "name": "스파나코피타",
+      "aliases": [
+        "스파나코피타",
+        "Spanakopita",
+        "seupanakopita"
+      ],
+      "latinAliases": [
+        "Spanakopita",
+        "seupanakopita"
+      ]
+    },
+    {
+      "id": "GR|돌마데스",
+      "country": "그리스",
+      "name": "돌마데스",
+      "aliases": [
+        "돌마데스",
+        "포도잎말이",
+        "Dolmades",
+        "Dolma",
+        "dolmadeseu",
+        "podoipmali"
+      ],
+      "latinAliases": [
+        "Dolmades",
+        "Dolma",
+        "dolmadeseu",
+        "podoipmali"
+      ]
+    },
+    {
+      "id": "TR|케밥",
+      "country": "튀르키예",
+      "name": "케밥",
+      "aliases": [
+        "케밥",
+        "Kebab",
+        "kebap",
+        "twireukiye kebab"
+      ],
+      "latinAliases": [
+        "Kebab",
+        "kebap",
+        "twireukiye kebab"
+      ]
+    },
+    {
+      "id": "TR|되네르",
+      "country": "튀르키예",
+      "name": "되네르",
+      "aliases": [
+        "되네르",
+        "Döner kebab",
+        "Doner kebab",
+        "döner",
+        "döner kebap",
+        "doenereu"
+      ],
+      "latinAliases": [
+        "Döner kebab",
+        "Doner kebab",
+        "döner",
+        "döner kebap",
+        "doenereu"
+      ]
+    },
+    {
+      "id": "TR|만티",
+      "country": "튀르키예",
+      "name": "만티",
+      "aliases": [
+        "만티",
+        "만트",
+        "Manti",
+        "manteu",
+        "twireukiye manti"
+      ],
+      "latinAliases": [
+        "Manti",
+        "manteu",
+        "twireukiye manti"
+      ]
+    },
+    {
+      "id": "TR|피데",
+      "country": "튀르키예",
+      "name": "피데",
+      "aliases": [
+        "피데",
+        "이스켄데르 케밥",
+        "Pide",
+        "İskender kebap",
+        "iskender döner",
+        "İskenderoğlu",
+        "iseukendereu kebab",
+        "twireukiye pide"
+      ],
+      "latinAliases": [
+        "Pide",
+        "İskender kebap",
+        "iskender döner",
+        "İskenderoğlu",
+        "iseukendereu kebab",
+        "twireukiye pide"
+      ]
+    },
+    {
+      "id": "TR|바클라바",
+      "country": "튀르키예",
+      "name": "바클라바",
+      "aliases": [
+        "바클라바",
+        "Baklava",
+        "bakeulraba"
+      ],
+      "latinAliases": [
+        "Baklava",
+        "bakeulraba"
+      ]
+    },
+    {
+      "id": "TR|메네멘",
+      "country": "튀르키예",
+      "name": "메네멘",
+      "aliases": [
+        "메네멘",
+        "Menemen"
+      ],
+      "latinAliases": [
+        "Menemen"
+      ]
+    },
+    {
+      "id": "EG|코샤리",
+      "country": "이집트",
+      "name": "코샤리",
+      "aliases": [
+        "코샤리",
+        "Koshari",
+        "Kushari",
+        "kosyari"
+      ],
+      "latinAliases": [
+        "Koshari",
+        "Kushari",
+        "kosyari"
+      ]
+    },
+    {
+      "id": "EG|풀 메담메스",
+      "country": "이집트",
+      "name": "풀 메담메스",
+      "aliases": [
+        "풀 메담메스",
+        "Ful medames",
+        "Foul medames",
+        "pul medammeseu"
+      ],
+      "latinAliases": [
+        "Ful medames",
+        "Foul medames",
+        "pul medammeseu"
+      ]
+    },
+    {
+      "id": "EG|타메야",
+      "country": "이집트",
+      "name": "타메야",
+      "aliases": [
+        "타메야",
+        "팔라펠",
+        "Taameya",
+        "Tamiya",
+        "Egyptian falafel",
+        "Falafel",
+        "tameya",
+        "palrapel"
+      ],
+      "latinAliases": [
+        "Taameya",
+        "Tamiya",
+        "Egyptian falafel",
+        "Falafel",
+        "tameya",
+        "palrapel"
+      ]
+    },
+    {
+      "id": "EG|몰로키야",
+      "country": "이집트",
+      "name": "몰로키야",
+      "aliases": [
+        "몰로키야",
+        "Molokhia",
+        "Mulukhiyah",
+        "molrokiya"
+      ],
+      "latinAliases": [
+        "Molokhia",
+        "Mulukhiyah",
+        "molrokiya"
+      ]
+    },
+    {
+      "id": "EG|파타",
+      "country": "이집트",
+      "name": "파타",
+      "aliases": [
+        "파타",
+        "Fattah",
+        "Egyptian fattah",
+        "pata",
+        "ijibteu pata"
+      ],
+      "latinAliases": [
+        "Fattah",
+        "Egyptian fattah",
+        "pata",
+        "ijibteu pata"
+      ]
+    },
+    {
+      "id": "EG|바스부사",
+      "country": "이집트",
+      "name": "바스부사",
+      "aliases": [
+        "바스부사",
+        "Basbousa",
+        "basbūsah",
+        "baseubusa"
+      ],
+      "latinAliases": [
+        "Basbousa",
+        "basbūsah",
+        "baseubusa"
+      ]
+    },
+    {
+      "id": "EG|풀 메다메스",
+      "country": "이집트",
+      "name": "풀 메다메스",
+      "aliases": [
+        "풀 메다메스",
+        "스트로베리 딜라이트",
+        "Ful medames",
+        "Foul medames",
+        "Strawberry delight",
+        "The Soda fountain",
+        "deser-e toot farangi",
+        "pul medameseu",
+        "seuteuroberi dilraiteu"
+      ],
+      "latinAliases": [
+        "Ful medames",
+        "Foul medames",
+        "Strawberry delight",
+        "The Soda fountain",
+        "deser-e toot farangi",
+        "pul medameseu",
+        "seuteuroberi dilraiteu"
+      ]
+    },
+    {
+      "id": "EG|아이시 발라디",
+      "country": "이집트",
+      "name": "아이시 발라디",
+      "aliases": [
+        "아이시 발라디",
+        "빵",
+        "Aish baladi",
+        "Eish baladi",
+        "aisi balradi"
+      ],
+      "latinAliases": [
+        "Aish baladi",
+        "Eish baladi",
+        "aisi balradi"
+      ]
+    },
+    {
+      "id": "ZA|보보티",
+      "country": "남아프리카공화국",
+      "name": "보보티",
+      "aliases": [
+        "보보티",
+        "Bobotie",
+        "boboti"
+      ],
+      "latinAliases": [
+        "Bobotie",
+        "boboti"
+      ]
+    },
+    {
+      "id": "ZA|브라이",
+      "country": "남아프리카공화국",
+      "name": "브라이",
+      "aliases": [
+        "브라이",
+        "Braai",
+        "beurai"
+      ],
+      "latinAliases": [
+        "Braai",
+        "beurai"
+      ]
+    },
+    {
+      "id": "ZA|빌통",
+      "country": "남아프리카공화국",
+      "name": "빌통",
+      "aliases": [
+        "빌통",
+        "Biltong",
+        "namapeurikagonghwagug biltong"
+      ],
+      "latinAliases": [
+        "Biltong",
+        "namapeurikagonghwagug biltong"
+      ]
+    },
+    {
+      "id": "ZA|버니 차우",
+      "country": "남아프리카공화국",
+      "name": "버니 차우",
+      "aliases": [
+        "버니 차우",
+        "Bunny chow",
+        "beoni cau"
+      ],
+      "latinAliases": [
+        "Bunny chow",
+        "beoni cau"
+      ]
+    },
+    {
+      "id": "ZA|보어워스",
+      "country": "남아프리카공화국",
+      "name": "보어워스",
+      "aliases": [
+        "보어워스",
+        "코스워스 DFV",
+        "Boerewors",
+        "Double Four Valve",
+        "boeoweoseu",
+        "koseuweoseu DFV"
+      ],
+      "latinAliases": [
+        "코스워스 DFV",
+        "Boerewors",
+        "Double Four Valve",
+        "boeoweoseu",
+        "koseuweoseu DFV"
+      ]
+    },
+    {
+      "id": "ZA|밀크타르트",
+      "country": "남아프리카공화국",
+      "name": "밀크타르트",
+      "aliases": [
+        "밀크타르트",
+        "동티모르 요리",
+        "Milk tart",
+        "Melktert",
+        "cozinha timorense",
+        "Timor",
+        "hahaan Timor",
+        "milkeutareuteu",
+        "dongtimoreu yori"
+      ],
+      "latinAliases": [
+        "Milk tart",
+        "Melktert",
+        "cozinha timorense",
+        "Timor",
+        "hahaan Timor",
+        "milkeutareuteu",
+        "dongtimoreu yori"
+      ]
+    },
+    {
+      "id": "PH|아도보",
+      "country": "필리핀",
+      "name": "아도보",
+      "aliases": [
+        "아도보",
+        "아도보 (스페인 음식)",
+        "Adobo",
+        "adobo (seupein eumsig)"
+      ],
+      "latinAliases": [
+        "Adobo",
+        "adobo (seupein eumsig)"
+      ]
+    },
+    {
+      "id": "PH|시니강",
+      "country": "필리핀",
+      "name": "시니강",
+      "aliases": [
+        "시니강",
+        "Sinigang"
+      ],
+      "latinAliases": [
+        "Sinigang"
+      ]
+    },
+    {
+      "id": "PH|레촌",
+      "country": "필리핀",
+      "name": "레촌",
+      "aliases": [
+        "레촌",
+        "애저 (돼지)",
+        "Lechon",
+        "recon",
+        "pilripin recon"
+      ],
+      "latinAliases": [
+        "Lechon",
+        "recon",
+        "pilripin recon"
+      ]
+    },
+    {
+      "id": "PH|판싯",
+      "country": "필리핀",
+      "name": "판싯",
+      "aliases": [
+        "판싯",
+        "Pancit",
+        "pansit",
+        "pansis",
+        "pilripin pansis"
+      ],
+      "latinAliases": [
+        "Pancit",
+        "pansit",
+        "pansis",
+        "pilripin pansis"
+      ]
+    },
+    {
+      "id": "PH|룸피아",
+      "country": "필리핀",
+      "name": "룸피아",
+      "aliases": [
+        "룸피아",
+        "룬삐앙",
+        "Lumpia",
+        "rùnb",
+        "ng",
+        "lūn-piá",
+        "rumpia",
+        "runbbiang"
+      ],
+      "latinAliases": [
+        "Lumpia",
+        "rùnb",
+        "ng",
+        "lūn-piá",
+        "rumpia",
+        "runbbiang"
+      ]
+    },
+    {
+      "id": "PH|할로할로",
+      "country": "필리핀",
+      "name": "할로할로",
+      "aliases": [
+        "할로할로",
+        "Halo-halo",
+        "Halo halo",
+        "haluhalo",
+        "halrohalro"
+      ],
+      "latinAliases": [
+        "Halo-halo",
+        "Halo halo",
+        "haluhalo",
+        "halrohalro"
+      ]
+    },
+    {
+      "id": "SG|하이난 치킨라이스",
+      "country": "싱가포르",
+      "name": "하이난 치킨라이스",
+      "aliases": [
+        "하이난 치킨라이스",
+        "Hainanese chicken rice",
+        "hainan cikinraiseu",
+        "chicken"
+      ],
+      "latinAliases": [
+        "Hainanese chicken rice",
+        "hainan cikinraiseu",
+        "chicken"
+      ]
+    },
+    {
+      "id": "SG|칠리크랩",
+      "country": "싱가포르",
+      "name": "칠리크랩",
+      "aliases": [
+        "칠리크랩",
+        "칠리 크랩",
+        "Chilli crab",
+        "Chili crab",
+        "cilrikeuraeb",
+        "cilri keuraeb"
+      ],
+      "latinAliases": [
+        "Chilli crab",
+        "Chili crab",
+        "cilrikeuraeb",
+        "cilri keuraeb"
+      ]
+    },
+    {
+      "id": "SG|락사",
+      "country": "싱가포르",
+      "name": "락사",
+      "aliases": [
+        "락사",
+        "Laksa",
+        "ragsa",
+        "singgaporeu ragsa"
+      ],
+      "latinAliases": [
+        "Laksa",
+        "ragsa",
+        "singgaporeu ragsa"
+      ]
+    },
+    {
+      "id": "SG|카야토스트",
+      "country": "싱가포르",
+      "name": "카야토스트",
+      "aliases": [
+        "카야토스트",
+        "카야 토스트",
+        "Kaya toast",
+        "kayatoseuteu",
+        "kaya toseuteu",
+        "toast"
+      ],
+      "latinAliases": [
+        "Kaya toast",
+        "kayatoseuteu",
+        "kaya toseuteu",
+        "toast"
+      ]
+    },
+    {
+      "id": "SG|바쿠테",
+      "country": "싱가포르",
+      "name": "바쿠테",
+      "aliases": [
+        "바쿠테",
+        "Bak kut teh",
+        "bakute"
+      ],
+      "latinAliases": [
+        "Bak kut teh",
+        "bakute"
+      ]
+    },
+    {
+      "id": "SG|차퀘이테오",
+      "country": "싱가포르",
+      "name": "차퀘이테오",
+      "aliases": [
+        "차퀘이테오",
+        "2018-19년 UEFA 유로파리그",
+        "Char kway teow",
+        "UEFA Europa League",
+        "cakweiteo",
+        "2018-19nyeon UEFA yuroparigeu"
+      ],
+      "latinAliases": [
+        "2018-19년 UEFA 유로파리그",
+        "Char kway teow",
+        "UEFA Europa League",
+        "cakweiteo",
+        "2018-19nyeon UEFA yuroparigeu"
+      ]
+    },
+    {
+      "id": "MY|나시르막",
+      "country": "말레이시아",
+      "name": "나시르막",
+      "aliases": [
+        "나시르막",
+        "나시 르막",
+        "Nasi lemak",
+        "nasireumag",
+        "nasi reumag"
+      ],
+      "latinAliases": [
+        "Nasi lemak",
+        "nasireumag",
+        "nasi reumag"
+      ]
+    },
+    {
+      "id": "MY|차퀘이테오",
+      "country": "말레이시아",
+      "name": "차퀘이테오",
+      "aliases": [
+        "차퀘이테오",
+        "2018-19년 UEFA 유로파리그",
+        "Char kway teow",
+        "UEFA Europa League",
+        "cakweiteo",
+        "2018-19nyeon UEFA yuroparigeu"
+      ],
+      "latinAliases": [
+        "2018-19년 UEFA 유로파리그",
+        "Char kway teow",
+        "UEFA Europa League",
+        "cakweiteo",
+        "2018-19nyeon UEFA yuroparigeu"
+      ]
+    },
+    {
+      "id": "MY|로티차나이",
+      "country": "말레이시아",
+      "name": "로티차나이",
+      "aliases": [
+        "로티차나이",
+        "로티 차나이",
+        "Roti canai",
+        "roti prata",
+        "roticanai"
+      ],
+      "latinAliases": [
+        "Roti canai",
+        "roti prata",
+        "roticanai"
+      ]
+    },
+    {
+      "id": "MY|사테",
+      "country": "말레이시아",
+      "name": "사테",
+      "aliases": [
+        "사테",
+        "Satay",
+        "Sate",
+        "saté",
+        "malreisia sate"
+      ],
+      "latinAliases": [
+        "Satay",
+        "Sate",
+        "saté",
+        "malreisia sate"
+      ]
+    },
+    {
+      "id": "MY|락사",
+      "country": "말레이시아",
+      "name": "락사",
+      "aliases": [
+        "락사",
+        "Laksa",
+        "ragsa",
+        "malreisia ragsa"
+      ],
+      "latinAliases": [
+        "Laksa",
+        "ragsa",
+        "malreisia ragsa"
+      ]
+    },
+    {
+      "id": "MY|렌당",
+      "country": "말레이시아",
+      "name": "렌당",
+      "aliases": [
+        "렌당",
+        "른당",
+        "Rendang",
+        "reundang",
+        "malreisia rendang"
+      ],
+      "latinAliases": [
+        "Rendang",
+        "reundang",
+        "malreisia rendang"
+      ]
+    },
+    {
+      "id": "NO|포리콜",
+      "country": "노르웨이",
+      "name": "포리콜",
+      "aliases": [
+        "포리콜",
+        "Fårikål",
+        "Farikal",
+        "porikol"
+      ],
+      "latinAliases": [
+        "Fårikål",
+        "Farikal",
+        "porikol"
+      ]
+    },
+    {
+      "id": "NO|루테피스크",
+      "country": "노르웨이",
+      "name": "루테피스크",
+      "aliases": [
+        "루테피스크",
+        "Lutefisk",
+        "lutfisk",
+        "ludfisk",
+        "rutepiseukeu"
+      ],
+      "latinAliases": [
+        "Lutefisk",
+        "lutfisk",
+        "ludfisk",
+        "rutepiseukeu"
+      ]
+    },
+    {
+      "id": "NO|라크피스크",
+      "country": "노르웨이",
+      "name": "라크피스크",
+      "aliases": [
+        "라크피스크",
+        "Rakfisk",
+        "rakeupiseukeu"
+      ],
+      "latinAliases": [
+        "Rakfisk",
+        "rakeupiseukeu"
+      ]
+    },
+    {
+      "id": "NO|브루노스트",
+      "country": "노르웨이",
+      "name": "브루노스트",
+      "aliases": [
+        "브루노스트",
+        "Brunost",
+        "beurunoseuteu"
+      ],
+      "latinAliases": [
+        "Brunost",
+        "beurunoseuteu"
+      ]
+    },
+    {
+      "id": "NO|크룸카케",
+      "country": "노르웨이",
+      "name": "크룸카케",
+      "aliases": [
+        "크룸카케",
+        "Krumkake",
+        "krumkaker",
+        "keurumkake"
+      ],
+      "latinAliases": [
+        "Krumkake",
+        "krumkaker",
+        "keurumkake"
+      ]
+    },
+    {
+      "id": "FI|카르얄란피이라카",
+      "country": "핀란드",
+      "name": "카르얄란피이라카",
+      "aliases": [
+        "카르얄란피이라카",
+        "굽타기원",
+        "Karelian pasty",
+        "Karjalanpiirakka",
+        "kareuyalranpiiraka",
+        "gubtagiweon"
+      ],
+      "latinAliases": [
+        "Karelian pasty",
+        "Karjalanpiirakka",
+        "kareuyalranpiiraka",
+        "gubtagiweon"
+      ]
+    },
+    {
+      "id": "FI|로히케이토",
+      "country": "핀란드",
+      "name": "로히케이토",
+      "aliases": [
+        "로히케이토",
+        "Lohikeitto",
+        "rohikeito"
+      ],
+      "latinAliases": [
+        "Lohikeitto",
+        "rohikeito"
+      ]
+    },
+    {
+      "id": "FI|포론카리스튀스",
+      "country": "핀란드",
+      "name": "포론카리스튀스",
+      "aliases": [
+        "포론카리스튀스",
+        "율리우스 카이사르",
+        "Poronkäristys",
+        "Gaius Julius Caesar",
+        "Divus Caesar",
+        "poronkariseutwiseu",
+        "yulriuseu kaisareu"
+      ],
+      "latinAliases": [
+        "Poronkäristys",
+        "Gaius Julius Caesar",
+        "Divus Caesar",
+        "poronkariseutwiseu",
+        "yulriuseu kaisareu"
+      ]
+    },
+    {
+      "id": "FI|칼라쿠코",
+      "country": "핀란드",
+      "name": "칼라쿠코",
+      "aliases": [
+        "칼라쿠코",
+        "아스티도",
+        "Kalakukko",
+        "Provincia di Asti",
+        "kalrakuko",
+        "aseutido"
+      ],
+      "latinAliases": [
+        "Kalakukko",
+        "Provincia di Asti",
+        "kalrakuko",
+        "aseutido"
+      ]
+    },
+    {
+      "id": "FI|코르바푸스티",
+      "country": "핀란드",
+      "name": "코르바푸스티",
+      "aliases": [
+        "코르바푸스티",
+        "시나몬 롤",
+        "Korvapuusti",
+        "koreubapuseuti"
+      ],
+      "latinAliases": [
+        "Korvapuusti",
+        "koreubapuseuti"
+      ]
+    },
+    {
+      "id": "KH|피시 아목",
+      "country": "캄보디아",
+      "name": "피시 아목",
+      "aliases": [
+        "피시 아목",
+        "Fish amok",
+        "Amok trey",
+        "Khmer",
+        "mok tr",
+        "amok",
+        "pisi amog"
+      ],
+      "latinAliases": [
+        "Fish amok",
+        "Amok trey",
+        "Khmer",
+        "mok tr",
+        "amok",
+        "pisi amog"
+      ]
+    },
+    {
+      "id": "KH|록락",
+      "country": "캄보디아",
+      "name": "록락",
+      "aliases": [
+        "록락",
+        "금새록",
+        "Lok lak",
+        "rograg",
+        "geumsaerog",
+        "kambodia rograg"
+      ],
+      "latinAliases": [
+        "Lok lak",
+        "rograg",
+        "geumsaerog",
+        "kambodia rograg"
+      ]
+    },
+    {
+      "id": "KH|꾸이띠우",
+      "country": "캄보디아",
+      "name": "꾸이띠우",
+      "aliases": [
+        "꾸이띠우",
+        "Kuyteav",
+        "Kuy teav",
+        "គុយទាវ",
+        "Khmer",
+        "kŭytéav",
+        "gguiddiu"
+      ],
+      "latinAliases": [
+        "Kuyteav",
+        "Kuy teav",
+        "Khmer",
+        "kŭytéav",
+        "gguiddiu"
+      ]
+    },
+    {
+      "id": "KH|놈반쪽",
+      "country": "캄보디아",
+      "name": "놈반쪽",
+      "aliases": [
+        "놈반쪽",
+        "조선민주주의인민공화국",
+        "Nom banh chok",
+        "nombanjjog",
+        "joseonminjujuyiinmingonghwagug"
+      ],
+      "latinAliases": [
+        "Nom banh chok",
+        "nombanjjog",
+        "joseonminjujuyiinmingonghwagug"
+      ]
+    },
+    {
+      "id": "KH|삼로르 코르코",
+      "country": "캄보디아",
+      "name": "삼로르 코르코",
+      "aliases": [
+        "삼로르 코르코",
+        "레이르",
+        "Samlor korkor",
+        "Leir",
+        "Maglaurus",
+        "Karitia",
+        "samroreu koreuko",
+        "reireu"
+      ],
+      "latinAliases": [
+        "Samlor korkor",
+        "Leir",
+        "Maglaurus",
+        "Karitia",
+        "samroreu koreuko",
+        "reireu"
+      ]
+    },
+    {
+      "id": "MM|모힝가",
+      "country": "미얀마",
+      "name": "모힝가",
+      "aliases": [
+        "모힝가",
+        "몬 힝가",
+        "Mohinga",
+        "mohingga",
+        "mon hingga"
+      ],
+      "latinAliases": [
+        "Mohinga",
+        "mohingga",
+        "mon hingga"
+      ]
+    },
+    {
+      "id": "MM|라페토",
+      "country": "미얀마",
+      "name": "라페토",
+      "aliases": [
+        "라페토",
+        "라페토사우루스",
+        "Lahpet thoke",
+        "Tea leaf salad",
+        "Rapetosaurus",
+        "rapeto",
+        "rapetosauruseu"
+      ],
+      "latinAliases": [
+        "Lahpet thoke",
+        "Tea leaf salad",
+        "Rapetosaurus",
+        "rapeto",
+        "rapetosauruseu"
+      ]
+    },
+    {
+      "id": "MM|샨 누들",
+      "country": "미얀마",
+      "name": "샨 누들",
+      "aliases": [
+        "샨 누들",
+        "샨 카웃스웨",
+        "Shan noodles",
+        "syan nudeul",
+        "syan kausseuwe"
+      ],
+      "latinAliases": [
+        "Shan noodles",
+        "syan nudeul",
+        "syan kausseuwe"
+      ]
+    },
+    {
+      "id": "MM|오노 카욱 스웨",
+      "country": "미얀마",
+      "name": "오노 카욱 스웨",
+      "aliases": [
+        "오노 카욱 스웨",
+        "오노에 쇼로쿠",
+        "Ohn no khao swè",
+        "Ohn no khao swe",
+        "ono kaug seuwe",
+        "onoe syoroku"
+      ],
+      "latinAliases": [
+        "Ohn no khao swè",
+        "Ohn no khao swe",
+        "ono kaug seuwe",
+        "onoe syoroku"
+      ]
+    },
+    {
+      "id": "MM|난지 똑",
+      "country": "미얀마",
+      "name": "난지 똑",
+      "aliases": [
+        "난지 똑",
+        "난지 톳",
+        "Nan gyi thoke",
+        "nanji ddog",
+        "nanji tos"
+      ],
+      "latinAliases": [
+        "Nan gyi thoke",
+        "nanji ddog",
+        "nanji tos"
+      ]
+    },
+    {
+      "id": "CO|반데하 파이사",
+      "country": "콜롬비아",
+      "name": "반데하 파이사",
+      "aliases": [
+        "반데하 파이사",
+        "Bandeja paisa",
+        "bandeha paisa"
+      ],
+      "latinAliases": [
+        "Bandeja paisa",
+        "bandeha paisa"
+      ]
+    },
+    {
+      "id": "CO|아히아코",
+      "country": "콜롬비아",
+      "name": "아히아코",
+      "aliases": [
+        "아히아코",
+        "Ajiaco",
+        "ahiako"
+      ],
+      "latinAliases": [
+        "Ajiaco",
+        "ahiako"
+      ]
+    },
+    {
+      "id": "CO|아레파",
+      "country": "콜롬비아",
+      "name": "아레파",
+      "aliases": [
+        "아레파",
+        "Arepa"
+      ],
+      "latinAliases": [
+        "Arepa"
+      ]
+    },
+    {
+      "id": "CO|산코초",
+      "country": "콜롬비아",
+      "name": "산코초",
+      "aliases": [
+        "산코초",
+        "상코초",
+        "Sancocho",
+        "sankoco",
+        "sangkoco"
+      ],
+      "latinAliases": [
+        "Sancocho",
+        "sankoco",
+        "sangkoco"
+      ]
+    },
+    {
+      "id": "CO|엠파나다",
+      "country": "콜롬비아",
+      "name": "엠파나다",
+      "aliases": [
+        "엠파나다",
+        "Empanada"
+      ],
+      "latinAliases": [
+        "Empanada"
+      ]
+    },
+    {
+      "id": "NZ|항이",
+      "country": "뉴질랜드",
+      "name": "항이",
+      "aliases": [
+        "항이",
+        "Hāngī",
+        "Hangi",
+        "Māori",
+        "nyujilraendeu hangi"
+      ],
+      "latinAliases": [
+        "Hāngī",
+        "Hangi",
+        "Māori",
+        "nyujilraendeu hangi"
+      ]
+    },
+    {
+      "id": "NZ|파블로바",
+      "country": "뉴질랜드",
+      "name": "파블로바",
+      "aliases": [
+        "파블로바",
+        "파블로바 (음식)",
+        "Pavlova",
+        "pabeulroba",
+        "pabeulroba (eumsig)"
+      ],
+      "latinAliases": [
+        "Pavlova",
+        "pabeulroba",
+        "pabeulroba (eumsig)"
+      ]
+    },
+    {
+      "id": "NZ|미트파이",
+      "country": "뉴질랜드",
+      "name": "미트파이",
+      "aliases": [
+        "미트파이",
+        "미트 파이",
+        "Meat pie",
+        "miteupai",
+        "miteu pai"
+      ],
+      "latinAliases": [
+        "Meat pie",
+        "miteupai",
+        "miteu pai"
+      ]
+    },
+    {
+      "id": "NZ|호키포키 아이스크림",
+      "country": "뉴질랜드",
+      "name": "호키포키 아이스크림",
+      "aliases": [
+        "호키포키 아이스크림",
+        "호키 포키 (아이스크림)",
+        "Hokey pokey ice cream",
+        "hokipoki aiseukeurim",
+        "hoki poki (aiseukeurim)",
+        "ice cream"
+      ],
+      "latinAliases": [
+        "Hokey pokey ice cream",
+        "hokipoki aiseukeurim",
+        "hoki poki (aiseukeurim)",
+        "ice cream"
+      ]
+    },
+    {
+      "id": "NZ|화이트베이트 프리터",
+      "country": "뉴질랜드",
+      "name": "화이트베이트 프리터",
+      "aliases": [
+        "화이트베이트 프리터",
+        "프리터 (음식)",
+        "New Zealand whitebait fritter",
+        "Whitebait fritter",
+        "New Zealand whitebait fritters",
+        "fritter",
+        "hwaiteubeiteu peuriteo",
+        "peuriteo (eumsig)"
+      ],
+      "latinAliases": [
+        "New Zealand whitebait fritter",
+        "Whitebait fritter",
+        "New Zealand whitebait fritters",
+        "fritter",
+        "hwaiteubeiteu peuriteo",
+        "peuriteo (eumsig)"
+      ]
+    },
+    {
+      "id": "CN|베이징덕",
+      "country": "중국",
+      "name": "베이징덕",
+      "aliases": [
+        "베이징덕",
+        "Peking duck",
+        "Beijing kaoya",
+        "Beijing roast duck",
+        "beijingdeog"
+      ],
+      "latinAliases": [
+        "Peking duck",
+        "Beijing kaoya",
+        "Beijing roast duck",
+        "beijingdeog"
+      ]
+    },
+    {
+      "id": "CN|딤섬",
+      "country": "중국",
+      "name": "딤섬",
+      "aliases": [
+        "딤섬",
+        "Dim sum",
+        "dimseom",
+        "junggug dimseom"
+      ],
+      "latinAliases": [
+        "Dim sum",
+        "dimseom",
+        "junggug dimseom"
+      ]
+    },
+    {
+      "id": "CN|마파두부",
+      "country": "중국",
+      "name": "마파두부",
+      "aliases": [
+        "마파두부",
+        "Mapo tofu",
+        "Mapo doufu",
+        "mapadubu"
+      ],
+      "latinAliases": [
+        "Mapo tofu",
+        "Mapo doufu",
+        "mapadubu"
+      ]
+    },
+    {
+      "id": "CN|훠궈",
+      "country": "중국",
+      "name": "훠궈",
+      "aliases": [
+        "훠궈",
+        "Hot pot",
+        "Huoguo",
+        "hweogweo",
+        "junggug hweogweo"
+      ],
+      "latinAliases": [
+        "Hot pot",
+        "Huoguo",
+        "hweogweo",
+        "junggug hweogweo"
+      ]
+    },
+    {
+      "id": "CN|자오쯔",
+      "country": "중국",
+      "name": "자오쯔",
+      "aliases": [
+        "자오쯔",
+        "Jiaozi",
+        "Chinese dumplings",
+        "jaojjeu"
+      ],
+      "latinAliases": [
+        "Jiaozi",
+        "Chinese dumplings",
+        "jaojjeu"
+      ]
+    },
+    {
+      "id": "CN|볶음밥",
+      "country": "중국",
+      "name": "볶음밥",
+      "aliases": [
+        "볶음밥",
+        "Fried rice",
+        "boggeumbab"
+      ],
+      "latinAliases": [
+        "Fried rice",
+        "boggeumbab"
+      ]
+    },
+    {
+      "id": "CN|샤오롱바오",
+      "country": "중국",
+      "name": "샤오롱바오",
+      "aliases": [
+        "샤오롱바오",
+        "Xiaolongbao",
+        "Soup dumplings",
+        "syaorongbao"
+      ],
+      "latinAliases": [
+        "Xiaolongbao",
+        "Soup dumplings",
+        "syaorongbao"
+      ]
+    },
+    {
+      "id": "FR|바게트",
+      "country": "프랑스",
+      "name": "바게트",
+      "aliases": [
+        "바게트",
+        "Baguette",
+        "bageteu"
+      ],
+      "latinAliases": [
+        "Baguette",
+        "bageteu"
+      ]
+    },
+    {
+      "id": "FR|크루아상",
+      "country": "프랑스",
+      "name": "크루아상",
+      "aliases": [
+        "크루아상",
+        "Croissant",
+        "keuruasang"
+      ],
+      "latinAliases": [
+        "Croissant",
+        "keuruasang"
+      ]
+    },
+    {
+      "id": "FR|라타투이",
+      "country": "프랑스",
+      "name": "라타투이",
+      "aliases": [
+        "라타투이",
+        "Ratatouille",
+        "ratatui"
+      ],
+      "latinAliases": [
+        "Ratatouille",
+        "ratatui"
+      ]
+    },
+    {
+      "id": "FR|부야베스",
+      "country": "프랑스",
+      "name": "부야베스",
+      "aliases": [
+        "부야베스",
+        "Bouillabaisse",
+        "buyabeseu"
+      ],
+      "latinAliases": [
+        "Bouillabaisse",
+        "buyabeseu"
+      ]
+    },
+    {
+      "id": "FR|코코뱅",
+      "country": "프랑스",
+      "name": "코코뱅",
+      "aliases": [
+        "코코뱅",
+        "Coq au vin",
+        "kokobaeng"
+      ],
+      "latinAliases": [
+        "Coq au vin",
+        "kokobaeng"
+      ]
+    },
+    {
+      "id": "FR|뵈프 부르기뇽",
+      "country": "프랑스",
+      "name": "뵈프 부르기뇽",
+      "aliases": [
+        "뵈프 부르기뇽",
+        "Boeuf bourguignon",
+        "Beef bourguignon",
+        "boepeu bureuginyong"
+      ],
+      "latinAliases": [
+        "Boeuf bourguignon",
+        "Beef bourguignon",
+        "boepeu bureuginyong"
+      ]
+    },
+    {
+      "id": "FR|키슈 로렌",
+      "country": "프랑스",
+      "name": "키슈 로렌",
+      "aliases": [
+        "키슈 로렌",
+        "Quiche Lorraine",
+        "kisyu roren"
+      ],
+      "latinAliases": [
+        "Quiche Lorraine",
+        "kisyu roren"
+      ]
+    },
+    {
+      "id": "FR|크레프",
+      "country": "프랑스",
+      "name": "크레프",
+      "aliases": [
+        "크레프",
+        "Crêpe",
+        "Crepe",
+        "keurepeu"
+      ],
+      "latinAliases": [
+        "Crêpe",
+        "Crepe",
+        "keurepeu"
+      ]
+    },
+    {
+      "id": "FR|마카롱",
+      "country": "프랑스",
+      "name": "마카롱",
+      "aliases": [
+        "마카롱",
+        "Macaron",
+        "makarong"
+      ],
+      "latinAliases": [
+        "Macaron",
+        "makarong"
+      ]
+    },
+    {
+      "id": "IT|피자",
+      "country": "이탈리아",
+      "name": "피자",
+      "aliases": [
+        "피자",
+        "Pizza",
+        "pija",
+        "italria pija"
+      ],
+      "latinAliases": [
+        "Pizza",
+        "pija",
+        "italria pija"
+      ]
+    },
+    {
+      "id": "IT|파스타",
+      "country": "이탈리아",
+      "name": "파스타",
+      "aliases": [
+        "파스타",
+        "Pasta",
+        "paseuta"
+      ],
+      "latinAliases": [
+        "Pasta",
+        "paseuta"
+      ]
+    },
+    {
+      "id": "IT|리소토",
+      "country": "이탈리아",
+      "name": "리소토",
+      "aliases": [
+        "리소토",
+        "Risotto",
+        "risoto"
+      ],
+      "latinAliases": [
+        "Risotto",
+        "risoto"
+      ]
+    },
+    {
+      "id": "IT|젤라토",
+      "country": "이탈리아",
+      "name": "젤라토",
+      "aliases": [
+        "젤라토",
+        "Gelato",
+        "jelrato"
+      ],
+      "latinAliases": [
+        "Gelato",
+        "jelrato"
+      ]
+    },
+    {
+      "id": "IT|라자냐",
+      "country": "이탈리아",
+      "name": "라자냐",
+      "aliases": [
+        "라자냐",
+        "Lasagna",
+        "Lasagne",
+        "rajanya"
+      ],
+      "latinAliases": [
+        "Lasagna",
+        "Lasagne",
+        "rajanya"
+      ]
+    },
+    {
+      "id": "IT|티라미수",
+      "country": "이탈리아",
+      "name": "티라미수",
+      "aliases": [
+        "티라미수",
+        "Tiramisu"
+      ],
+      "latinAliases": [
+        "Tiramisu"
+      ]
+    },
+    {
+      "id": "MN|허르헉",
+      "country": "몽골",
+      "name": "허르헉",
+      "aliases": [
+        "허르헉",
+        "Khorkhog",
+        "heoreuheog"
+      ],
+      "latinAliases": [
+        "Khorkhog",
+        "heoreuheog"
+      ]
+    },
+    {
+      "id": "MN|보즈",
+      "country": "몽골",
+      "name": "보즈",
+      "aliases": [
+        "보즈",
+        "Buuz",
+        "bojeu",
+        "monggol bojeu"
+      ],
+      "latinAliases": [
+        "Buuz",
+        "bojeu",
+        "monggol bojeu"
+      ]
+    },
+    {
+      "id": "MN|초이완",
+      "country": "몽골",
+      "name": "초이완",
+      "aliases": [
+        "초이완",
+        "Tsuivan",
+        "coiwan"
+      ],
+      "latinAliases": [
+        "Tsuivan",
+        "coiwan"
+      ]
+    },
+    {
+      "id": "MN|수테차",
+      "country": "몽골",
+      "name": "수테차",
+      "aliases": [
+        "수테차",
+        "Suutei tsai",
+        "suteca"
+      ],
+      "latinAliases": [
+        "Suutei tsai",
+        "suteca"
+      ]
+    },
+    {
+      "id": "MN|아롤",
+      "country": "몽골",
+      "name": "아롤",
+      "aliases": [
+        "아롤",
+        "Aaruul",
+        "arol",
+        "monggol arol"
+      ],
+      "latinAliases": [
+        "Aaruul",
+        "arol",
+        "monggol arol"
+      ]
+    },
+    {
+      "id": "MN|보르츠",
+      "country": "몽골",
+      "name": "보르츠",
+      "aliases": [
+        "보르츠",
+        "Borts",
+        "boreuceu"
+      ],
+      "latinAliases": [
+        "Borts",
+        "boreuceu"
+      ]
+    },
+    {
+      "id": "NP|달밧",
+      "country": "네팔",
+      "name": "달밧",
+      "aliases": [
+        "달밧",
+        "Dal bhat",
+        "dalbas",
+        "nepal dalbas"
+      ],
+      "latinAliases": [
+        "Dal bhat",
+        "dalbas",
+        "nepal dalbas"
+      ]
+    },
+    {
+      "id": "NP|모모",
+      "country": "네팔",
+      "name": "모모",
+      "aliases": [
+        "모모",
+        "Momo",
+        "nepal momo"
+      ],
+      "latinAliases": [
+        "Momo",
+        "nepal momo"
+      ]
+    },
+    {
+      "id": "NP|셀로티",
+      "country": "네팔",
+      "name": "셀로티",
+      "aliases": [
+        "셀로티",
+        "Sel roti",
+        "selroti"
+      ],
+      "latinAliases": [
+        "Sel roti",
+        "selroti"
+      ]
+    },
+    {
+      "id": "NP|툭파",
+      "country": "네팔",
+      "name": "툭파",
+      "aliases": [
+        "툭파",
+        "Thukpa",
+        "tugpa",
+        "nepal tugpa"
+      ],
+      "latinAliases": [
+        "Thukpa",
+        "tugpa",
+        "nepal tugpa"
+      ]
+    },
+    {
+      "id": "NP|요모리",
+      "country": "네팔",
+      "name": "요모리",
+      "aliases": [
+        "요모리",
+        "Yomari",
+        "yomori"
+      ],
+      "latinAliases": [
+        "Yomari",
+        "yomori"
+      ]
+    },
+    {
+      "id": "NP|군드룩",
+      "country": "네팔",
+      "name": "군드룩",
+      "aliases": [
+        "군드룩",
+        "Gundruk",
+        "gundeurug"
+      ],
+      "latinAliases": [
+        "Gundruk",
+        "gundeurug"
+      ]
+    },
+    {
+      "id": "SA|캅사",
+      "country": "사우디아라비아",
+      "name": "캅사",
+      "aliases": [
+        "캅사",
+        "Kabsa",
+        "saudiarabia kabsa"
+      ],
+      "latinAliases": [
+        "Kabsa",
+        "saudiarabia kabsa"
+      ]
+    },
+    {
+      "id": "SA|만디",
+      "country": "사우디아라비아",
+      "name": "만디",
+      "aliases": [
+        "만디",
+        "Mandi",
+        "saudiarabia mandi"
+      ],
+      "latinAliases": [
+        "Mandi",
+        "saudiarabia mandi"
+      ]
+    },
+    {
+      "id": "SA|자레시",
+      "country": "사우디아라비아",
+      "name": "자레시",
+      "aliases": [
+        "자레시",
+        "Jareesh",
+        "jaresi"
+      ],
+      "latinAliases": [
+        "Jareesh",
+        "jaresi"
+      ]
+    },
+    {
+      "id": "SA|무타바크",
+      "country": "사우디아라비아",
+      "name": "무타바크",
+      "aliases": [
+        "무타바크",
+        "Mutabbaq",
+        "Murtabak",
+        "mutabakeu"
+      ],
+      "latinAliases": [
+        "Mutabbaq",
+        "Murtabak",
+        "mutabakeu"
+      ]
+    },
+    {
+      "id": "SA|대추야자",
+      "country": "사우디아라비아",
+      "name": "대추야자",
+      "aliases": [
+        "대추야자",
+        "Dates",
+        "daecuyaja"
+      ],
+      "latinAliases": [
+        "Dates",
+        "daecuyaja"
+      ]
+    },
+    {
+      "id": "SA|아랍식 커피",
+      "country": "사우디아라비아",
+      "name": "아랍식 커피",
+      "aliases": [
+        "아랍식 커피",
+        "Arabic coffee",
+        "Qahwa",
+        "arabsig keopi",
+        "coffee"
+      ],
+      "latinAliases": [
+        "Arabic coffee",
+        "Qahwa",
+        "arabsig keopi",
+        "coffee"
+      ]
+    },
+    {
+      "id": "NL|스트룹와플",
+      "country": "네덜란드",
+      "name": "스트룹와플",
+      "aliases": [
+        "스트룹와플",
+        "Stroopwafel",
+        "seuteurubwapeul"
+      ],
+      "latinAliases": [
+        "Stroopwafel",
+        "seuteurubwapeul"
+      ]
+    },
+    {
+      "id": "NL|하링",
+      "country": "네덜란드",
+      "name": "하링",
+      "aliases": [
+        "하링",
+        "Haring",
+        "Herring",
+        "nedeolrandeu haring"
+      ],
+      "latinAliases": [
+        "Haring",
+        "Herring",
+        "nedeolrandeu haring"
+      ]
+    },
+    {
+      "id": "NL|포퍼처스",
+      "country": "네덜란드",
+      "name": "포퍼처스",
+      "aliases": [
+        "포퍼처스",
+        "Poffertjes",
+        "popeoceoseu"
+      ],
+      "latinAliases": [
+        "Poffertjes",
+        "popeoceoseu"
+      ]
+    },
+    {
+      "id": "NL|에르텐수프",
+      "country": "네덜란드",
+      "name": "에르텐수프",
+      "aliases": [
+        "에르텐수프",
+        "Erwtensoep",
+        "ereutensupeu",
+        "soup"
+      ],
+      "latinAliases": [
+        "Erwtensoep",
+        "ereutensupeu",
+        "soup"
+      ]
+    },
+    {
+      "id": "NL|고다 치즈",
+      "country": "네덜란드",
+      "name": "고다 치즈",
+      "aliases": [
+        "고다 치즈",
+        "Gouda cheese",
+        "goda cijeu",
+        "cheese"
+      ],
+      "latinAliases": [
+        "Gouda cheese",
+        "goda cijeu",
+        "cheese"
+      ]
+    },
+    {
+      "id": "NL|비터발렌",
+      "country": "네덜란드",
+      "name": "비터발렌",
+      "aliases": [
+        "비터발렌",
+        "Bitterballen",
+        "biteobalren"
+      ],
+      "latinAliases": [
+        "Bitterballen",
+        "biteobalren"
+      ]
+    },
+    {
+      "id": "BE|와플",
+      "country": "벨기에",
+      "name": "와플",
+      "aliases": [
+        "와플",
+        "Waffle",
+        "Belgian waffle",
+        "wapeul",
+        "belgie wapeul"
+      ],
+      "latinAliases": [
+        "Waffle",
+        "Belgian waffle",
+        "wapeul",
+        "belgie wapeul"
+      ]
+    },
+    {
+      "id": "BE|프렌치프라이",
+      "country": "벨기에",
+      "name": "프렌치프라이",
+      "aliases": [
+        "프렌치프라이",
+        "French fries",
+        "Belgian fries",
+        "peurencipeurai"
+      ],
+      "latinAliases": [
+        "French fries",
+        "Belgian fries",
+        "peurencipeurai"
+      ]
+    },
+    {
+      "id": "BE|홍합요리",
+      "country": "벨기에",
+      "name": "홍합요리",
+      "aliases": [
+        "홍합요리",
+        "Moules-frites",
+        "Mussels",
+        "honghabyori",
+        "dish"
+      ],
+      "latinAliases": [
+        "Moules-frites",
+        "Mussels",
+        "honghabyori",
+        "dish"
+      ]
+    },
+    {
+      "id": "BE|초콜릿",
+      "country": "벨기에",
+      "name": "초콜릿",
+      "aliases": [
+        "초콜릿",
+        "Chocolate",
+        "cokolris"
+      ],
+      "latinAliases": [
+        "Chocolate",
+        "cokolris"
+      ]
+    },
+    {
+      "id": "BE|스페큘로스",
+      "country": "벨기에",
+      "name": "스페큘로스",
+      "aliases": [
+        "스페큘로스",
+        "Speculoos",
+        "seupekyulroseu"
+      ],
+      "latinAliases": [
+        "Speculoos",
+        "seupekyulroseu"
+      ]
+    },
+    {
+      "id": "BE|워터조이",
+      "country": "벨기에",
+      "name": "워터조이",
+      "aliases": [
+        "워터조이",
+        "Waterzooi",
+        "weoteojoi"
+      ],
+      "latinAliases": [
+        "Waterzooi",
+        "weoteojoi"
+      ]
+    },
+    {
+      "id": "CH|퐁뒤",
+      "country": "스위스",
+      "name": "퐁뒤",
+      "aliases": [
+        "퐁뒤",
+        "Fondue",
+        "pongdwi",
+        "seuwiseu pongdwi"
+      ],
+      "latinAliases": [
+        "Fondue",
+        "pongdwi",
+        "seuwiseu pongdwi"
+      ]
+    },
+    {
+      "id": "CH|라클레트",
+      "country": "스위스",
+      "name": "라클레트",
+      "aliases": [
+        "라클레트",
+        "Raclette",
+        "rakeulreteu"
+      ],
+      "latinAliases": [
+        "Raclette",
+        "rakeulreteu"
+      ]
+    },
+    {
+      "id": "CH|뢰스티",
+      "country": "스위스",
+      "name": "뢰스티",
+      "aliases": [
+        "뢰스티",
+        "Rösti",
+        "Rosti",
+        "roeseuti"
+      ],
+      "latinAliases": [
+        "Rösti",
+        "Rosti",
+        "roeseuti"
+      ]
+    },
+    {
+      "id": "CH|취리히 게슈네첼테스",
+      "country": "스위스",
+      "name": "취리히 게슈네첼테스",
+      "aliases": [
+        "취리히 게슈네첼테스",
+        "Zürcher Geschnetzeltes",
+        "Zurich-style veal",
+        "cwirihi gesyunecelteseu"
+      ],
+      "latinAliases": [
+        "Zürcher Geschnetzeltes",
+        "Zurich-style veal",
+        "cwirihi gesyunecelteseu"
+      ]
+    },
+    {
+      "id": "CH|스위스 초콜릿",
+      "country": "스위스",
+      "name": "스위스 초콜릿",
+      "aliases": [
+        "스위스 초콜릿",
+        "Swiss chocolate",
+        "seuwiseu cokolris",
+        "chocolate"
+      ],
+      "latinAliases": [
+        "Swiss chocolate",
+        "seuwiseu cokolris",
+        "chocolate"
+      ]
+    },
+    {
+      "id": "CH|비르허뮈슬리",
+      "country": "스위스",
+      "name": "비르허뮈슬리",
+      "aliases": [
+        "비르허뮈슬리",
+        "Bircher muesli",
+        "bireuheomwiseulri"
+      ],
+      "latinAliases": [
+        "Bircher muesli",
+        "bireuheomwiseulri"
+      ]
+    },
+    {
+      "id": "AT|비너슈니첼",
+      "country": "오스트리아",
+      "name": "비너슈니첼",
+      "aliases": [
+        "비너슈니첼",
+        "Wiener schnitzel",
+        "bineosyunicel"
+      ],
+      "latinAliases": [
+        "Wiener schnitzel",
+        "bineosyunicel"
+      ]
+    },
+    {
+      "id": "AT|자허토르테",
+      "country": "오스트리아",
+      "name": "자허토르테",
+      "aliases": [
+        "자허토르테",
+        "Sachertorte",
+        "jaheotoreute"
+      ],
+      "latinAliases": [
+        "Sachertorte",
+        "jaheotoreute"
+      ]
+    },
+    {
+      "id": "AT|아펠슈트루델",
+      "country": "오스트리아",
+      "name": "아펠슈트루델",
+      "aliases": [
+        "아펠슈트루델",
+        "Apfelstrudel",
+        "Apple strudel",
+        "apelsyuteurudel"
+      ],
+      "latinAliases": [
+        "Apfelstrudel",
+        "Apple strudel",
+        "apelsyuteurudel"
+      ]
+    },
+    {
+      "id": "AT|타펠슈피츠",
+      "country": "오스트리아",
+      "name": "타펠슈피츠",
+      "aliases": [
+        "타펠슈피츠",
+        "Tafelspitz",
+        "tapelsyupiceu"
+      ],
+      "latinAliases": [
+        "Tafelspitz",
+        "tapelsyupiceu"
+      ]
+    },
+    {
+      "id": "AT|카이저슈마른",
+      "country": "오스트리아",
+      "name": "카이저슈마른",
+      "aliases": [
+        "카이저슈마른",
+        "Kaiserschmarrn",
+        "kaijeosyumareun"
+      ],
+      "latinAliases": [
+        "Kaiserschmarrn",
+        "kaijeosyumareun"
+      ]
+    },
+    {
+      "id": "AT|크뇌델",
+      "country": "오스트리아",
+      "name": "크뇌델",
+      "aliases": [
+        "크뇌델",
+        "Knödel",
+        "Knoedel",
+        "keunoedel"
+      ],
+      "latinAliases": [
+        "Knödel",
+        "Knoedel",
+        "keunoedel"
+      ]
+    },
+    {
+      "id": "PT|바칼라우",
+      "country": "포르투갈",
+      "name": "바칼라우",
+      "aliases": [
+        "바칼라우",
+        "Bacalhau",
+        "bakalrau"
+      ],
+      "latinAliases": [
+        "Bacalhau",
+        "bakalrau"
+      ]
+    },
+    {
+      "id": "PT|파스텔 드 나타",
+      "country": "포르투갈",
+      "name": "파스텔 드 나타",
+      "aliases": [
+        "파스텔 드 나타",
+        "Pastel de nata",
+        "Portuguese custard tart",
+        "paseutel deu nata"
+      ],
+      "latinAliases": [
+        "Pastel de nata",
+        "Portuguese custard tart",
+        "paseutel deu nata"
+      ]
+    },
+    {
+      "id": "PT|칼두베르드",
+      "country": "포르투갈",
+      "name": "칼두베르드",
+      "aliases": [
+        "칼두베르드",
+        "Caldo verde",
+        "kaldubereudeu"
+      ],
+      "latinAliases": [
+        "Caldo verde",
+        "kaldubereudeu"
+      ]
+    },
+    {
+      "id": "PT|프란세지냐",
+      "country": "포르투갈",
+      "name": "프란세지냐",
+      "aliases": [
+        "프란세지냐",
+        "Francesinha",
+        "peuransejinya"
+      ],
+      "latinAliases": [
+        "Francesinha",
+        "peuransejinya"
+      ]
+    },
+    {
+      "id": "PT|사르디냐 아사다",
+      "country": "포르투갈",
+      "name": "사르디냐 아사다",
+      "aliases": [
+        "사르디냐 아사다",
+        "Sardinhas assadas",
+        "sareudinya asada"
+      ],
+      "latinAliases": [
+        "Sardinhas assadas",
+        "sareudinya asada"
+      ]
+    },
+    {
+      "id": "PT|아호스 드 마리스쿠",
+      "country": "포르투갈",
+      "name": "아호스 드 마리스쿠",
+      "aliases": [
+        "아호스 드 마리스쿠",
+        "Arroz de marisco",
+        "ahoseu deu mariseuku"
+      ],
+      "latinAliases": [
+        "Arroz de marisco",
+        "ahoseu deu mariseuku"
+      ]
+    },
+    {
+      "id": "SE|스웨덴 미트볼",
+      "country": "스웨덴",
+      "name": "스웨덴 미트볼",
+      "aliases": [
+        "스웨덴 미트볼",
+        "Swedish meatballs",
+        "Köttbullar",
+        "seuweden miteubol"
+      ],
+      "latinAliases": [
+        "Swedish meatballs",
+        "Köttbullar",
+        "seuweden miteubol"
+      ]
+    },
+    {
+      "id": "SE|그라블락스",
+      "country": "스웨덴",
+      "name": "그라블락스",
+      "aliases": [
+        "그라블락스",
+        "Gravlax",
+        "geurabeulragseu"
+      ],
+      "latinAliases": [
+        "Gravlax",
+        "geurabeulragseu"
+      ]
+    },
+    {
+      "id": "SE|시나몬번",
+      "country": "스웨덴",
+      "name": "시나몬번",
+      "aliases": [
+        "시나몬번",
+        "Cinnamon bun",
+        "Kanelbulle",
+        "sinamonbeon"
+      ],
+      "latinAliases": [
+        "Cinnamon bun",
+        "Kanelbulle",
+        "sinamonbeon"
+      ]
+    },
+    {
+      "id": "SE|얀손의 유혹",
+      "country": "스웨덴",
+      "name": "얀손의 유혹",
+      "aliases": [
+        "얀손의 유혹",
+        "Jansson's temptation",
+        "Janssons frestelse",
+        "yansonyi yuhog"
+      ],
+      "latinAliases": [
+        "Jansson's temptation",
+        "Janssons frestelse",
+        "yansonyi yuhog"
+      ]
+    },
+    {
+      "id": "SE|크네케브뢰드",
+      "country": "스웨덴",
+      "name": "크네케브뢰드",
+      "aliases": [
+        "크네케브뢰드",
+        "Knäckebröd",
+        "Crispbread",
+        "keunekebeuroedeu"
+      ],
+      "latinAliases": [
+        "Knäckebröd",
+        "Crispbread",
+        "keunekebeuroedeu"
+      ]
+    },
+    {
+      "id": "SE|셈라",
+      "country": "스웨덴",
+      "name": "셈라",
+      "aliases": [
+        "셈라",
+        "Semla",
+        "semra",
+        "seuweden semra"
+      ],
+      "latinAliases": [
+        "Semla",
+        "semra",
+        "seuweden semra"
+      ]
+    },
+    {
+      "id": "DK|스뫼레브뢰드",
+      "country": "덴마크",
+      "name": "스뫼레브뢰드",
+      "aliases": [
+        "스뫼레브뢰드",
+        "Smørrebrød",
+        "Smorrebrod",
+        "seumoerebeuroedeu"
+      ],
+      "latinAliases": [
+        "Smørrebrød",
+        "Smorrebrod",
+        "seumoerebeuroedeu"
+      ]
+    },
+    {
+      "id": "DK|프리카델러",
+      "country": "덴마크",
+      "name": "프리카델러",
+      "aliases": [
+        "프리카델러",
+        "Frikadeller",
+        "peurikadelreo"
+      ],
+      "latinAliases": [
+        "Frikadeller",
+        "peurikadelreo"
+      ]
+    },
+    {
+      "id": "DK|플레스케스타이",
+      "country": "덴마크",
+      "name": "플레스케스타이",
+      "aliases": [
+        "플레스케스타이",
+        "Flæskesteg",
+        "Flaeskesteg",
+        "peulreseukeseutai"
+      ],
+      "latinAliases": [
+        "Flæskesteg",
+        "Flaeskesteg",
+        "peulreseukeseutai"
+      ]
+    },
+    {
+      "id": "DK|에블레스키버",
+      "country": "덴마크",
+      "name": "에블레스키버",
+      "aliases": [
+        "에블레스키버",
+        "Æbleskiver",
+        "Aebleskiver",
+        "ebeulreseukibeo"
+      ],
+      "latinAliases": [
+        "Æbleskiver",
+        "Aebleskiver",
+        "ebeulreseukibeo"
+      ]
+    },
+    {
+      "id": "DK|위너브뢰드",
+      "country": "덴마크",
+      "name": "위너브뢰드",
+      "aliases": [
+        "위너브뢰드",
+        "Wienerbrød",
+        "Danish pastry",
+        "wineobeuroedeu"
+      ],
+      "latinAliases": [
+        "Wienerbrød",
+        "Danish pastry",
+        "wineobeuroedeu"
+      ]
+    },
+    {
+      "id": "DK|뢰드그뢰드",
+      "country": "덴마크",
+      "name": "뢰드그뢰드",
+      "aliases": [
+        "뢰드그뢰드",
+        "Rødgrød",
+        "Rodgrod",
+        "roedeugeuroedeu"
+      ],
+      "latinAliases": [
+        "Rødgrød",
+        "Rodgrod",
+        "roedeugeuroedeu"
+      ]
+    },
+    {
+      "id": "PL|피에로기",
+      "country": "폴란드",
+      "name": "피에로기",
+      "aliases": [
+        "피에로기",
+        "Pierogi"
+      ],
+      "latinAliases": [
+        "Pierogi"
+      ]
+    },
+    {
+      "id": "PL|비고스",
+      "country": "폴란드",
+      "name": "비고스",
+      "aliases": [
+        "비고스",
+        "Bigos",
+        "bigoseu"
+      ],
+      "latinAliases": [
+        "Bigos",
+        "bigoseu"
+      ]
+    },
+    {
+      "id": "PL|주레크",
+      "country": "폴란드",
+      "name": "주레크",
+      "aliases": [
+        "주레크",
+        "Żurek",
+        "Zurek",
+        "jurekeu"
+      ],
+      "latinAliases": [
+        "Żurek",
+        "Zurek",
+        "jurekeu"
+      ]
+    },
+    {
+      "id": "PL|골롱카",
+      "country": "폴란드",
+      "name": "골롱카",
+      "aliases": [
+        "골롱카",
+        "Golonka",
+        "golrongka"
+      ],
+      "latinAliases": [
+        "Golonka",
+        "golrongka"
+      ]
+    },
+    {
+      "id": "PL|플라츠키",
+      "country": "폴란드",
+      "name": "플라츠키",
+      "aliases": [
+        "플라츠키",
+        "Placki ziemniaczane",
+        "Potato pancakes",
+        "peulraceuki"
+      ],
+      "latinAliases": [
+        "Placki ziemniaczane",
+        "Potato pancakes",
+        "peulraceuki"
+      ]
+    },
+    {
+      "id": "PL|퐁치키",
+      "country": "폴란드",
+      "name": "퐁치키",
+      "aliases": [
+        "퐁치키",
+        "Pączki",
+        "Paczki",
+        "pongciki"
+      ],
+      "latinAliases": [
+        "Pączki",
+        "Paczki",
+        "pongciki"
+      ]
+    },
+    {
+      "id": "CZ|스비치코바",
+      "country": "체코",
+      "name": "스비치코바",
+      "aliases": [
+        "스비치코바",
+        "Svíčková",
+        "Svickova",
+        "seubicikoba"
+      ],
+      "latinAliases": [
+        "Svíčková",
+        "Svickova",
+        "seubicikoba"
+      ]
+    },
+    {
+      "id": "CZ|굴라시",
+      "country": "체코",
+      "name": "굴라시",
+      "aliases": [
+        "굴라시",
+        "Goulash",
+        "Guláš",
+        "gulrasi"
+      ],
+      "latinAliases": [
+        "Goulash",
+        "Guláš",
+        "gulrasi"
+      ]
+    },
+    {
+      "id": "CZ|크네들리키",
+      "country": "체코",
+      "name": "크네들리키",
+      "aliases": [
+        "크네들리키",
+        "Knedlíky",
+        "Dumplings",
+        "keunedeulriki"
+      ],
+      "latinAliases": [
+        "Knedlíky",
+        "Dumplings",
+        "keunedeulriki"
+      ]
+    },
+    {
+      "id": "CZ|트르델니크",
+      "country": "체코",
+      "name": "트르델니크",
+      "aliases": [
+        "트르델니크",
+        "Trdelník",
+        "Trdelnik",
+        "teureudelnikeu"
+      ],
+      "latinAliases": [
+        "Trdelník",
+        "Trdelnik",
+        "teureudelnikeu"
+      ]
+    },
+    {
+      "id": "CZ|브람보라키",
+      "country": "체코",
+      "name": "브람보라키",
+      "aliases": [
+        "브람보라키",
+        "Bramboráky",
+        "Bramboraky",
+        "beuramboraki"
+      ],
+      "latinAliases": [
+        "Bramboráky",
+        "Bramboraky",
+        "beuramboraki"
+      ]
+    },
+    {
+      "id": "CZ|콜라체",
+      "country": "체코",
+      "name": "콜라체",
+      "aliases": [
+        "콜라체",
+        "Kolache",
+        "Koláče",
+        "kolrace"
+      ],
+      "latinAliases": [
+        "Kolache",
+        "Koláče",
+        "kolrace"
+      ]
+    },
+    {
+      "id": "IE|아이리시 스튜",
+      "country": "아일랜드",
+      "name": "아이리시 스튜",
+      "aliases": [
+        "아이리시 스튜",
+        "Irish stew",
+        "airisi seutyu"
+      ],
+      "latinAliases": [
+        "Irish stew",
+        "airisi seutyu"
+      ]
+    },
+    {
+      "id": "IE|소다브레드",
+      "country": "아일랜드",
+      "name": "소다브레드",
+      "aliases": [
+        "소다브레드",
+        "Soda bread",
+        "sodabeuredeu"
+      ],
+      "latinAliases": [
+        "Soda bread",
+        "sodabeuredeu"
+      ]
+    },
+    {
+      "id": "IE|콜캐넌",
+      "country": "아일랜드",
+      "name": "콜캐넌",
+      "aliases": [
+        "콜캐넌",
+        "Colcannon",
+        "kolkaeneon"
+      ],
+      "latinAliases": [
+        "Colcannon",
+        "kolkaeneon"
+      ]
+    },
+    {
+      "id": "IE|박스티",
+      "country": "아일랜드",
+      "name": "박스티",
+      "aliases": [
+        "박스티",
+        "Boxty",
+        "bagseuti"
+      ],
+      "latinAliases": [
+        "Boxty",
+        "bagseuti"
+      ]
+    },
+    {
+      "id": "IE|시푸드 차우더",
+      "country": "아일랜드",
+      "name": "시푸드 차우더",
+      "aliases": [
+        "시푸드 차우더",
+        "Seafood chowder",
+        "sipudeu caudeo"
+      ],
+      "latinAliases": [
+        "Seafood chowder",
+        "sipudeu caudeo"
+      ]
+    },
+    {
+      "id": "IE|바름브랙",
+      "country": "아일랜드",
+      "name": "바름브랙",
+      "aliases": [
+        "바름브랙",
+        "Barmbrack",
+        "bareumbeuraeg"
+      ],
+      "latinAliases": [
+        "Barmbrack",
+        "bareumbeuraeg"
+      ]
+    },
+    {
+      "id": "KE|우갈리",
+      "country": "케냐",
+      "name": "우갈리",
+      "aliases": [
+        "우갈리",
+        "Ugali",
+        "ugalri"
+      ],
+      "latinAliases": [
+        "Ugali",
+        "ugalri"
+      ]
+    },
+    {
+      "id": "KE|냐마초마",
+      "country": "케냐",
+      "name": "냐마초마",
+      "aliases": [
+        "냐마초마",
+        "Nyama choma",
+        "nyamacoma"
+      ],
+      "latinAliases": [
+        "Nyama choma",
+        "nyamacoma"
+      ]
+    },
+    {
+      "id": "KE|수쿠마위키",
+      "country": "케냐",
+      "name": "수쿠마위키",
+      "aliases": [
+        "수쿠마위키",
+        "Sukuma wiki",
+        "sukumawiki"
+      ],
+      "latinAliases": [
+        "Sukuma wiki",
+        "sukumawiki"
+      ]
+    },
+    {
+      "id": "KE|필라우",
+      "country": "케냐",
+      "name": "필라우",
+      "aliases": [
+        "필라우",
+        "Pilau",
+        "Pilaf",
+        "pilrau"
+      ],
+      "latinAliases": [
+        "Pilau",
+        "Pilaf",
+        "pilrau"
+      ]
+    },
+    {
+      "id": "KE|차파티",
+      "country": "케냐",
+      "name": "차파티",
+      "aliases": [
+        "차파티",
+        "Chapati",
+        "capati"
+      ],
+      "latinAliases": [
+        "Chapati",
+        "capati"
+      ]
+    },
+    {
+      "id": "KE|만다지",
+      "country": "케냐",
+      "name": "만다지",
+      "aliases": [
+        "만다지",
+        "Mandazi",
+        "mandaji"
+      ],
+      "latinAliases": [
+        "Mandazi",
+        "mandaji"
+      ]
+    },
+    {
+      "id": "MA|쿠스쿠스",
+      "country": "모로코",
+      "name": "쿠스쿠스",
+      "aliases": [
+        "쿠스쿠스",
+        "Couscous",
+        "kuseukuseu"
+      ],
+      "latinAliases": [
+        "Couscous",
+        "kuseukuseu"
+      ]
+    },
+    {
+      "id": "MA|타진",
+      "country": "모로코",
+      "name": "타진",
+      "aliases": [
+        "타진",
+        "Tagine",
+        "Tajine",
+        "tajin",
+        "moroko tajin"
+      ],
+      "latinAliases": [
+        "Tagine",
+        "Tajine",
+        "tajin",
+        "moroko tajin"
+      ]
+    },
+    {
+      "id": "MA|하리라",
+      "country": "모로코",
+      "name": "하리라",
+      "aliases": [
+        "하리라",
+        "Harira"
+      ],
+      "latinAliases": [
+        "Harira"
+      ]
+    },
+    {
+      "id": "MA|파스티야",
+      "country": "모로코",
+      "name": "파스티야",
+      "aliases": [
+        "파스티야",
+        "Pastilla",
+        "Bastilla",
+        "paseutiya"
+      ],
+      "latinAliases": [
+        "Pastilla",
+        "Bastilla",
+        "paseutiya"
+      ]
+    },
+    {
+      "id": "MA|민트티",
+      "country": "모로코",
+      "name": "민트티",
+      "aliases": [
+        "민트티",
+        "Mint tea",
+        "minteuti"
+      ],
+      "latinAliases": [
+        "Mint tea",
+        "minteuti"
+      ]
+    },
+    {
+      "id": "MA|므스멘",
+      "country": "모로코",
+      "name": "므스멘",
+      "aliases": [
+        "므스멘",
+        "Msemen",
+        "meuseumen"
+      ],
+      "latinAliases": [
+        "Msemen",
+        "meuseumen"
+      ]
+    },
+    {
+      "id": "ET|인제라",
+      "country": "에티오피아",
+      "name": "인제라",
+      "aliases": [
+        "인제라",
+        "Injera"
+      ],
+      "latinAliases": [
+        "Injera"
+      ]
+    },
+    {
+      "id": "ET|도로왓",
+      "country": "에티오피아",
+      "name": "도로왓",
+      "aliases": [
+        "도로왓",
+        "Doro wat",
+        "dorowas"
+      ],
+      "latinAliases": [
+        "Doro wat",
+        "dorowas"
+      ]
+    },
+    {
+      "id": "ET|시로",
+      "country": "에티오피아",
+      "name": "시로",
+      "aliases": [
+        "시로",
+        "Shiro",
+        "siro",
+        "etiopia siro"
+      ],
+      "latinAliases": [
+        "Shiro",
+        "siro",
+        "etiopia siro"
+      ]
+    },
+    {
+      "id": "ET|티브스",
+      "country": "에티오피아",
+      "name": "티브스",
+      "aliases": [
+        "티브스",
+        "Tibs",
+        "tibeuseu"
+      ],
+      "latinAliases": [
+        "Tibs",
+        "tibeuseu"
+      ]
+    },
+    {
+      "id": "ET|키트포",
+      "country": "에티오피아",
+      "name": "키트포",
+      "aliases": [
+        "키트포",
+        "Kitfo",
+        "kiteupo"
+      ],
+      "latinAliases": [
+        "Kitfo",
+        "kiteupo"
+      ]
+    },
+    {
+      "id": "ET|커피",
+      "country": "에티오피아",
+      "name": "커피",
+      "aliases": [
+        "커피",
+        "Coffee",
+        "keopi",
+        "etiopia keopi"
+      ],
+      "latinAliases": [
+        "Coffee",
+        "keopi",
+        "etiopia keopi"
+      ]
+    },
+    {
+      "id": "TZ|우갈리",
+      "country": "탄자니아",
+      "name": "우갈리",
+      "aliases": [
+        "우갈리",
+        "Ugali",
+        "ugalri"
+      ],
+      "latinAliases": [
+        "Ugali",
+        "ugalri"
+      ]
+    },
+    {
+      "id": "TZ|냐마초마",
+      "country": "탄자니아",
+      "name": "냐마초마",
+      "aliases": [
+        "냐마초마",
+        "Nyama choma",
+        "nyamacoma"
+      ],
+      "latinAliases": [
+        "Nyama choma",
+        "nyamacoma"
+      ]
+    },
+    {
+      "id": "TZ|필라우",
+      "country": "탄자니아",
+      "name": "필라우",
+      "aliases": [
+        "필라우",
+        "Pilau",
+        "Pilaf",
+        "pilrau"
+      ],
+      "latinAliases": [
+        "Pilau",
+        "Pilaf",
+        "pilrau"
+      ]
+    },
+    {
+      "id": "TZ|잔지바르 피자",
+      "country": "탄자니아",
+      "name": "잔지바르 피자",
+      "aliases": [
+        "잔지바르 피자",
+        "Zanzibar pizza",
+        "janjibareu pija",
+        "pizza"
+      ],
+      "latinAliases": [
+        "Zanzibar pizza",
+        "janjibareu pija",
+        "pizza"
+      ]
+    },
+    {
+      "id": "TZ|칩시 마야이",
+      "country": "탄자니아",
+      "name": "칩시 마야이",
+      "aliases": [
+        "칩시 마야이",
+        "Chipsi mayai",
+        "cibsi mayai"
+      ],
+      "latinAliases": [
+        "Chipsi mayai",
+        "cibsi mayai"
+      ]
+    },
+    {
+      "id": "TZ|만다지",
+      "country": "탄자니아",
+      "name": "만다지",
+      "aliases": [
+        "만다지",
+        "Mandazi",
+        "mandaji"
+      ],
+      "latinAliases": [
+        "Mandazi",
+        "mandaji"
+      ]
+    },
+    {
+      "id": "AR|아사도",
+      "country": "아르헨티나",
+      "name": "아사도",
+      "aliases": [
+        "아사도",
+        "Asado"
+      ],
+      "latinAliases": [
+        "Asado"
+      ]
+    },
+    {
+      "id": "AR|엠파나다",
+      "country": "아르헨티나",
+      "name": "엠파나다",
+      "aliases": [
+        "엠파나다",
+        "Empanada"
+      ],
+      "latinAliases": [
+        "Empanada"
+      ]
+    },
+    {
+      "id": "AR|밀라네사",
+      "country": "아르헨티나",
+      "name": "밀라네사",
+      "aliases": [
+        "밀라네사",
+        "Milanesa",
+        "milranesa"
+      ],
+      "latinAliases": [
+        "Milanesa",
+        "milranesa"
+      ]
+    },
+    {
+      "id": "AR|로크로",
+      "country": "아르헨티나",
+      "name": "로크로",
+      "aliases": [
+        "로크로",
+        "Locro",
+        "rokeuro"
+      ],
+      "latinAliases": [
+        "Locro",
+        "rokeuro"
+      ]
+    },
+    {
+      "id": "AR|둘세 데 레체",
+      "country": "아르헨티나",
+      "name": "둘세 데 레체",
+      "aliases": [
+        "둘세 데 레체",
+        "Dulce de leche",
+        "dulse de rece"
+      ],
+      "latinAliases": [
+        "Dulce de leche",
+        "dulse de rece"
+      ]
+    },
+    {
+      "id": "AR|알파호르",
+      "country": "아르헨티나",
+      "name": "알파호르",
+      "aliases": [
+        "알파호르",
+        "Alfajor",
+        "alpahoreu"
+      ],
+      "latinAliases": [
+        "Alfajor",
+        "alpahoreu"
+      ]
+    },
+    {
+      "id": "CL|엠파나다",
+      "country": "칠레",
+      "name": "엠파나다",
+      "aliases": [
+        "엠파나다",
+        "Empanada"
+      ],
+      "latinAliases": [
+        "Empanada"
+      ]
+    },
+    {
+      "id": "CL|파스텔 데 초클로",
+      "country": "칠레",
+      "name": "파스텔 데 초클로",
+      "aliases": [
+        "파스텔 데 초클로",
+        "Pastel de choclo",
+        "paseutel de cokeulro"
+      ],
+      "latinAliases": [
+        "Pastel de choclo",
+        "paseutel de cokeulro"
+      ]
+    },
+    {
+      "id": "CL|카수엘라",
+      "country": "칠레",
+      "name": "카수엘라",
+      "aliases": [
+        "카수엘라",
+        "Cazuela",
+        "kasuelra"
+      ],
+      "latinAliases": [
+        "Cazuela",
+        "kasuelra"
+      ]
+    },
+    {
+      "id": "CL|쿠란토",
+      "country": "칠레",
+      "name": "쿠란토",
+      "aliases": [
+        "쿠란토",
+        "Curanto",
+        "kuranto"
+      ],
+      "latinAliases": [
+        "Curanto",
+        "kuranto"
+      ]
+    },
+    {
+      "id": "CL|콤플레토",
+      "country": "칠레",
+      "name": "콤플레토",
+      "aliases": [
+        "콤플레토",
+        "Completo",
+        "kompeulreto"
+      ],
+      "latinAliases": [
+        "Completo",
+        "kompeulreto"
+      ]
+    },
+    {
+      "id": "CL|마리스칼",
+      "country": "칠레",
+      "name": "마리스칼",
+      "aliases": [
+        "마리스칼",
+        "Mariscal",
+        "mariseukal"
+      ],
+      "latinAliases": [
+        "Mariscal",
+        "mariseukal"
+      ]
+    },
+    {
+      "id": "PE|세비체",
+      "country": "페루",
+      "name": "세비체",
+      "aliases": [
+        "세비체",
+        "Ceviche",
+        "sebice"
+      ],
+      "latinAliases": [
+        "Ceviche",
+        "sebice"
+      ]
+    },
+    {
+      "id": "PE|로모 살타도",
+      "country": "페루",
+      "name": "로모 살타도",
+      "aliases": [
+        "로모 살타도",
+        "Lomo saltado",
+        "romo saltado"
+      ],
+      "latinAliases": [
+        "Lomo saltado",
+        "romo saltado"
+      ]
+    },
+    {
+      "id": "PE|아히 데 가이나",
+      "country": "페루",
+      "name": "아히 데 가이나",
+      "aliases": [
+        "아히 데 가이나",
+        "Ají de gallina",
+        "Aji de gallina",
+        "ahi de gaina"
+      ],
+      "latinAliases": [
+        "Ají de gallina",
+        "Aji de gallina",
+        "ahi de gaina"
+      ]
+    },
+    {
+      "id": "PE|파파 아 라 우앙카이나",
+      "country": "페루",
+      "name": "파파 아 라 우앙카이나",
+      "aliases": [
+        "파파 아 라 우앙카이나",
+        "Papa a la huancaína",
+        "Papa a la huancaina",
+        "papa a ra uangkaina"
+      ],
+      "latinAliases": [
+        "Papa a la huancaína",
+        "Papa a la huancaina",
+        "papa a ra uangkaina"
+      ]
+    },
+    {
+      "id": "PE|안티쿠초",
+      "country": "페루",
+      "name": "안티쿠초",
+      "aliases": [
+        "안티쿠초",
+        "Anticucho",
+        "antikuco"
+      ],
+      "latinAliases": [
+        "Anticucho",
+        "antikuco"
+      ]
+    },
+    {
+      "id": "PE|카우사",
+      "country": "페루",
+      "name": "카우사",
+      "aliases": [
+        "카우사",
+        "Causa rellena",
+        "Causa",
+        "kausa"
+      ],
+      "latinAliases": [
+        "Causa rellena",
+        "Causa",
+        "kausa"
+      ]
+    },
+    {
+      "id": "CU|로파 비에하",
+      "country": "쿠바",
+      "name": "로파 비에하",
+      "aliases": [
+        "로파 비에하",
+        "Ropa vieja",
+        "ropa bieha"
+      ],
+      "latinAliases": [
+        "Ropa vieja",
+        "ropa bieha"
+      ]
+    },
+    {
+      "id": "CU|모로스 이 크리스티아노스",
+      "country": "쿠바",
+      "name": "모로스 이 크리스티아노스",
+      "aliases": [
+        "모로스 이 크리스티아노스",
+        "Moros y cristianos",
+        "moroseu i keuriseutianoseu"
+      ],
+      "latinAliases": [
+        "Moros y cristianos",
+        "moroseu i keuriseutianoseu"
+      ]
+    },
+    {
+      "id": "CU|레촌 아사도",
+      "country": "쿠바",
+      "name": "레촌 아사도",
+      "aliases": [
+        "레촌 아사도",
+        "Lechón asado",
+        "Lechon asado",
+        "recon asado"
+      ],
+      "latinAliases": [
+        "Lechón asado",
+        "Lechon asado",
+        "recon asado"
+      ]
+    },
+    {
+      "id": "CU|유카 콘 모호",
+      "country": "쿠바",
+      "name": "유카 콘 모호",
+      "aliases": [
+        "유카 콘 모호",
+        "Yuca con mojo",
+        "yuka kon moho"
+      ],
+      "latinAliases": [
+        "Yuca con mojo",
+        "yuka kon moho"
+      ]
+    },
+    {
+      "id": "CU|토스톤",
+      "country": "쿠바",
+      "name": "토스톤",
+      "aliases": [
+        "토스톤",
+        "Tostones",
+        "toseuton"
+      ],
+      "latinAliases": [
+        "Tostones",
+        "toseuton"
+      ]
+    },
+    {
+      "id": "CU|플란",
+      "country": "쿠바",
+      "name": "플란",
+      "aliases": [
+        "플란",
+        "Flan",
+        "peulran",
+        "kuba peulran"
+      ],
+      "latinAliases": [
+        "Flan",
+        "peulran",
+        "kuba peulran"
+      ]
+    },
+    {
+      "id": "CR|가요 핀토",
+      "country": "코스타리카",
+      "name": "가요 핀토",
+      "aliases": [
+        "가요 핀토",
+        "Gallo pinto",
+        "gayo pinto"
+      ],
+      "latinAliases": [
+        "Gallo pinto",
+        "gayo pinto"
+      ]
+    },
+    {
+      "id": "CR|카사도",
+      "country": "코스타리카",
+      "name": "카사도",
+      "aliases": [
+        "카사도",
+        "Casado",
+        "kasado"
+      ],
+      "latinAliases": [
+        "Casado",
+        "kasado"
+      ]
+    },
+    {
+      "id": "CR|세비체",
+      "country": "코스타리카",
+      "name": "세비체",
+      "aliases": [
+        "세비체",
+        "Ceviche",
+        "sebice"
+      ],
+      "latinAliases": [
+        "Ceviche",
+        "sebice"
+      ]
+    },
+    {
+      "id": "CR|오야 데 카르네",
+      "country": "코스타리카",
+      "name": "오야 데 카르네",
+      "aliases": [
+        "오야 데 카르네",
+        "Olla de carne",
+        "oya de kareune"
+      ],
+      "latinAliases": [
+        "Olla de carne",
+        "oya de kareune"
+      ]
+    },
+    {
+      "id": "CR|타말",
+      "country": "코스타리카",
+      "name": "타말",
+      "aliases": [
+        "타말",
+        "Tamal",
+        "Tamale",
+        "koseutarika tamal"
+      ],
+      "latinAliases": [
+        "Tamal",
+        "Tamale",
+        "koseutarika tamal"
+      ]
+    },
+    {
+      "id": "CR|트레스 레체스",
+      "country": "코스타리카",
+      "name": "트레스 레체스",
+      "aliases": [
+        "트레스 레체스",
+        "Tres leches cake",
+        "teureseu receseu"
+      ],
+      "latinAliases": [
+        "Tres leches cake",
+        "teureseu receseu"
+      ]
+    },
+    {
+      "id": "AE|마츠부스",
+      "country": "아랍에미리트",
+      "name": "마츠부스",
+      "aliases": [
+        "마츠부스",
+        "Machboos",
+        "Majboos",
+        "maceubuseu"
+      ],
+      "latinAliases": [
+        "Machboos",
+        "Majboos",
+        "maceubuseu"
+      ]
+    },
+    {
+      "id": "AE|하리스",
+      "country": "아랍에미리트",
+      "name": "하리스",
+      "aliases": [
+        "하리스",
+        "Harees",
+        "hariseu"
+      ],
+      "latinAliases": [
+        "Harees",
+        "hariseu"
+      ]
+    },
+    {
+      "id": "AE|루카이마트",
+      "country": "아랍에미리트",
+      "name": "루카이마트",
+      "aliases": [
+        "루카이마트",
+        "Luqaimat",
+        "rukaimateu"
+      ],
+      "latinAliases": [
+        "Luqaimat",
+        "rukaimateu"
+      ]
+    },
+    {
+      "id": "AE|타불레",
+      "country": "아랍에미리트",
+      "name": "타불레",
+      "aliases": [
+        "타불레",
+        "Tabbouleh",
+        "tabulre"
+      ],
+      "latinAliases": [
+        "Tabbouleh",
+        "tabulre"
+      ]
+    },
+    {
+      "id": "QA|마츠부스",
+      "country": "카타르",
+      "name": "마츠부스",
+      "aliases": [
+        "마츠부스",
+        "Machboos",
+        "Majboos",
+        "maceubuseu"
+      ],
+      "latinAliases": [
+        "Machboos",
+        "Majboos",
+        "maceubuseu"
+      ]
+    },
+    {
+      "id": "QA|하리스",
+      "country": "카타르",
+      "name": "하리스",
+      "aliases": [
+        "하리스",
+        "Harees",
+        "hariseu"
+      ],
+      "latinAliases": [
+        "Harees",
+        "hariseu"
+      ]
+    },
+    {
+      "id": "QA|루카이마트",
+      "country": "카타르",
+      "name": "루카이마트",
+      "aliases": [
+        "루카이마트",
+        "Luqaimat",
+        "rukaimateu"
+      ],
+      "latinAliases": [
+        "Luqaimat",
+        "rukaimateu"
+      ]
+    },
+    {
+      "id": "QA|카락 차이",
+      "country": "카타르",
+      "name": "카락 차이",
+      "aliases": [
+        "카락 차이",
+        "Karak chai",
+        "karag cai",
+        "chai"
+      ],
+      "latinAliases": [
+        "Karak chai",
+        "karag cai",
+        "chai"
+      ]
+    },
+    {
+      "id": "IL|후무스",
+      "country": "이스라엘",
+      "name": "후무스",
+      "aliases": [
+        "후무스",
+        "Hummus",
+        "humuseu"
+      ],
+      "latinAliases": [
+        "Hummus",
+        "humuseu"
+      ]
+    },
+    {
+      "id": "IL|팔라펠",
+      "country": "이스라엘",
+      "name": "팔라펠",
+      "aliases": [
+        "팔라펠",
+        "Falafel",
+        "palrapel"
+      ],
+      "latinAliases": [
+        "Falafel",
+        "palrapel"
+      ]
+    },
+    {
+      "id": "IL|샥슈카",
+      "country": "이스라엘",
+      "name": "샥슈카",
+      "aliases": [
+        "샥슈카",
+        "Shakshuka",
+        "syagsyuka"
+      ],
+      "latinAliases": [
+        "Shakshuka",
+        "syagsyuka"
+      ]
+    },
+    {
+      "id": "IL|사비흐",
+      "country": "이스라엘",
+      "name": "사비흐",
+      "aliases": [
+        "사비흐",
+        "Sabich",
+        "sabiheu"
+      ],
+      "latinAliases": [
+        "Sabich",
+        "sabiheu"
+      ]
+    },
+    {
+      "id": "JO|만사프",
+      "country": "요르단",
+      "name": "만사프",
+      "aliases": [
+        "만사프",
+        "Mansaf",
+        "mansapeu"
+      ],
+      "latinAliases": [
+        "Mansaf",
+        "mansapeu"
+      ]
+    },
+    {
+      "id": "JO|마클루바",
+      "country": "요르단",
+      "name": "마클루바",
+      "aliases": [
+        "마클루바",
+        "Maqluba",
+        "makeulruba"
+      ],
+      "latinAliases": [
+        "Maqluba",
+        "makeulruba"
+      ]
+    },
+    {
+      "id": "JO|팔라펠",
+      "country": "요르단",
+      "name": "팔라펠",
+      "aliases": [
+        "팔라펠",
+        "Falafel",
+        "palrapel"
+      ],
+      "latinAliases": [
+        "Falafel",
+        "palrapel"
+      ]
+    },
+    {
+      "id": "JO|크나페",
+      "country": "요르단",
+      "name": "크나페",
+      "aliases": [
+        "크나페",
+        "Knafeh",
+        "Kunafa",
+        "keunape"
+      ],
+      "latinAliases": [
+        "Knafeh",
+        "Kunafa",
+        "keunape"
+      ]
+    },
+    {
+      "id": "PK|비리야니",
+      "country": "파키스탄",
+      "name": "비리야니",
+      "aliases": [
+        "비리야니",
+        "Biryani",
+        "biriyani"
+      ],
+      "latinAliases": [
+        "Biryani",
+        "biriyani"
+      ]
+    },
+    {
+      "id": "PK|니하리",
+      "country": "파키스탄",
+      "name": "니하리",
+      "aliases": [
+        "니하리",
+        "Nihari"
+      ],
+      "latinAliases": [
+        "Nihari"
+      ]
+    },
+    {
+      "id": "PK|할림",
+      "country": "파키스탄",
+      "name": "할림",
+      "aliases": [
+        "할림",
+        "Haleem",
+        "halrim",
+        "pakiseutan halrim"
+      ],
+      "latinAliases": [
+        "Haleem",
+        "halrim",
+        "pakiseutan halrim"
+      ]
+    },
+    {
+      "id": "PK|차플리 케밥",
+      "country": "파키스탄",
+      "name": "차플리 케밥",
+      "aliases": [
+        "차플리 케밥",
+        "Chapli kebab",
+        "capeulri kebab"
+      ],
+      "latinAliases": [
+        "Chapli kebab",
+        "capeulri kebab"
+      ]
+    },
+    {
+      "id": "BD|힐사 생선요리",
+      "country": "방글라데시",
+      "name": "힐사 생선요리",
+      "aliases": [
+        "힐사 생선요리",
+        "Hilsa fish curry",
+        "Ilish fish",
+        "hilsa saengseonyori",
+        "fish dish",
+        "dish"
+      ],
+      "latinAliases": [
+        "Hilsa fish curry",
+        "Ilish fish",
+        "hilsa saengseonyori",
+        "fish dish",
+        "dish"
+      ]
+    },
+    {
+      "id": "BD|비리야니",
+      "country": "방글라데시",
+      "name": "비리야니",
+      "aliases": [
+        "비리야니",
+        "Biryani",
+        "biriyani"
+      ],
+      "latinAliases": [
+        "Biryani",
+        "biriyani"
+      ]
+    },
+    {
+      "id": "BD|달",
+      "country": "방글라데시",
+      "name": "달",
+      "aliases": [
+        "달",
+        "Dal",
+        "Daal",
+        "banggeulradesi dal"
+      ],
+      "latinAliases": [
+        "Dal",
+        "Daal",
+        "banggeulradesi dal"
+      ]
+    },
+    {
+      "id": "BD|피타",
+      "country": "방글라데시",
+      "name": "피타",
+      "aliases": [
+        "피타",
+        "Pitha",
+        "pita",
+        "banggeulradesi pita"
+      ],
+      "latinAliases": [
+        "Pitha",
+        "pita",
+        "banggeulradesi pita"
+      ]
+    },
+    {
+      "id": "LK|라이스 앤 커리",
+      "country": "스리랑카",
+      "name": "라이스 앤 커리",
+      "aliases": [
+        "라이스 앤 커리",
+        "Rice and curry",
+        "raiseu aen keori",
+        "curry"
+      ],
+      "latinAliases": [
+        "Rice and curry",
+        "raiseu aen keori",
+        "curry"
+      ]
+    },
+    {
+      "id": "LK|호퍼",
+      "country": "스리랑카",
+      "name": "호퍼",
+      "aliases": [
+        "호퍼",
+        "Hopper",
+        "Appam",
+        "hopeo",
+        "seurirangka hopeo"
+      ],
+      "latinAliases": [
+        "Hopper",
+        "Appam",
+        "hopeo",
+        "seurirangka hopeo"
+      ]
+    },
+    {
+      "id": "LK|코투 로티",
+      "country": "스리랑카",
+      "name": "코투 로티",
+      "aliases": [
+        "코투 로티",
+        "Kottu roti",
+        "kotu roti"
+      ],
+      "latinAliases": [
+        "Kottu roti",
+        "kotu roti"
+      ]
+    },
+    {
+      "id": "LK|스트링 호퍼",
+      "country": "스리랑카",
+      "name": "스트링 호퍼",
+      "aliases": [
+        "스트링 호퍼",
+        "String hopper",
+        "Idiyappam",
+        "seuteuring hopeo"
+      ],
+      "latinAliases": [
+        "String hopper",
+        "Idiyappam",
+        "seuteuring hopeo"
+      ]
+    },
+    {
+      "id": "LA|라프",
+      "country": "라오스",
+      "name": "라프",
+      "aliases": [
+        "라프",
+        "Larb",
+        "Laap",
+        "rapeu",
+        "raoseu rapeu"
+      ],
+      "latinAliases": [
+        "Larb",
+        "Laap",
+        "rapeu",
+        "raoseu rapeu"
+      ]
+    },
+    {
+      "id": "LA|카오니아오",
+      "country": "라오스",
+      "name": "카오니아오",
+      "aliases": [
+        "카오니아오",
+        "Khao niao",
+        "Sticky rice",
+        "kaoniao"
+      ],
+      "latinAliases": [
+        "Khao niao",
+        "Sticky rice",
+        "kaoniao"
+      ]
+    },
+    {
+      "id": "LA|땀막훙",
+      "country": "라오스",
+      "name": "땀막훙",
+      "aliases": [
+        "땀막훙",
+        "Tam mak hoong",
+        "ddammaghung"
+      ],
+      "latinAliases": [
+        "Tam mak hoong",
+        "ddammaghung"
+      ]
+    },
+    {
+      "id": "LA|카오삐약센",
+      "country": "라오스",
+      "name": "카오삐약센",
+      "aliases": [
+        "카오삐약센",
+        "Khao piak sen",
+        "kaobbiyagsen"
+      ],
+      "latinAliases": [
+        "Khao piak sen",
+        "kaobbiyagsen"
+      ]
+    },
+    {
+      "id": "KZ|베슈바르막",
+      "country": "카자흐스탄",
+      "name": "베슈바르막",
+      "aliases": [
+        "베슈바르막",
+        "Beshbarmak",
+        "besyubareumag"
+      ],
+      "latinAliases": [
+        "Beshbarmak",
+        "besyubareumag"
+      ]
+    },
+    {
+      "id": "KZ|바우르삭",
+      "country": "카자흐스탄",
+      "name": "바우르삭",
+      "aliases": [
+        "바우르삭",
+        "Baursak",
+        "baureusag"
+      ],
+      "latinAliases": [
+        "Baursak",
+        "baureusag"
+      ]
+    },
+    {
+      "id": "KZ|쿠르트",
+      "country": "카자흐스탄",
+      "name": "쿠르트",
+      "aliases": [
+        "쿠르트",
+        "Kurt",
+        "Qurut",
+        "kureuteu"
+      ],
+      "latinAliases": [
+        "Kurt",
+        "Qurut",
+        "kureuteu"
+      ]
+    },
+    {
+      "id": "KZ|만티",
+      "country": "카자흐스탄",
+      "name": "만티",
+      "aliases": [
+        "만티",
+        "Manti",
+        "kajaheuseutan manti"
+      ],
+      "latinAliases": [
+        "Manti",
+        "kajaheuseutan manti"
+      ]
+    },
+    {
+      "id": "UZ|플로프",
+      "country": "우즈베키스탄",
+      "name": "플로프",
+      "aliases": [
+        "플로프",
+        "Plov",
+        "Palov",
+        "peulropeu"
+      ],
+      "latinAliases": [
+        "Plov",
+        "Palov",
+        "peulropeu"
+      ]
+    },
+    {
+      "id": "UZ|삼사",
+      "country": "우즈베키스탄",
+      "name": "삼사",
+      "aliases": [
+        "삼사",
+        "Samsa",
+        "ujeubekiseutan samsa"
+      ],
+      "latinAliases": [
+        "Samsa",
+        "ujeubekiseutan samsa"
+      ]
+    },
+    {
+      "id": "UZ|라그만",
+      "country": "우즈베키스탄",
+      "name": "라그만",
+      "aliases": [
+        "라그만",
+        "Lagman",
+        "rageuman"
+      ],
+      "latinAliases": [
+        "Lagman",
+        "rageuman"
+      ]
+    },
+    {
+      "id": "UZ|만티",
+      "country": "우즈베키스탄",
+      "name": "만티",
+      "aliases": [
+        "만티",
+        "Manti",
+        "ujeubekiseutan manti"
+      ],
+      "latinAliases": [
+        "Manti",
+        "ujeubekiseutan manti"
+      ]
+    },
+    {
+      "id": "IS|양고기 수프",
+      "country": "아이슬란드",
+      "name": "양고기 수프",
+      "aliases": [
+        "양고기 수프",
+        "Lamb soup",
+        "yanggogi supeu",
+        "soup"
+      ],
+      "latinAliases": [
+        "Lamb soup",
+        "yanggogi supeu",
+        "soup"
+      ]
+    },
+    {
+      "id": "IS|스키르",
+      "country": "아이슬란드",
+      "name": "스키르",
+      "aliases": [
+        "스키르",
+        "Skyr",
+        "seukireu"
+      ],
+      "latinAliases": [
+        "Skyr",
+        "seukireu"
+      ]
+    },
+    {
+      "id": "IS|플로크피스퀴르",
+      "country": "아이슬란드",
+      "name": "플로크피스퀴르",
+      "aliases": [
+        "플로크피스퀴르",
+        "Plokkfiskur",
+        "peulrokeupiseukwireu"
+      ],
+      "latinAliases": [
+        "Plokkfiskur",
+        "peulrokeupiseukwireu"
+      ]
+    },
+    {
+      "id": "IS|라이브레드",
+      "country": "아이슬란드",
+      "name": "라이브레드",
+      "aliases": [
+        "라이브레드",
+        "Rye bread",
+        "Rúgbrauð",
+        "raibeuredeu"
+      ],
+      "latinAliases": [
+        "Rye bread",
+        "Rúgbrauð",
+        "raibeuredeu"
+      ]
+    },
+    {
+      "id": "HU|굴라시",
+      "country": "헝가리",
+      "name": "굴라시",
+      "aliases": [
+        "굴라시",
+        "Goulash",
+        "Guláš",
+        "gulrasi"
+      ],
+      "latinAliases": [
+        "Goulash",
+        "Guláš",
+        "gulrasi"
+      ]
+    },
+    {
+      "id": "HU|랑고시",
+      "country": "헝가리",
+      "name": "랑고시",
+      "aliases": [
+        "랑고시",
+        "Lángos",
+        "Langos",
+        "ranggosi"
+      ],
+      "latinAliases": [
+        "Lángos",
+        "Langos",
+        "ranggosi"
+      ]
+    },
+    {
+      "id": "HU|치르케파프리카시",
+      "country": "헝가리",
+      "name": "치르케파프리카시",
+      "aliases": [
+        "치르케파프리카시",
+        "Chicken paprikash",
+        "Csirkepaprikás",
+        "cireukepapeurikasi"
+      ],
+      "latinAliases": [
+        "Chicken paprikash",
+        "Csirkepaprikás",
+        "cireukepapeurikasi"
+      ]
+    },
+    {
+      "id": "HU|도보시 토르터",
+      "country": "헝가리",
+      "name": "도보시 토르터",
+      "aliases": [
+        "도보시 토르터",
+        "Dobos torte",
+        "dobosi toreuteo"
+      ],
+      "latinAliases": [
+        "Dobos torte",
+        "dobosi toreuteo"
+      ]
+    },
+    {
+      "id": "RO|사르말레",
+      "country": "루마니아",
+      "name": "사르말레",
+      "aliases": [
+        "사르말레",
+        "Sarmale",
+        "sareumalre"
+      ],
+      "latinAliases": [
+        "Sarmale",
+        "sareumalre"
+      ]
+    },
+    {
+      "id": "RO|머멀리가",
+      "country": "루마니아",
+      "name": "머멀리가",
+      "aliases": [
+        "머멀리가",
+        "Mămăligă",
+        "Mamaliga",
+        "meomeolriga"
+      ],
+      "latinAliases": [
+        "Mămăligă",
+        "Mamaliga",
+        "meomeolriga"
+      ]
+    },
+    {
+      "id": "RO|미티테이",
+      "country": "루마니아",
+      "name": "미티테이",
+      "aliases": [
+        "미티테이",
+        "Mititei",
+        "Mici"
+      ],
+      "latinAliases": [
+        "Mititei",
+        "Mici"
+      ]
+    },
+    {
+      "id": "RO|코조낙",
+      "country": "루마니아",
+      "name": "코조낙",
+      "aliases": [
+        "코조낙",
+        "Cozonac",
+        "kojonag"
+      ],
+      "latinAliases": [
+        "Cozonac",
+        "kojonag"
+      ]
+    },
+    {
+      "id": "BG|쇼프스카 샐러드",
+      "country": "불가리아",
+      "name": "쇼프스카 샐러드",
+      "aliases": [
+        "쇼프스카 샐러드",
+        "Shopska salad",
+        "syopeuseuka saelreodeu",
+        "salad"
+      ],
+      "latinAliases": [
+        "Shopska salad",
+        "syopeuseuka saelreodeu",
+        "salad"
+      ]
+    },
+    {
+      "id": "BG|바니차",
+      "country": "불가리아",
+      "name": "바니차",
+      "aliases": [
+        "바니차",
+        "Banitsa",
+        "banica"
+      ],
+      "latinAliases": [
+        "Banitsa",
+        "banica"
+      ]
+    },
+    {
+      "id": "BG|타라토르",
+      "country": "불가리아",
+      "name": "타라토르",
+      "aliases": [
+        "타라토르",
+        "Tarator",
+        "taratoreu"
+      ],
+      "latinAliases": [
+        "Tarator",
+        "taratoreu"
+      ]
+    },
+    {
+      "id": "BG|케밥체",
+      "country": "불가리아",
+      "name": "케밥체",
+      "aliases": [
+        "케밥체",
+        "Kebapche",
+        "kebabce"
+      ],
+      "latinAliases": [
+        "Kebapche",
+        "kebabce"
+      ]
+    },
+    {
+      "id": "HR|페카",
+      "country": "크로아티아",
+      "name": "페카",
+      "aliases": [
+        "페카",
+        "Peka",
+        "keuroatia peka"
+      ],
+      "latinAliases": [
+        "Peka",
+        "keuroatia peka"
+      ]
+    },
+    {
+      "id": "HR|파슈티차다",
+      "country": "크로아티아",
+      "name": "파슈티차다",
+      "aliases": [
+        "파슈티차다",
+        "Pašticada",
+        "Pasticada",
+        "pasyuticada"
+      ],
+      "latinAliases": [
+        "Pašticada",
+        "Pasticada",
+        "pasyuticada"
+      ]
+    },
+    {
+      "id": "HR|슈트루클리",
+      "country": "크로아티아",
+      "name": "슈트루클리",
+      "aliases": [
+        "슈트루클리",
+        "Štruklji",
+        "Struklji",
+        "syuteurukeulri"
+      ],
+      "latinAliases": [
+        "Štruklji",
+        "Struklji",
+        "syuteurukeulri"
+      ]
+    },
+    {
+      "id": "HR|프리툴레",
+      "country": "크로아티아",
+      "name": "프리툴레",
+      "aliases": [
+        "프리툴레",
+        "Fritule",
+        "peuritulre"
+      ],
+      "latinAliases": [
+        "Fritule",
+        "peuritulre"
+      ]
+    },
+    {
+      "id": "RS|체바피",
+      "country": "세르비아",
+      "name": "체바피",
+      "aliases": [
+        "체바피",
+        "Ćevapi",
+        "Cevapi",
+        "cebapi"
+      ],
+      "latinAliases": [
+        "Ćevapi",
+        "Cevapi",
+        "cebapi"
+      ]
+    },
+    {
+      "id": "RS|플레스카비차",
+      "country": "세르비아",
+      "name": "플레스카비차",
+      "aliases": [
+        "플레스카비차",
+        "Pljeskavica",
+        "peulreseukabica"
+      ],
+      "latinAliases": [
+        "Pljeskavica",
+        "peulreseukabica"
+      ]
+    },
+    {
+      "id": "RS|사르마",
+      "country": "세르비아",
+      "name": "사르마",
+      "aliases": [
+        "사르마",
+        "Sarma",
+        "sareuma"
+      ],
+      "latinAliases": [
+        "Sarma",
+        "sareuma"
+      ]
+    },
+    {
+      "id": "RS|기바니차",
+      "country": "세르비아",
+      "name": "기바니차",
+      "aliases": [
+        "기바니차",
+        "Gibanica"
+      ],
+      "latinAliases": [
+        "Gibanica"
+      ]
+    },
+    {
+      "id": "UA|보르시",
+      "country": "우크라이나",
+      "name": "보르시",
+      "aliases": [
+        "보르시",
+        "Borscht",
+        "Borshch",
+        "boreusi"
+      ],
+      "latinAliases": [
+        "Borscht",
+        "Borshch",
+        "boreusi"
+      ]
+    },
+    {
+      "id": "UA|바레니키",
+      "country": "우크라이나",
+      "name": "바레니키",
+      "aliases": [
+        "바레니키",
+        "Varenyky",
+        "bareniki"
+      ],
+      "latinAliases": [
+        "Varenyky",
+        "bareniki"
+      ]
+    },
+    {
+      "id": "UA|홀루브치",
+      "country": "우크라이나",
+      "name": "홀루브치",
+      "aliases": [
+        "홀루브치",
+        "Holubtsi",
+        "holrubeuci"
+      ],
+      "latinAliases": [
+        "Holubtsi",
+        "holrubeuci"
+      ]
+    },
+    {
+      "id": "UA|시르니키",
+      "country": "우크라이나",
+      "name": "시르니키",
+      "aliases": [
+        "시르니키",
+        "Syrniki",
+        "sireuniki"
+      ],
+      "latinAliases": [
+        "Syrniki",
+        "sireuniki"
+      ]
+    },
+    {
+      "id": "GH|졸로프 라이스",
+      "country": "가나",
+      "name": "졸로프 라이스",
+      "aliases": [
+        "졸로프 라이스",
+        "Jollof rice",
+        "jolropeu raiseu"
+      ],
+      "latinAliases": [
+        "Jollof rice",
+        "jolropeu raiseu"
+      ]
+    },
+    {
+      "id": "GH|푸푸",
+      "country": "가나",
+      "name": "푸푸",
+      "aliases": [
+        "푸푸",
+        "Fufu",
+        "pupu",
+        "gana pupu"
+      ],
+      "latinAliases": [
+        "Fufu",
+        "pupu",
+        "gana pupu"
+      ]
+    },
+    {
+      "id": "GH|켈레웰레",
+      "country": "가나",
+      "name": "켈레웰레",
+      "aliases": [
+        "켈레웰레",
+        "Kelewele",
+        "kelrewelre"
+      ],
+      "latinAliases": [
+        "Kelewele",
+        "kelrewelre"
+      ]
+    },
+    {
+      "id": "GH|와체",
+      "country": "가나",
+      "name": "와체",
+      "aliases": [
+        "와체",
+        "Waakye",
+        "wace",
+        "gana wace"
+      ],
+      "latinAliases": [
+        "Waakye",
+        "wace",
+        "gana wace"
+      ]
+    },
+    {
+      "id": "NG|졸로프 라이스",
+      "country": "나이지리아",
+      "name": "졸로프 라이스",
+      "aliases": [
+        "졸로프 라이스",
+        "Jollof rice",
+        "jolropeu raiseu"
+      ],
+      "latinAliases": [
+        "Jollof rice",
+        "jolropeu raiseu"
+      ]
+    },
+    {
+      "id": "NG|에구시 수프",
+      "country": "나이지리아",
+      "name": "에구시 수프",
+      "aliases": [
+        "에구시 수프",
+        "Egusi soup",
+        "egusi supeu",
+        "soup"
+      ],
+      "latinAliases": [
+        "Egusi soup",
+        "egusi supeu",
+        "soup"
+      ]
+    },
+    {
+      "id": "NG|수야",
+      "country": "나이지리아",
+      "name": "수야",
+      "aliases": [
+        "수야",
+        "Suya",
+        "naijiria suya"
+      ],
+      "latinAliases": [
+        "Suya",
+        "naijiria suya"
+      ]
+    },
+    {
+      "id": "NG|푸프푸",
+      "country": "나이지리아",
+      "name": "푸프푸",
+      "aliases": [
+        "푸프푸",
+        "Fufu",
+        "pupeupu"
+      ],
+      "latinAliases": [
+        "Fufu",
+        "pupeupu"
+      ]
+    },
+    {
+      "id": "SN|티에부디엔",
+      "country": "세네갈",
+      "name": "티에부디엔",
+      "aliases": [
+        "티에부디엔",
+        "Thieboudienne",
+        "Ceebu jën",
+        "tiebudien"
+      ],
+      "latinAliases": [
+        "Thieboudienne",
+        "Ceebu jën",
+        "tiebudien"
+      ]
+    },
+    {
+      "id": "SN|야사",
+      "country": "세네갈",
+      "name": "야사",
+      "aliases": [
+        "야사",
+        "Yassa",
+        "yasa",
+        "senegal yasa"
+      ],
+      "latinAliases": [
+        "Yassa",
+        "yasa",
+        "senegal yasa"
+      ]
+    },
+    {
+      "id": "SN|마페",
+      "country": "세네갈",
+      "name": "마페",
+      "aliases": [
+        "마페",
+        "Mafé",
+        "Mafe",
+        "mape",
+        "senegal mape"
+      ],
+      "latinAliases": [
+        "Mafé",
+        "Mafe",
+        "mape",
+        "senegal mape"
+      ]
+    },
+    {
+      "id": "SN|파타야",
+      "country": "세네갈",
+      "name": "파타야",
+      "aliases": [
+        "파타야",
+        "Fataya",
+        "pataya"
+      ],
+      "latinAliases": [
+        "Fataya",
+        "pataya"
+      ]
+    },
+    {
+      "id": "TN|쿠스쿠스",
+      "country": "튀니지",
+      "name": "쿠스쿠스",
+      "aliases": [
+        "쿠스쿠스",
+        "Couscous",
+        "kuseukuseu"
+      ],
+      "latinAliases": [
+        "Couscous",
+        "kuseukuseu"
+      ]
+    },
+    {
+      "id": "TN|브릭",
+      "country": "튀니지",
+      "name": "브릭",
+      "aliases": [
+        "브릭",
+        "Brik",
+        "beurig",
+        "twiniji beurig"
+      ],
+      "latinAliases": [
+        "Brik",
+        "beurig",
+        "twiniji beurig"
+      ]
+    },
+    {
+      "id": "TN|라블라비",
+      "country": "튀니지",
+      "name": "라블라비",
+      "aliases": [
+        "라블라비",
+        "Lablabi",
+        "rabeulrabi"
+      ],
+      "latinAliases": [
+        "Lablabi",
+        "rabeulrabi"
+      ]
+    },
+    {
+      "id": "TN|샥슈카",
+      "country": "튀니지",
+      "name": "샥슈카",
+      "aliases": [
+        "샥슈카",
+        "Shakshuka",
+        "syagsyuka"
+      ],
+      "latinAliases": [
+        "Shakshuka",
+        "syagsyuka"
+      ]
+    },
+    {
+      "id": "DZ|쿠스쿠스",
+      "country": "알제리",
+      "name": "쿠스쿠스",
+      "aliases": [
+        "쿠스쿠스",
+        "Couscous",
+        "kuseukuseu"
+      ],
+      "latinAliases": [
+        "Couscous",
+        "kuseukuseu"
+      ]
+    },
+    {
+      "id": "DZ|쇼르바",
+      "country": "알제리",
+      "name": "쇼르바",
+      "aliases": [
+        "쇼르바",
+        "Chorba",
+        "syoreuba"
+      ],
+      "latinAliases": [
+        "Chorba",
+        "syoreuba"
+      ]
+    },
+    {
+      "id": "DZ|레슈타",
+      "country": "알제리",
+      "name": "레슈타",
+      "aliases": [
+        "레슈타",
+        "Rechta",
+        "resyuta"
+      ],
+      "latinAliases": [
+        "Rechta",
+        "resyuta"
+      ]
+    },
+    {
+      "id": "DZ|마크루드",
+      "country": "알제리",
+      "name": "마크루드",
+      "aliases": [
+        "마크루드",
+        "Makroudh",
+        "Makroud",
+        "makeurudeu"
+      ],
+      "latinAliases": [
+        "Makroudh",
+        "Makroud",
+        "makeurudeu"
+      ]
+    },
+    {
+      "id": "BW|세스와",
+      "country": "보츠와나",
+      "name": "세스와",
+      "aliases": [
+        "세스와",
+        "Seswaa",
+        "seseuwa"
+      ],
+      "latinAliases": [
+        "Seswaa",
+        "seseuwa"
+      ]
+    },
+    {
+      "id": "BW|보고베",
+      "country": "보츠와나",
+      "name": "보고베",
+      "aliases": [
+        "보고베",
+        "Bogobe"
+      ],
+      "latinAliases": [
+        "Bogobe"
+      ]
+    },
+    {
+      "id": "BW|모로고",
+      "country": "보츠와나",
+      "name": "모로고",
+      "aliases": [
+        "모로고",
+        "Morogo"
+      ],
+      "latinAliases": [
+        "Morogo"
+      ]
+    },
+    {
+      "id": "BW|마그위냐",
+      "country": "보츠와나",
+      "name": "마그위냐",
+      "aliases": [
+        "마그위냐",
+        "Magwinya",
+        "Vetkoek",
+        "mageuwinya"
+      ],
+      "latinAliases": [
+        "Magwinya",
+        "Vetkoek",
+        "mageuwinya"
+      ]
+    },
+    {
+      "id": "NA|카파나",
+      "country": "나미비아",
+      "name": "카파나",
+      "aliases": [
+        "카파나",
+        "Kapana"
+      ],
+      "latinAliases": [
+        "Kapana"
+      ]
+    },
+    {
+      "id": "NA|포티에코스",
+      "country": "나미비아",
+      "name": "포티에코스",
+      "aliases": [
+        "포티에코스",
+        "Potjiekos",
+        "potiekoseu"
+      ],
+      "latinAliases": [
+        "Potjiekos",
+        "potiekoseu"
+      ]
+    },
+    {
+      "id": "NA|마항구 죽",
+      "country": "나미비아",
+      "name": "마항구 죽",
+      "aliases": [
+        "마항구 죽",
+        "Mahangu porridge",
+        "mahanggu jug",
+        "porridge"
+      ],
+      "latinAliases": [
+        "Mahangu porridge",
+        "mahanggu jug",
+        "porridge"
+      ]
+    },
+    {
+      "id": "NA|빌통",
+      "country": "나미비아",
+      "name": "빌통",
+      "aliases": [
+        "빌통",
+        "Biltong",
+        "namibia biltong"
+      ],
+      "latinAliases": [
+        "Biltong",
+        "namibia biltong"
+      ]
+    },
+    {
+      "id": "MG|로마자바",
+      "country": "마다가스카르",
+      "name": "로마자바",
+      "aliases": [
+        "로마자바",
+        "Romazava",
+        "romajaba"
+      ],
+      "latinAliases": [
+        "Romazava",
+        "romajaba"
+      ]
+    },
+    {
+      "id": "MG|라비토토",
+      "country": "마다가스카르",
+      "name": "라비토토",
+      "aliases": [
+        "라비토토",
+        "Ravitoto",
+        "rabitoto"
+      ],
+      "latinAliases": [
+        "Ravitoto",
+        "rabitoto"
+      ]
+    },
+    {
+      "id": "MG|모포 가시",
+      "country": "마다가스카르",
+      "name": "모포 가시",
+      "aliases": [
+        "모포 가시",
+        "Mofo gasy",
+        "mopo gasi"
+      ],
+      "latinAliases": [
+        "Mofo gasy",
+        "mopo gasi"
+      ]
+    },
+    {
+      "id": "MG|바리 아미나나나",
+      "country": "마다가스카르",
+      "name": "바리 아미나나나",
+      "aliases": [
+        "바리 아미나나나",
+        "Vary amin'anana",
+        "bari aminanana"
+      ],
+      "latinAliases": [
+        "Vary amin'anana",
+        "bari aminanana"
+      ]
+    },
+    {
+      "id": "UG|마토케",
+      "country": "우간다",
+      "name": "마토케",
+      "aliases": [
+        "마토케",
+        "Matoke"
+      ],
+      "latinAliases": [
+        "Matoke"
+      ]
+    },
+    {
+      "id": "UG|롤렉스",
+      "country": "우간다",
+      "name": "롤렉스",
+      "aliases": [
+        "롤렉스",
+        "Rolex (food)",
+        "Ugandan rolex",
+        "rolregseu"
+      ],
+      "latinAliases": [
+        "Rolex (food)",
+        "Ugandan rolex",
+        "rolregseu"
+      ]
+    },
+    {
+      "id": "UG|루웜보",
+      "country": "우간다",
+      "name": "루웜보",
+      "aliases": [
+        "루웜보",
+        "Luwombo",
+        "ruweombo"
+      ],
+      "latinAliases": [
+        "Luwombo",
+        "ruweombo"
+      ]
+    },
+    {
+      "id": "UG|포쇼",
+      "country": "우간다",
+      "name": "포쇼",
+      "aliases": [
+        "포쇼",
+        "Posho",
+        "posyo",
+        "uganda posyo"
+      ],
+      "latinAliases": [
+        "Posho",
+        "posyo",
+        "uganda posyo"
+      ]
+    },
+    {
+      "id": "RW|이솜베",
+      "country": "르완다",
+      "name": "이솜베",
+      "aliases": [
+        "이솜베",
+        "Isombe"
+      ],
+      "latinAliases": [
+        "Isombe"
+      ]
+    },
+    {
+      "id": "RW|우갈리",
+      "country": "르완다",
+      "name": "우갈리",
+      "aliases": [
+        "우갈리",
+        "Ugali",
+        "ugalri"
+      ],
+      "latinAliases": [
+        "Ugali",
+        "ugalri"
+      ]
+    },
+    {
+      "id": "RW|브로셰트",
+      "country": "르완다",
+      "name": "브로셰트",
+      "aliases": [
+        "브로셰트",
+        "Brochette",
+        "beurosyeteu"
+      ],
+      "latinAliases": [
+        "Brochette",
+        "beurosyeteu"
+      ]
+    },
+    {
+      "id": "RW|이비하자",
+      "country": "르완다",
+      "name": "이비하자",
+      "aliases": [
+        "이비하자",
+        "Ibihaza",
+        "ibihaja"
+      ],
+      "latinAliases": [
+        "Ibihaza",
+        "ibihaja"
+      ]
+    },
+    {
+      "id": "PA|산코초",
+      "country": "파나마",
+      "name": "산코초",
+      "aliases": [
+        "산코초",
+        "Sancocho",
+        "sankoco"
+      ],
+      "latinAliases": [
+        "Sancocho",
+        "sankoco"
+      ]
+    },
+    {
+      "id": "PA|세비체",
+      "country": "파나마",
+      "name": "세비체",
+      "aliases": [
+        "세비체",
+        "Ceviche",
+        "sebice"
+      ],
+      "latinAliases": [
+        "Ceviche",
+        "sebice"
+      ]
+    },
+    {
+      "id": "PA|아로스 콘 폴로",
+      "country": "파나마",
+      "name": "아로스 콘 폴로",
+      "aliases": [
+        "아로스 콘 폴로",
+        "Arroz con pollo",
+        "aroseu kon polro"
+      ],
+      "latinAliases": [
+        "Arroz con pollo",
+        "aroseu kon polro"
+      ]
+    },
+    {
+      "id": "PA|파타코네스",
+      "country": "파나마",
+      "name": "파타코네스",
+      "aliases": [
+        "파타코네스",
+        "Patacones",
+        "patakoneseu"
+      ],
+      "latinAliases": [
+        "Patacones",
+        "patakoneseu"
+      ]
+    },
+    {
+      "id": "GT|페피안",
+      "country": "과테말라",
+      "name": "페피안",
+      "aliases": [
+        "페피안",
+        "Pepián",
+        "Pepian"
+      ],
+      "latinAliases": [
+        "Pepián",
+        "Pepian"
+      ]
+    },
+    {
+      "id": "GT|카크이크",
+      "country": "과테말라",
+      "name": "카크이크",
+      "aliases": [
+        "카크이크",
+        "Kak'ik",
+        "kakeuikeu"
+      ],
+      "latinAliases": [
+        "Kak'ik",
+        "kakeuikeu"
+      ]
+    },
+    {
+      "id": "GT|타말",
+      "country": "과테말라",
+      "name": "타말",
+      "aliases": [
+        "타말",
+        "Tamal",
+        "Tamale",
+        "gwatemalra tamal"
+      ],
+      "latinAliases": [
+        "Tamal",
+        "Tamale",
+        "gwatemalra tamal"
+      ]
+    },
+    {
+      "id": "GT|힐라차스",
+      "country": "과테말라",
+      "name": "힐라차스",
+      "aliases": [
+        "힐라차스",
+        "Hilachas",
+        "hilracaseu"
+      ],
+      "latinAliases": [
+        "Hilachas",
+        "hilracaseu"
+      ]
+    },
+    {
+      "id": "JM|저크 치킨",
+      "country": "자메이카",
+      "name": "저크 치킨",
+      "aliases": [
+        "저크 치킨",
+        "Jerk chicken",
+        "jeokeu cikin",
+        "chicken"
+      ],
+      "latinAliases": [
+        "Jerk chicken",
+        "jeokeu cikin",
+        "chicken"
+      ]
+    },
+    {
+      "id": "JM|아키 앤 솔트피시",
+      "country": "자메이카",
+      "name": "아키 앤 솔트피시",
+      "aliases": [
+        "아키 앤 솔트피시",
+        "Ackee and saltfish",
+        "aki aen solteupisi"
+      ],
+      "latinAliases": [
+        "Ackee and saltfish",
+        "aki aen solteupisi"
+      ]
+    },
+    {
+      "id": "JM|패티",
+      "country": "자메이카",
+      "name": "패티",
+      "aliases": [
+        "패티",
+        "Jamaican patty",
+        "Patty",
+        "paeti",
+        "jameika paeti"
+      ],
+      "latinAliases": [
+        "Jamaican patty",
+        "Patty",
+        "paeti",
+        "jameika paeti"
+      ]
+    },
+    {
+      "id": "JM|라이스 앤 피스",
+      "country": "자메이카",
+      "name": "라이스 앤 피스",
+      "aliases": [
+        "라이스 앤 피스",
+        "Rice and peas",
+        "raiseu aen piseu"
+      ],
+      "latinAliases": [
+        "Rice and peas",
+        "raiseu aen piseu"
+      ]
+    },
+    {
+      "id": "DO|라 반데라",
+      "country": "도미니카공화국",
+      "name": "라 반데라",
+      "aliases": [
+        "라 반데라",
+        "La bandera dominicana",
+        "La bandera",
+        "ra bandera"
+      ],
+      "latinAliases": [
+        "La bandera dominicana",
+        "La bandera",
+        "ra bandera"
+      ]
+    },
+    {
+      "id": "DO|망구",
+      "country": "도미니카공화국",
+      "name": "망구",
+      "aliases": [
+        "망구",
+        "Mangú",
+        "Mangu",
+        "manggu",
+        "dominikagonghwagug manggu"
+      ],
+      "latinAliases": [
+        "Mangú",
+        "Mangu",
+        "manggu",
+        "dominikagonghwagug manggu"
+      ]
+    },
+    {
+      "id": "DO|산코초",
+      "country": "도미니카공화국",
+      "name": "산코초",
+      "aliases": [
+        "산코초",
+        "Sancocho",
+        "sankoco"
+      ],
+      "latinAliases": [
+        "Sancocho",
+        "sankoco"
+      ]
+    },
+    {
+      "id": "DO|토스토네스",
+      "country": "도미니카공화국",
+      "name": "토스토네스",
+      "aliases": [
+        "토스토네스",
+        "Tostones",
+        "toseutoneseu"
+      ],
+      "latinAliases": [
+        "Tostones",
+        "toseutoneseu"
+      ]
+    },
+    {
+      "id": "UY|치비토",
+      "country": "우루과이",
+      "name": "치비토",
+      "aliases": [
+        "치비토",
+        "Chivito",
+        "cibito"
+      ],
+      "latinAliases": [
+        "Chivito",
+        "cibito"
+      ]
+    },
+    {
+      "id": "UY|아사도",
+      "country": "우루과이",
+      "name": "아사도",
+      "aliases": [
+        "아사도",
+        "Asado"
+      ],
+      "latinAliases": [
+        "Asado"
+      ]
+    },
+    {
+      "id": "UY|밀라네사",
+      "country": "우루과이",
+      "name": "밀라네사",
+      "aliases": [
+        "밀라네사",
+        "Milanesa",
+        "milranesa"
+      ],
+      "latinAliases": [
+        "Milanesa",
+        "milranesa"
+      ]
+    },
+    {
+      "id": "UY|알파호르",
+      "country": "우루과이",
+      "name": "알파호르",
+      "aliases": [
+        "알파호르",
+        "Alfajor",
+        "alpahoreu"
+      ],
+      "latinAliases": [
+        "Alfajor",
+        "alpahoreu"
+      ]
+    },
+    {
+      "id": "EC|세비체",
+      "country": "에콰도르",
+      "name": "세비체",
+      "aliases": [
+        "세비체",
+        "Ceviche",
+        "sebice"
+      ],
+      "latinAliases": [
+        "Ceviche",
+        "sebice"
+      ]
+    },
+    {
+      "id": "EC|야핑가초",
+      "country": "에콰도르",
+      "name": "야핑가초",
+      "aliases": [
+        "야핑가초",
+        "Llapingacho",
+        "yapinggaco"
+      ],
+      "latinAliases": [
+        "Llapingacho",
+        "yapinggaco"
+      ]
+    },
+    {
+      "id": "EC|엔세보야도",
+      "country": "에콰도르",
+      "name": "엔세보야도",
+      "aliases": [
+        "엔세보야도",
+        "Encebollado",
+        "enseboyado"
+      ],
+      "latinAliases": [
+        "Encebollado",
+        "enseboyado"
+      ]
+    },
+    {
+      "id": "EC|로크로 데 파파",
+      "country": "에콰도르",
+      "name": "로크로 데 파파",
+      "aliases": [
+        "로크로 데 파파",
+        "Locro de papa",
+        "rokeuro de papa"
+      ],
+      "latinAliases": [
+        "Locro de papa",
+        "rokeuro de papa"
+      ]
+    },
+    {
+      "id": "BO|살테냐",
+      "country": "볼리비아",
+      "name": "살테냐",
+      "aliases": [
+        "살테냐",
+        "Salteña",
+        "Saltena",
+        "saltenya"
+      ],
+      "latinAliases": [
+        "Salteña",
+        "Saltena",
+        "saltenya"
+      ]
+    },
+    {
+      "id": "BO|피케 마초",
+      "country": "볼리비아",
+      "name": "피케 마초",
+      "aliases": [
+        "피케 마초",
+        "Pique macho",
+        "pike maco"
+      ],
+      "latinAliases": [
+        "Pique macho",
+        "pike maco"
+      ]
+    },
+    {
+      "id": "BO|실판초",
+      "country": "볼리비아",
+      "name": "실판초",
+      "aliases": [
+        "실판초",
+        "Silpancho",
+        "silpanco"
+      ],
+      "latinAliases": [
+        "Silpancho",
+        "silpanco"
+      ]
+    },
+    {
+      "id": "BO|소파 데 마니",
+      "country": "볼리비아",
+      "name": "소파 데 마니",
+      "aliases": [
+        "소파 데 마니",
+        "Sopa de maní",
+        "Sopa de mani"
+      ],
+      "latinAliases": [
+        "Sopa de maní",
+        "Sopa de mani"
+      ]
+    },
+    {
+      "id": "VE|아레파",
+      "country": "베네수엘라",
+      "name": "아레파",
+      "aliases": [
+        "아레파",
+        "Arepa"
+      ],
+      "latinAliases": [
+        "Arepa"
+      ]
+    },
+    {
+      "id": "VE|파베욘 크리오요",
+      "country": "베네수엘라",
+      "name": "파베욘 크리오요",
+      "aliases": [
+        "파베욘 크리오요",
+        "Pabellón criollo",
+        "Pabellon criollo",
+        "pabeyon keurioyo"
+      ],
+      "latinAliases": [
+        "Pabellón criollo",
+        "Pabellon criollo",
+        "pabeyon keurioyo"
+      ]
+    },
+    {
+      "id": "VE|카차파",
+      "country": "베네수엘라",
+      "name": "카차파",
+      "aliases": [
+        "카차파",
+        "Cachapa",
+        "kacapa"
+      ],
+      "latinAliases": [
+        "Cachapa",
+        "kacapa"
+      ]
+    },
+    {
+      "id": "VE|아야카",
+      "country": "베네수엘라",
+      "name": "아야카",
+      "aliases": [
+        "아야카",
+        "Hallaca",
+        "ayaka"
+      ],
+      "latinAliases": [
+        "Hallaca",
+        "ayaka"
+      ]
+    },
+    {
+      "id": "FJ|코코다",
+      "country": "피지",
+      "name": "코코다",
+      "aliases": [
+        "코코다",
+        "Kokoda"
+      ],
+      "latinAliases": [
+        "Kokoda"
+      ]
+    },
+    {
+      "id": "FJ|로보",
+      "country": "피지",
+      "name": "로보",
+      "aliases": [
+        "로보",
+        "Lovo",
+        "robo",
+        "piji robo"
+      ],
+      "latinAliases": [
+        "Lovo",
+        "robo",
+        "piji robo"
+      ]
+    },
+    {
+      "id": "FJ|로우로우",
+      "country": "피지",
+      "name": "로우로우",
+      "aliases": [
+        "로우로우",
+        "Rourou",
+        "Lau lau"
+      ],
+      "latinAliases": [
+        "Rourou",
+        "Lau lau"
+      ]
+    },
+    {
+      "id": "FJ|카사바",
+      "country": "피지",
+      "name": "카사바",
+      "aliases": [
+        "카사바",
+        "Cassava",
+        "kasaba"
+      ],
+      "latinAliases": [
+        "Cassava",
+        "kasaba"
+      ]
+    },
+    {
+      "id": "PG|무무",
+      "country": "파푸아뉴기니",
+      "name": "무무",
+      "aliases": [
+        "무무",
+        "Mumu",
+        "papuanyugini mumu"
+      ],
+      "latinAliases": [
+        "Mumu",
+        "papuanyugini mumu"
+      ]
+    },
+    {
+      "id": "PG|사고",
+      "country": "파푸아뉴기니",
+      "name": "사고",
+      "aliases": [
+        "사고",
+        "Sago",
+        "papuanyugini sago"
+      ],
+      "latinAliases": [
+        "Sago",
+        "papuanyugini sago"
+      ]
+    },
+    {
+      "id": "PG|카우카우",
+      "country": "파푸아뉴기니",
+      "name": "카우카우",
+      "aliases": [
+        "카우카우",
+        "Kaukau"
+      ],
+      "latinAliases": [
+        "Kaukau"
+      ]
+    },
+    {
+      "id": "PG|코코넛 생선요리",
+      "country": "파푸아뉴기니",
+      "name": "코코넛 생선요리",
+      "aliases": [
+        "코코넛 생선요리",
+        "Coconut fish",
+        "kokoneos saengseonyori",
+        "fish dish",
+        "dish"
+      ],
+      "latinAliases": [
+        "Coconut fish",
+        "kokoneos saengseonyori",
+        "fish dish",
+        "dish"
+      ]
+    },
+    {
+      "id": "WS|팔루사미",
+      "country": "사모아",
+      "name": "팔루사미",
+      "aliases": [
+        "팔루사미",
+        "Palusami",
+        "palrusami"
+      ],
+      "latinAliases": [
+        "Palusami",
+        "palrusami"
+      ]
+    },
+    {
+      "id": "WS|오카",
+      "country": "사모아",
+      "name": "오카",
+      "aliases": [
+        "오카",
+        "Oka i'a",
+        "oka",
+        "samoa oka"
+      ],
+      "latinAliases": [
+        "Oka i'a",
+        "oka",
+        "samoa oka"
+      ]
+    },
+    {
+      "id": "WS|파니포포",
+      "country": "사모아",
+      "name": "파니포포",
+      "aliases": [
+        "파니포포",
+        "Pani popo",
+        "panipopo"
+      ],
+      "latinAliases": [
+        "Pani popo",
+        "panipopo"
+      ]
+    },
+    {
+      "id": "WS|우무 요리",
+      "country": "사모아",
+      "name": "우무 요리",
+      "aliases": [
+        "우무 요리",
+        "Umu",
+        "umu yori",
+        "dish"
+      ],
+      "latinAliases": [
+        "Umu",
+        "umu yori",
+        "dish"
+      ]
+    },
+    {
+      "id": "LU|주드 마트 가르데보우넨",
+      "country": "룩셈부르크",
+      "name": "주드 마트 가르데보우넨",
+      "aliases": [
+        "주드 마트 가르데보우넨",
+        "Judd mat Gaardebounen",
+        "judeu mateu gareudebounen"
+      ],
+      "latinAliases": [
+        "Judd mat Gaardebounen",
+        "judeu mateu gareudebounen"
+      ]
+    },
+    {
+      "id": "LU|그롬페레키셸셔",
+      "country": "룩셈부르크",
+      "name": "그롬페레키셸셔",
+      "aliases": [
+        "그롬페레키셸셔",
+        "Gromperekichelcher",
+        "geuromperekisyelsyeo"
+      ],
+      "latinAliases": [
+        "Gromperekichelcher",
+        "geuromperekisyelsyeo"
+      ]
+    },
+    {
+      "id": "LU|크웻셴타르트",
+      "country": "룩셈부르크",
+      "name": "크웻셴타르트",
+      "aliases": [
+        "크웻셴타르트",
+        "Quetschentaart",
+        "keuwessyentareuteu",
+        "tart"
+      ],
+      "latinAliases": [
+        "Quetschentaart",
+        "keuwessyentareuteu",
+        "tart"
+      ]
+    },
+    {
+      "id": "LU|바메슈",
+      "country": "룩셈부르크",
+      "name": "바메슈",
+      "aliases": [
+        "바메슈",
+        "Bamkuch",
+        "Baamkuch",
+        "bamesyu"
+      ],
+      "latinAliases": [
+        "Bamkuch",
+        "Baamkuch",
+        "bamesyu"
+      ]
+    },
+    {
+      "id": "SK|브린조베 할루슈키",
+      "country": "슬로바키아",
+      "name": "브린조베 할루슈키",
+      "aliases": [
+        "브린조베 할루슈키",
+        "Bryndzové halušky",
+        "Bryndzove halusky",
+        "beurinjobe halrusyuki"
+      ],
+      "latinAliases": [
+        "Bryndzové halušky",
+        "Bryndzove halusky",
+        "beurinjobe halrusyuki"
+      ]
+    },
+    {
+      "id": "SK|카푸스트니차",
+      "country": "슬로바키아",
+      "name": "카푸스트니차",
+      "aliases": [
+        "카푸스트니차",
+        "Kapustnica",
+        "kapuseuteunica"
+      ],
+      "latinAliases": [
+        "Kapustnica",
+        "kapuseuteunica"
+      ]
+    },
+    {
+      "id": "SK|로크셰",
+      "country": "슬로바키아",
+      "name": "로크셰",
+      "aliases": [
+        "로크셰",
+        "Lokše",
+        "Lokse",
+        "rokeusye"
+      ],
+      "latinAliases": [
+        "Lokše",
+        "Lokse",
+        "rokeusye"
+      ]
+    },
+    {
+      "id": "SK|스칼리츠키 트르델니크",
+      "country": "슬로바키아",
+      "name": "스칼리츠키 트르델니크",
+      "aliases": [
+        "스칼리츠키 트르델니크",
+        "Skalický trdelník",
+        "Skalicky trdelnik",
+        "seukalriceuki teureudelnikeu"
+      ],
+      "latinAliases": [
+        "Skalický trdelník",
+        "Skalicky trdelnik",
+        "seukalriceuki teureudelnikeu"
+      ]
+    },
+    {
+      "id": "SI|포티차",
+      "country": "슬로베니아",
+      "name": "포티차",
+      "aliases": [
+        "포티차",
+        "Potica"
+      ],
+      "latinAliases": [
+        "Potica"
+      ]
+    },
+    {
+      "id": "SI|크란스카 클로바사",
+      "country": "슬로베니아",
+      "name": "크란스카 클로바사",
+      "aliases": [
+        "크란스카 클로바사",
+        "Kranjska klobasa",
+        "Carniolan sausage",
+        "keuranseuka keulrobasa"
+      ],
+      "latinAliases": [
+        "Kranjska klobasa",
+        "Carniolan sausage",
+        "keuranseuka keulrobasa"
+      ]
+    },
+    {
+      "id": "SI|슈트루클리",
+      "country": "슬로베니아",
+      "name": "슈트루클리",
+      "aliases": [
+        "슈트루클리",
+        "Štruklji",
+        "Struklji",
+        "syuteurukeulri"
+      ],
+      "latinAliases": [
+        "Štruklji",
+        "Struklji",
+        "syuteurukeulri"
+      ]
+    },
+    {
+      "id": "SI|요타",
+      "country": "슬로베니아",
+      "name": "요타",
+      "aliases": [
+        "요타",
+        "Jota",
+        "yota",
+        "seulrobenia yota"
+      ],
+      "latinAliases": [
+        "Jota",
+        "yota",
+        "seulrobenia yota"
+      ]
+    },
+    {
+      "id": "EE|베리보르스트",
+      "country": "에스토니아",
+      "name": "베리보르스트",
+      "aliases": [
+        "베리보르스트",
+        "Verivorst",
+        "beriboreuseuteu"
+      ],
+      "latinAliases": [
+        "Verivorst",
+        "beriboreuseuteu"
+      ]
+    },
+    {
+      "id": "EE|킬루보일레이브",
+      "country": "에스토니아",
+      "name": "킬루보일레이브",
+      "aliases": [
+        "킬루보일레이브",
+        "Kiluvõileib",
+        "Kiluvóileib",
+        "kilruboilreibeu"
+      ],
+      "latinAliases": [
+        "Kiluvõileib",
+        "Kiluvóileib",
+        "kilruboilreibeu"
+      ]
+    },
+    {
+      "id": "EE|카마",
+      "country": "에스토니아",
+      "name": "카마",
+      "aliases": [
+        "카마",
+        "Kama",
+        "eseutonia kama"
+      ],
+      "latinAliases": [
+        "Kama",
+        "eseutonia kama"
+      ]
+    },
+    {
+      "id": "EE|물기푸데르",
+      "country": "에스토니아",
+      "name": "물기푸데르",
+      "aliases": [
+        "물기푸데르",
+        "Mulgipuder",
+        "mulgipudereu"
+      ],
+      "latinAliases": [
+        "Mulgipuder",
+        "mulgipudereu"
+      ]
+    },
+    {
+      "id": "LV|회색완두콩과 베이컨",
+      "country": "라트비아",
+      "name": "회색완두콩과 베이컨",
+      "aliases": [
+        "회색완두콩과 베이컨",
+        "Grey peas and bacon",
+        "hoesaegwandukonggwa beikeon"
+      ],
+      "latinAliases": [
+        "Grey peas and bacon",
+        "hoesaegwandukonggwa beikeon"
+      ]
+    },
+    {
+      "id": "LV|호밀빵",
+      "country": "라트비아",
+      "name": "호밀빵",
+      "aliases": [
+        "호밀빵",
+        "Rye bread",
+        "homilbbang",
+        "bread"
+      ],
+      "latinAliases": [
+        "Rye bread",
+        "homilbbang",
+        "bread"
+      ]
+    },
+    {
+      "id": "LV|스칸드라우시스",
+      "country": "라트비아",
+      "name": "스칸드라우시스",
+      "aliases": [
+        "스칸드라우시스",
+        "Sklandrausis",
+        "seukandeurausiseu"
+      ],
+      "latinAliases": [
+        "Sklandrausis",
+        "seukandeurausiseu"
+      ]
+    },
+    {
+      "id": "LV|피라기",
+      "country": "라트비아",
+      "name": "피라기",
+      "aliases": [
+        "피라기",
+        "Pīrāgi",
+        "Piragi"
+      ],
+      "latinAliases": [
+        "Pīrāgi",
+        "Piragi"
+      ]
+    },
+    {
+      "id": "LT|체펠리나이",
+      "country": "리투아니아",
+      "name": "체펠리나이",
+      "aliases": [
+        "체펠리나이",
+        "Cepelinai",
+        "cepelrinai"
+      ],
+      "latinAliases": [
+        "Cepelinai",
+        "cepelrinai"
+      ]
+    },
+    {
+      "id": "LT|샬티바르슈차이",
+      "country": "리투아니아",
+      "name": "샬티바르슈차이",
+      "aliases": [
+        "샬티바르슈차이",
+        "Šaltibarščiai",
+        "Saltibarsciai",
+        "syaltibareusyucai",
+        "chai"
+      ],
+      "latinAliases": [
+        "Šaltibarščiai",
+        "Saltibarsciai",
+        "syaltibareusyucai",
+        "chai"
+      ]
+    },
+    {
+      "id": "LT|쿠겔리스",
+      "country": "리투아니아",
+      "name": "쿠겔리스",
+      "aliases": [
+        "쿠겔리스",
+        "Kugelis",
+        "kugelriseu"
+      ],
+      "latinAliases": [
+        "Kugelis",
+        "kugelriseu"
+      ]
+    },
+    {
+      "id": "LT|샤코티스",
+      "country": "리투아니아",
+      "name": "샤코티스",
+      "aliases": [
+        "샤코티스",
+        "Šakotis",
+        "Sakotis",
+        "syakotiseu"
+      ],
+      "latinAliases": [
+        "Šakotis",
+        "Sakotis",
+        "syakotiseu"
+      ]
+    },
+    {
+      "id": "CY|할루미",
+      "country": "키프로스",
+      "name": "할루미",
+      "aliases": [
+        "할루미",
+        "Halloumi",
+        "halrumi"
+      ],
+      "latinAliases": [
+        "Halloumi",
+        "halrumi"
+      ]
+    },
+    {
+      "id": "CY|수블라",
+      "country": "키프로스",
+      "name": "수블라",
+      "aliases": [
+        "수블라",
+        "Souvla",
+        "subeulra"
+      ],
+      "latinAliases": [
+        "Souvla",
+        "subeulra"
+      ]
+    },
+    {
+      "id": "CY|클레프티코",
+      "country": "키프로스",
+      "name": "클레프티코",
+      "aliases": [
+        "클레프티코",
+        "Kleftiko",
+        "keulrepeutiko"
+      ],
+      "latinAliases": [
+        "Kleftiko",
+        "keulrepeutiko"
+      ]
+    },
+    {
+      "id": "CY|셰프탈리아",
+      "country": "키프로스",
+      "name": "셰프탈리아",
+      "aliases": [
+        "셰프탈리아",
+        "Sheftalia",
+        "syepeutalria"
+      ],
+      "latinAliases": [
+        "Sheftalia",
+        "syepeutalria"
+      ]
+    },
+    {
+      "id": "MT|파스티치",
+      "country": "몰타",
+      "name": "파스티치",
+      "aliases": [
+        "파스티치",
+        "Pastizzi",
+        "paseutici"
+      ],
+      "latinAliases": [
+        "Pastizzi",
+        "paseutici"
+      ]
+    },
+    {
+      "id": "MT|펜카타",
+      "country": "몰타",
+      "name": "펜카타",
+      "aliases": [
+        "펜카타",
+        "Fenkata",
+        "penkata"
+      ],
+      "latinAliases": [
+        "Fenkata",
+        "penkata"
+      ]
+    },
+    {
+      "id": "MT|팀파나",
+      "country": "몰타",
+      "name": "팀파나",
+      "aliases": [
+        "팀파나",
+        "Timpana"
+      ],
+      "latinAliases": [
+        "Timpana"
+      ]
+    },
+    {
+      "id": "MT|홉즈 비즈 제이트",
+      "country": "몰타",
+      "name": "홉즈 비즈 제이트",
+      "aliases": [
+        "홉즈 비즈 제이트",
+        "Ħobż biż-żejt",
+        "Hobz biz-zejt",
+        "hobjeu bijeu jeiteu"
+      ],
+      "latinAliases": [
+        "Ħobż biż-żejt",
+        "Hobz biz-zejt",
+        "hobjeu bijeu jeiteu"
+      ]
+    },
+    {
+      "id": "GE|하차푸리",
+      "country": "조지아",
+      "name": "하차푸리",
+      "aliases": [
+        "하차푸리",
+        "Khachapuri",
+        "hacapuri"
+      ],
+      "latinAliases": [
+        "Khachapuri",
+        "hacapuri"
+      ]
+    },
+    {
+      "id": "GE|힌칼리",
+      "country": "조지아",
+      "name": "힌칼리",
+      "aliases": [
+        "힌칼리",
+        "Khinkali",
+        "hinkalri"
+      ],
+      "latinAliases": [
+        "Khinkali",
+        "hinkalri"
+      ]
+    },
+    {
+      "id": "GE|로비오",
+      "country": "조지아",
+      "name": "로비오",
+      "aliases": [
+        "로비오",
+        "Lobio",
+        "robio"
+      ],
+      "latinAliases": [
+        "Lobio",
+        "robio"
+      ]
+    },
+    {
+      "id": "GE|차카풀리",
+      "country": "조지아",
+      "name": "차카풀리",
+      "aliases": [
+        "차카풀리",
+        "Chakapuli",
+        "cakapulri"
+      ],
+      "latinAliases": [
+        "Chakapuli",
+        "cakapulri"
+      ]
+    },
+    {
+      "id": "AM|호로바츠",
+      "country": "아르메니아",
+      "name": "호로바츠",
+      "aliases": [
+        "호로바츠",
+        "Khorovats",
+        "horobaceu"
+      ],
+      "latinAliases": [
+        "Khorovats",
+        "horobaceu"
+      ]
+    },
+    {
+      "id": "AM|돌마",
+      "country": "아르메니아",
+      "name": "돌마",
+      "aliases": [
+        "돌마",
+        "Dolma",
+        "areumenia dolma"
+      ],
+      "latinAliases": [
+        "Dolma",
+        "areumenia dolma"
+      ]
+    },
+    {
+      "id": "AM|라바시",
+      "country": "아르메니아",
+      "name": "라바시",
+      "aliases": [
+        "라바시",
+        "Lavash",
+        "rabasi"
+      ],
+      "latinAliases": [
+        "Lavash",
+        "rabasi"
+      ]
+    },
+    {
+      "id": "AM|하리사",
+      "country": "아르메니아",
+      "name": "하리사",
+      "aliases": [
+        "하리사",
+        "Harissa",
+        "Harisa"
+      ],
+      "latinAliases": [
+        "Harissa",
+        "Harisa"
+      ]
+    },
+    {
+      "id": "TW|우육면",
+      "country": "대만",
+      "name": "우육면",
+      "aliases": [
+        "우육면",
+        "Beef noodle soup",
+        "Taiwanese beef noodle soup",
+        "Niu rou mian",
+        "uyugmyeon"
+      ],
+      "latinAliases": [
+        "Beef noodle soup",
+        "Taiwanese beef noodle soup",
+        "Niu rou mian",
+        "uyugmyeon"
+      ]
+    },
+    {
+      "id": "TW|샤오룽바오",
+      "country": "대만",
+      "name": "샤오룽바오",
+      "aliases": [
+        "샤오룽바오",
+        "syaorungbao"
+      ],
+      "latinAliases": [
+        "syaorungbao"
+      ]
+    },
+    {
+      "id": "TW|루러우판",
+      "country": "대만",
+      "name": "루러우판",
+      "aliases": [
+        "루러우판",
+        "Lu rou fan",
+        "Braised pork rice",
+        "rureoupan"
+      ],
+      "latinAliases": [
+        "Lu rou fan",
+        "Braised pork rice",
+        "rureoupan"
+      ]
+    },
+    {
+      "id": "TW|지파이",
+      "country": "대만",
+      "name": "지파이",
+      "aliases": [
+        "지파이",
+        "Ji pai",
+        "Taiwanese fried chicken cutlet",
+        "jipai"
+      ],
+      "latinAliases": [
+        "Ji pai",
+        "Taiwanese fried chicken cutlet",
+        "jipai"
+      ]
+    },
+    {
+      "id": "TW|총좌빙",
+      "country": "대만",
+      "name": "총좌빙",
+      "aliases": [
+        "총좌빙",
+        "Cong you bing",
+        "Scallion pancake",
+        "congjwabing"
+      ],
+      "latinAliases": [
+        "Cong you bing",
+        "Scallion pancake",
+        "congjwabing"
+      ]
+    },
+    {
+      "id": "TW|펑리수",
+      "country": "대만",
+      "name": "펑리수",
+      "aliases": [
+        "펑리수",
+        "Pineapple cake",
+        "Fengli su",
+        "peongrisu"
+      ],
+      "latinAliases": [
+        "Pineapple cake",
+        "Fengli su",
+        "peongrisu"
+      ]
+    },
+    {
+      "id": "TW|버블티",
+      "country": "대만",
+      "name": "버블티",
+      "aliases": [
+        "버블티",
+        "Bubble tea",
+        "Boba tea",
+        "beobeulti"
+      ],
+      "latinAliases": [
+        "Bubble tea",
+        "Boba tea",
+        "beobeulti"
+      ]
+    },
+    {
+      "id": "TW|굴전",
+      "country": "대만",
+      "name": "굴전",
+      "aliases": [
+        "굴전",
+        "Oyster omelette",
+        "Oyster pancake",
+        "guljeon",
+        "daeman guljeon"
+      ],
+      "latinAliases": [
+        "Oyster omelette",
+        "Oyster pancake",
+        "guljeon",
+        "daeman guljeon"
+      ]
+    },
+    {
+      "id": "KR|user:1791947068296-azpqs",
+      "country": "대한민국",
+      "name": "부대찌개",
+      "aliases": [
+        "부대찌개",
+        "Budae jjigae",
+        "Army stew",
+        "budaejjigae"
+      ],
+      "latinAliases": [
+        "Budae jjigae",
+        "Army stew",
+        "budaejjigae"
+      ]
+    }
+  ]
+}
