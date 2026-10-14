@@ -1,0 +1,267 @@
+[
+  {
+    "id": "KR|전",
+    "newName": "전",
+    "title": "전",
+    "status": "done",
+    "category": "튀김·간식",
+    "aliases": [
+      "전",
+      "전유어",
+      "부침개",
+      "Jeon",
+      "Korean pancake",
+      "Korean jeon"
+    ],
+    "description": "전은 생선, 고기, 채소 같은 재료에 밀가루와 달걀물을 입혀 기름에 지져 먹는 한국 음식입니다. 굴전, 호박전, 버섯전, 동태전처럼 재료에 따라 여러 종류가 있으며 명절 음식, 반찬, 간식, 안주로 두루 즐깁니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "KR|떡",
+    "newName": "떡",
+    "title": "떡",
+    "status": "done",
+    "category": "떡·간식",
+    "aliases": [
+      "떡",
+      "시루떡",
+      "인절미",
+      "송편",
+      "Tteok",
+      "Korean rice cake"
+    ],
+    "description": "떡은 쌀이나 찹쌀가루를 찌거나 치대어 만드는 한국의 전통 음식입니다. 송편, 인절미, 시루떡, 가래떡처럼 모양과 재료가 다양하고, 명절이나 잔치, 간식으로 많이 먹습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "IN|달",
+    "newName": "달 커리",
+    "title": "달 커리",
+    "status": "candidate",
+    "category": "콩·유제품",
+    "aliases": [
+      "달 커리",
+      "달",
+      "Dal",
+      "Daal",
+      "Dal curry",
+      "Dal tadka",
+      "Indian lentil curry"
+    ],
+    "description": "달 커리는 렌틸콩이나 여러 콩을 푹 끓여 향신료와 함께 먹는 인도의 대표적인 콩 요리입니다. 밥이나 난과 곁들여 먹으며 지역에 따라 묽은 수프처럼 만들기도 하고 걸쭉한 커리처럼 만들기도 합니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "IN|차이",
+    "newName": "마살라 차이",
+    "title": "마살라 차이",
+    "status": "candidate",
+    "category": "음료·소스",
+    "aliases": [
+      "마살라 차이",
+      "차이",
+      "Chai",
+      "Masala chai",
+      "Indian chai",
+      "Spiced milk tea"
+    ],
+    "description": "마살라 차이는 홍차에 우유와 설탕, 생강, 카다멈, 계피 같은 향신료를 넣어 끓이는 인도의 차 음료입니다. 집이나 거리의 작은 가게에서 자주 마시며, 인도 음식문화에서 중요한 음료입니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "AU|램 요리",
+    "newName": "양고기 구이",
+    "title": "양고기 구이",
+    "status": "candidate",
+    "category": "고기요리",
+    "aliases": [
+      "양고기 구이",
+      "램 요리",
+      "Australian lamb",
+      "Lamb roast",
+      "Grilled lamb",
+      "Roast lamb"
+    ],
+    "description": "호주에서는 양고기를 구이, 로스트, 바비큐 등 여러 방식으로 즐깁니다. 특히 양고기 구이는 호주의 목축 문화와 잘 어울리는 대표적인 고기 음식으로, 감자나 채소와 함께 먹는 경우가 많습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "CA|메이플 시럽",
+    "newName": "메이플 시럽",
+    "title": "메이플 시럽",
+    "status": "done",
+    "category": "음료·소스",
+    "aliases": [
+      "메이플 시럽",
+      "Maple syrup",
+      "Canadian maple syrup",
+      "Maple taffy",
+      "Maple syrup pancakes"
+    ],
+    "description": "메이플 시럽은 단풍나무 수액을 졸여 만드는 캐나다의 대표적인 감미료입니다. 팬케이크와 와플에 뿌려 먹거나 과자와 디저트에 넣으며, 눈 위에 부어 굳혀 먹는 메이플 태피처럼 다양한 음식문화로 이어집니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "CA|연어 요리",
+    "newName": "훈제 연어",
+    "title": "훈제 연어",
+    "status": "candidate",
+    "category": "생선·해산물",
+    "aliases": [
+      "훈제 연어",
+      "연어 요리",
+      "Canadian salmon",
+      "Smoked salmon",
+      "Grilled salmon",
+      "Salmon dish"
+    ],
+    "description": "캐나다에서는 태평양과 대서양의 연어를 훈제하거나 굽고, 샐러드나 베이글에 곁들이는 등 여러 방식으로 먹습니다. 훈제 연어는 연어의 향과 풍미를 살린 대표적인 캐나다식 연어 음식으로 볼 수 있습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "MN|수테차",
+    "newName": "수테차",
+    "title": "수테차",
+    "status": "candidate",
+    "category": "음료·소스",
+    "aliases": [
+      "수테차",
+      "Suutei tsai",
+      "Mongolian milk tea",
+      "Süütei tsai"
+    ],
+    "description": "수테차는 차에 우유와 소금을 넣어 끓이는 몽골의 전통 음료입니다. 유목 생활과 관련이 깊고, 빵이나 고기 음식과 함께 마시며 추운 날 몸을 따뜻하게 해 주는 일상적인 음료입니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "SA|대추야자",
+    "newName": "대추야자",
+    "title": "대추야자",
+    "status": "candidate",
+    "category": "디저트·과자",
+    "aliases": [
+      "대추야자",
+      "Dates",
+      "Saudi dates",
+      "Tamr",
+      "Khajoor"
+    ],
+    "description": "대추야자는 사우디아라비아와 중동 지역에서 오래전부터 즐겨 먹어 온 열매입니다. 그냥 먹거나 디저트에 넣고, 아랍식 커피와 함께 손님을 맞이할 때 내는 대표적인 음식문화로도 잘 알려져 있습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "SA|아랍식 커피",
+    "newName": "아랍식 커피",
+    "title": "아랍식 커피",
+    "status": "candidate",
+    "category": "음료·소스",
+    "aliases": [
+      "아랍식 커피",
+      "Arabic coffee",
+      "Qahwa",
+      "Saudi coffee",
+      "Gahwa"
+    ],
+    "description": "아랍식 커피는 연하게 볶은 커피에 카다멈 같은 향신료를 넣어 끓이는 사우디아라비아와 아라비아 지역의 전통 음료입니다. 보통 작은 잔에 따르고 대추야자와 함께 대접합니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "BE|홍합요리",
+    "newName": "홍합과 감자튀김",
+    "title": "물 프리트",
+    "status": "candidate",
+    "category": "생선·해산물",
+    "aliases": [
+      "홍합과 감자튀김",
+      "홍합요리",
+      "물 프리트",
+      "Moules-frites",
+      "Mussels and fries",
+      "Mosselen-friet"
+    ],
+    "description": "홍합과 감자튀김은 벨기에에서 널리 즐기는 대표 음식입니다. 냄비에 익힌 홍합을 감자튀김과 함께 먹으며, 화이트와인이나 채소를 넣어 향을 내는 등 식당과 가정마다 조리법이 조금씩 다릅니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "BD|힐사 생선요리",
+    "newName": "힐사 생선 카레",
+    "title": "힐사 생선 카레",
+    "status": "candidate",
+    "category": "생선·해산물",
+    "aliases": [
+      "힐사 생선 카레",
+      "힐사 생선요리",
+      "Ilish curry",
+      "Hilsa fish curry",
+      "Shorshe ilish",
+      "Ilish fish"
+    ],
+    "description": "힐사 생선 카레는 방글라데시에서 사랑받는 힐사 생선을 향신료나 겨자 소스와 함께 조리하는 음식입니다. 힐사는 방글라데시 음식문화에서 매우 중요한 생선이며, 밥과 함께 먹는 경우가 많습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "BD|달",
+    "newName": "달 커리",
+    "title": "달 커리",
+    "status": "candidate",
+    "category": "콩·유제품",
+    "aliases": [
+      "달 커리",
+      "달",
+      "Dal",
+      "Daal",
+      "Bangladeshi dal",
+      "Lentil curry"
+    ],
+    "description": "방글라데시의 달 커리는 렌틸콩이나 여러 콩을 끓여 만든 부드러운 콩 요리입니다. 밥과 함께 먹는 기본 음식 중 하나이며, 마늘, 양파, 고추, 향신료를 넣어 지역과 가정마다 다른 맛을 냅니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "PG|코코넛 생선요리",
+    "newName": "코코넛 생선 카레",
+    "title": "코코넛 생선 카레",
+    "status": "candidate",
+    "category": "생선·해산물",
+    "aliases": [
+      "코코넛 생선 카레",
+      "코코넛 생선요리",
+      "Coconut fish curry",
+      "Coconut fish",
+      "Papua New Guinea coconut fish"
+    ],
+    "description": "코코넛 생선 카레는 파푸아뉴기니와 태평양 섬 지역에서 흔한 코코넛 밀크와 생선을 활용한 음식입니다. 바닷가 지역에서는 생선, 코코넛, 뿌리채소를 함께 조리해 든든한 한 끼로 먹습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "WS|우무 요리",
+    "newName": "우무",
+    "title": "우무",
+    "status": "candidate",
+    "category": "고기요리",
+    "aliases": [
+      "우무",
+      "우무 요리",
+      "Umu",
+      "Samoan umu",
+      "Samoan earth oven"
+    ],
+    "description": "우무는 사모아에서 돌을 달궈 땅속이나 야외 화덕에서 음식을 익히는 전통 조리 방식입니다. 타로, 빵나무열매, 생선, 돼지고기, 팔루사미 같은 음식을 함께 익혀 가족과 나누어 먹습니다.",
+    "result": "대표이름 점검 완료"
+  },
+  {
+    "id": "TW|버블티",
+    "newName": "버블티",
+    "title": "버블티",
+    "status": "done",
+    "category": "음료·소스",
+    "aliases": [
+      "버블티",
+      "버블 밀크티",
+      "Bubble tea",
+      "Boba tea",
+      "Pearl milk tea"
+    ],
+    "description": "버블티는 대만에서 시작된 차 음료로, 홍차나 우롱차에 우유와 단맛을 더하고 타피오카 펄을 넣어 마십니다. 밀크티뿐 아니라 과일차, 흑당, 젤리 토핑 등 여러 형태로 발전해 세계 여러 나라에서 사랑받고 있습니다.",
+    "result": "대표이름 점검 완료"
+  }
+]

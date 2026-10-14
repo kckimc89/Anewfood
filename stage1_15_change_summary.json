@@ -1,0 +1,11 @@
+{
+  "version": "V2 Stage 1.15",
+  "base": "Stage 1.14 results + Stage 1.10 screen preserved",
+  "changes": [
+    "country live search while typing",
+    "clear country search after selecting a country",
+    "representative name review suggestions visible",
+    "purple candidate manual card promotion guidance retained"
+  ],
+  "keep_screen": "home/country/food/search parent layout preserved"
+}
